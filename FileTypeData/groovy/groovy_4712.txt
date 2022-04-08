@@ -1,0 +1,1 @@
+ package com.3FFGK class GL9 { static void main(args) { print("CFQOP2XAM") } } 

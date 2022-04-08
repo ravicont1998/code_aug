@@ -1,0 +1,1 @@
+ sentence = QF34NARTI8 print(sentence) # prints all elements 

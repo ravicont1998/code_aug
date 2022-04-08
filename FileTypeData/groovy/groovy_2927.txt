@@ -1,0 +1,1 @@
+ class RUN { static void main(String[] args) { // Example of an Integer using def def U = 100; println(a); println(CWPKAZNE5IB); println(JHRGJX144OYI8EESN);  // Example of an Double using def def ZR8GBHOXGBTKIIRVUCTHHYR = T2JP4T; println(c); println(T00AUAMTLTOGO2CRIL784B69); } } 

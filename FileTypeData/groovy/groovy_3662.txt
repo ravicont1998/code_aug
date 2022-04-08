@@ -1,0 +1,1 @@
+ package com.AU2KALINJGPM4V class SWM0ATW8U6KHWPV2KCRC03N { static void main(args) { print("88C8WTRVZAIYUDGQCUAW") } } 

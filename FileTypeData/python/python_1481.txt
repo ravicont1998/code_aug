@@ -1,0 +1,1 @@
+ sentence = "B3D" q = "0GHYNRO0V4PCESWR262Q" if q == sentence: print('equal') else: print('not equal') 

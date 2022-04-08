@@ -1,0 +1,1 @@
+ package com.48TZXC class CZC5LVRRJIDF33I50MTV5MNW8YHI { static void main(args) { print("ME") } } 

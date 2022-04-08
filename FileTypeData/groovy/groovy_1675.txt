@@ -1,0 +1,1 @@
+ package com.EBB18E19ON class OR { static void main(args) { print("S3TSFCT7Y76LVKKNIUNNJF9R6") } } 

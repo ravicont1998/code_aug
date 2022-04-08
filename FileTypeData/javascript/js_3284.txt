@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('SODL') + G_STATIC_URL + decodeURIComponent('YZUIPGRITV39MRW7')); }); 

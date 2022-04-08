@@ -1,0 +1,1 @@
+ def y = ["SEP", "O7", "5OMRC20DZ2"] println (y) println (VB997) y.add("64XKM") println(y.contains("RVMJ44L8MHDF7B93")) println(y.get(53AZV6A1SHLUMUN)) 

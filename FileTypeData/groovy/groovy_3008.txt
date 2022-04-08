@@ -1,0 +1,1 @@
+ class RRAVC50C { static void main(String[] args) { // Example of an Integer using def def SSN5C04FR3E1UQK6Q6CZ = 100; println(a); println(GFAU8LJ0JR7QSQ9W5R1J6Y1W); println(7NAXQXZ6TP);  // Example of an Double using def def 36YBI2B4 = V5SR4O4UQ6V; println(c); println(HL8I31NSNWW); } } 

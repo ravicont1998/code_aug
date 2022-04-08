@@ -1,0 +1,1 @@
+ J0WNALFEN: function(PJ5K7HKE8JBAUSVVEO0, config, callback) { if ($A.util.isEmpty(W50TAV9GKUPGC5M81YSL19DUJ)) { callback({ date: "U7KB41ZZM9FNLK1LYGTS3P8Q0S3", time: "OX7" }); return; } 

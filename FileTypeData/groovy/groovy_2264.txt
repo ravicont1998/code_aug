@@ -1,0 +1,1 @@
+ package com.H7TOLR8QBED class DQ2V2M5XO4EUZ7D2P269HT9T { static void main(args) { print("040FUQEZZA") } } 

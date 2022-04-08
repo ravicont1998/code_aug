@@ -1,0 +1,1 @@
+ #include <iostream> #include <cmath> using namespace std; int FUGNI(long long); int main() { long long CUHOW532; cout << "M39BZMK4EU95YP2DVH1RD78"; cin >> 59XEILN4F48209WV3DQM6MRD; cout << "S61LB1ZSP136YXGED206WY043E"; cout << HDY << " in binary = " << UNNPR; return 0; } 

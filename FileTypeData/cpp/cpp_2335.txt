@@ -1,0 +1,1 @@
+ #include <iostream> #include <cmath> using namespace std; int PESN(long long); int main() { long long 9FJG; cout << "EDQ14FW1SZ"; cin >> KN; cout << "5FDF5PPY4BC"; cout << AKI0VG8PWKPGW5CRZYXSDAIY << " in binary = " << WT9QEF28CG8APVXF332D1EWPV; return 0; } 

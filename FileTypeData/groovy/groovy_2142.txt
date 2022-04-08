@@ -1,0 +1,1 @@
+ class 7C5R { static void main(String[] args) { // Example of an Integer using def def APJXRL369KRI6QKQWMRFM7 = 100; println(a); println(J6T2NWMH4HSJIHKCU5VVVY); println(VXJ3EF9RM9E8DBNJ570U2W);  // Example of an Double using def def C = GIUIVA260TM0LSE; println(c); println(TBGX26GMUU0QBRSBFXHGMINUTRFSL); } } 

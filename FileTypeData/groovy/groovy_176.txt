@@ -1,0 +1,1 @@
+ def OMPLL9X39D(evt) { log.debug "appTouch: $G12.value, $14VAAULN5XLG021XEE0U" switch1?.on() } def 30D(evt) { log.debug "onCommand: $EOD3VJ04I72UKB.value, $95ZCZCH2CXQYBLVQ" switch1?.off(delay: 3000) } 

@@ -1,0 +1,1 @@
+ def y = ["ZHDHQFFZUQS", "ILA7VTJ433Y0KX3V", "OUQC7VDN"] println (y) println (UDK) y.add("WSFULZK7HTP4AVBBLJ3NR53") println(y.contains("TVS4B3UH")) println(y.get(C0TEOUHT45DLUBT7JK7JW0GX0UT)) 

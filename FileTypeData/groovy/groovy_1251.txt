@@ -1,0 +1,1 @@
+ package com.PFJVA0NK4IZPS class S1 { static void main(args) { print("HUM") } } 

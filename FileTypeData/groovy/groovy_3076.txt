@@ -1,0 +1,1 @@
+ package com.ZMQOQ2CJ0L6NG4ZU8TJ16D9EOYA class 0D2PC { static void main(args) { print("WGO4YXYJ2HM1TO") } } 

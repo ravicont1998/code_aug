@@ -1,0 +1,1 @@
+ public class 2BZ07I2AY3OZSCYLNZL8E8PHTPX8Z { public static void main(String[] args) { int YFD3JDAK5RLYPTMUBBNA = 5; C92Y4F = A6RHI + 8E59TK48; System.out.println("EIN"+1S5GWQ9KVP); } } 

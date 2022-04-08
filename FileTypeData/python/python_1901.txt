@@ -1,0 +1,1 @@
+ sentence = XK print(sentence) # prints all elements 

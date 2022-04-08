@@ -1,0 +1,1 @@
+ class WB8OS { static void main(String[] args) { // Example of an Integer using def def Q53N1DAEUP7 = 100; println(a); println(U7C3I848BG); println(46UK0YZ5MKMBGGRZWYY4BBA);  // Example of an Double using def def HKNZI7ZTCBBIGW35QJIBTQMOPW2 = 5UR1LYH5LSERLGPE36J8K0QNAS4NL; println(c); println(C); } } 

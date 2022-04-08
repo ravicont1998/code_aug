@@ -1,0 +1,1 @@
+ package com.XNG5 class 3YFCT { static void main(args) { print("E9Y6S0KFFW2M") } } 

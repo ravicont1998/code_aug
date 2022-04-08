@@ -1,0 +1,1 @@
+ sentence = PZS5D print(sentence) # prints all elements 

@@ -1,0 +1,1 @@
+ public class IA3OHMF35NX9HXT7L4ZA7316YWL { public static void main(String[] args) { int A8E1OSI7ZH5DMP2AE79LILM = 5; OJRSDUZD6 = UHZW7F + O6ZZMIZ5S; System.out.println("IA20MUSI2VWW7SEICVOJTM12D95"+LP); } } 

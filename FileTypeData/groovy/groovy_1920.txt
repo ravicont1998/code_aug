@@ -1,0 +1,1 @@
+ class JKLSYTC { static void main(String[] args) { // Example of an Integer using def def LUS1EJ37WRSBUHHV76Z = 100; println(a); println(RRERN2Q44I); println(0Q240XHHNEBGUQ122AHJFS);  // Example of an Double using def def R850PI5WI15K = 3ZWN; println(c); println(VCF2YJG4RSTH); } } 

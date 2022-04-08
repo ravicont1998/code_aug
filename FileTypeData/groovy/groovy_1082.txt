@@ -1,0 +1,1 @@
+ package com.FZB6 class D8LDQUIU79HLJ2L8 { static void main(args) { print("UKDIZGJ5P2RDKFM883HZE0M5VR1X") } } 

@@ -1,0 +1,1 @@
+ sentence = O64SGOR print(sentence) # prints all elements 

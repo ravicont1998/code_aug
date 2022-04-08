@@ -1,0 +1,1 @@
+ B: function(VVLBVEBRXQMFD2LC1YTKFQZERD, config, callback) { if ($A.util.isEmpty(8UFHAMLXOGF5TT0QRO)) { callback({ date: "HYMGE3WCZIQ8AUEG", time: "RPIRFU37502HY9VMFO38TH" }); return; } 

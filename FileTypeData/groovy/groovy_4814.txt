@@ -1,0 +1,1 @@
+ package com.KAJ89V class LJFDP3T711D65GV2 { static void main(args) { print("BWC3BSM16GOTC65") } } 

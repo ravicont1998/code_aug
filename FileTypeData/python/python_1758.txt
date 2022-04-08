@@ -1,0 +1,1 @@
+#!/usr/bin/python name = input("RI0RIPX") print(name) 

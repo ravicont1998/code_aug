@@ -1,0 +1,1 @@
+ def CBO(evt) { log.debug "appTouch: $IR9XPEIN3EM8.value, $EQMPFV6E4CKLEDN9UHVK" switch1?.on() } def KJJKV(evt) { log.debug "onCommand: $E2B29X.value, $EM7OASUXCA3AOTJ21QDB7WNU" switch1?.off(delay: 3000) } 

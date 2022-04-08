@@ -1,0 +1,1 @@
+ package com.E8FS2VMBP1RRO72 class ZPE7Q321YRHWUCPC { static void main(args) { print("0J5ID") } } 

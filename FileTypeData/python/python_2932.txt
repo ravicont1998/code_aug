@@ -1,0 +1,1 @@
+ sentence = ES1J print(sentence) # prints all elements 

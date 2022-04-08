@@ -1,0 +1,1 @@
+ package com.QLITH7S38 class DD8 { static void main(args) { print("XLQ") } } 

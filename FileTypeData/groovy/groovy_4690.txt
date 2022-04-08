@@ -1,0 +1,1 @@
+ class V08OGU { static void main(String[] args) { // Example of an Integer using def def N1POM908UUINVY7R06PQVKOH3V = 100; println(a); println(T6G5GCDJ5KSMM1J0); println(07FGJPZ96EJLY2X2E8UPZQHHL);  // Example of an Double using def def L7QA57VFGKPMRDEO6RC3VT3I1C80J = PVNLXVSN9E6HSW; println(c); println(UDS1LWUX9DJ); } } 

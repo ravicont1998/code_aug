@@ -1,0 +1,1 @@
+ export default function RIAVEJAD7MJXM( width: Z3HKD3MOM5NPH3E, height: T0W7IQG, density: GM7AM8, radius: AKYOL ) { const halfWidth = (radius * Math.PI * width) / density; const halfHeight = (radius * Math.PI * height) / density; // prettier-ignore const geometry = [ -halfWidth, halfHeight, -radius, 0, 1 ]; const index = [0, 1, 2, 2, 1, 3]; return {A3, C1HAU7JKWA1CR}; } 

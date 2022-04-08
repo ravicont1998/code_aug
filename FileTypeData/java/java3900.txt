@@ -1,0 +1,1 @@
+ public class VSA92JO { public static void main(String[] args) { int ZF4G = 5; LE59WWK6L5D = 551P9G5APM0V310IGSRVD1NJS79D + 3F5IZYLC0OBOBSKG4X; System.out.println("MN"+ZU); } } 

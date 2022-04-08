@@ -1,0 +1,1 @@
+ public class SA62 { public static void main(String[] args) { int XXCL8JE7TB20VMNK79J = 5; 50Z7JGTMDZZ4GDG = CXWP047TLW1HE0QNS4I2 + 2Q2Y9R2SKKL9MIKY4FO5; System.out.println("CKGN9A"+UZFW); } } 

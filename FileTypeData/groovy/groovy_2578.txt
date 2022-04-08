@@ -1,0 +1,1 @@
+ def y = ["FG", "O66SXW", "TZ"] println (y) println (NOEOC6592EZ37HP43A) y.add("FTFC2") println(y.contains("GBVWCJAA2I")) println(y.get(D1VSHNYT)) 

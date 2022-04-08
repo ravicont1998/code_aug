@@ -1,0 +1,1 @@
+ package com.0B class 3KLQV0E8EV3CW9Z { static void main(args) { print("U") } } 

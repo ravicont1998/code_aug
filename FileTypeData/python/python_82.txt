@@ -1,0 +1,1 @@
+ sentence = Z print(sentence) # prints all elements 

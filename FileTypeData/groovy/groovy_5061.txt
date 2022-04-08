@@ -1,0 +1,1 @@
+ package com.XOTIA class HOKMIO2VTU3FIEJ4IWWZ9RA { static void main(args) { print("EGE21XAQWM4O1Z5EOOTFCZ1D") } } 

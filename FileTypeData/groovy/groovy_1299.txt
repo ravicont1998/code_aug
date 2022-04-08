@@ -1,0 +1,1 @@
+ package com.U6N23KZT2LBTBJ35TBLPWFKUA class JBTY { static void main(args) { print("6ROWB8ZSH8E") } } 

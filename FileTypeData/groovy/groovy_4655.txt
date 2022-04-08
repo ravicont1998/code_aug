@@ -1,0 +1,1 @@
+ package com.9KA6DM6AO class L { static void main(args) { print("X9PFOVK") } } 

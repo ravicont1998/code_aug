@@ -1,0 +1,1 @@
+ def XDE(evt) { log.debug "appTouch: $ZBG78WGL5XTTLD.value, $ZA19G6" switch1?.on() } def P9AH6NWJ7K(evt) { log.debug "onCommand: $0P2FENVKITEKDFT.value, $EI" switch1?.off(delay: 3000) } 

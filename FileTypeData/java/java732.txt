@@ -1,0 +1,1 @@
+ public class 586D { public static void main(String[] args) { int DLGOHWEU2W8 = 5; BOXU4F8NXN9N = X2PZQ8CZZBT2V0HG2G1 + 1A; System.out.println("T9MSKG81CT3UUDPSR"+QT7H4HKD); } } 

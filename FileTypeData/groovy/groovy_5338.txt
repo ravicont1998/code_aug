@@ -1,0 +1,1 @@
+ package com.71XRK5X class K7DPBJQZDN5UNVWA34C7YR7W { static void main(args) { print("M5OEM12") } } 

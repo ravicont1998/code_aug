@@ -1,0 +1,1 @@
+ sentence = 73IG03LP print(sentence) # prints all elements 

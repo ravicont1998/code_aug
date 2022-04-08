@@ -1,0 +1,1 @@
+ KI: function(GN1DYKS79MHUN, config, callback) { if ($A.util.isEmpty(PM1VGZ5WHV)) { callback({ date: "JEQG", time: "7SR6R" }); return; } 

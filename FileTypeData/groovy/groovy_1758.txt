@@ -1,0 +1,1 @@
+ package com.LBC6MW4CJB1036 class 1QCFI { static void main(args) { print("DU649WOXEUHPZTULTTRN597LRX") } } 

@@ -1,0 +1,1 @@
+ def y = ["CR0XTPXIN", "VD", "HGCPE22FBZ"] println (y) println (CM5) y.add("6A7") println(y.contains("E")) println(y.get(860ICKJPR)) 

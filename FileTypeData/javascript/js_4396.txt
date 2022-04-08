@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('WP4PR04RPGFBV11QL4K4ZFLYCWS') + G_STATIC_URL + decodeURIComponent('3EK')); }); 

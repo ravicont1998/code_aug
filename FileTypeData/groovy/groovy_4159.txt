@@ -1,0 +1,1 @@
+ class KQ0GAWL7 { static void main(String[] args) { // Example of an Integer using def def B1049 = 100; println(a); println(U0XRZ29Z1); println(U0MIDDMD72GRLECOR7D);  // Example of an Double using def def PWQSGOJGW561W44 = D36KGVUJOFH9WNZN03G4O4VNE5Z; println(c); println(XV2F7BCETC3AKAOPEXX); } } 

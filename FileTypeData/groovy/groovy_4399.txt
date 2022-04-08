@@ -1,0 +1,1 @@
+ def SKH5(evt) { log.debug "appTouch: $27S55EL8Z48.value, $92ITE2" switch1?.on() } def 2(evt) { log.debug "onCommand: $OINGH9.value, $JER1K87QS3HSJOYQI6JQU4DQZ" switch1?.off(delay: 3000) } 

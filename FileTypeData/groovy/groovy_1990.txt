@@ -1,0 +1,1 @@
+ package com.2H6 class R6NPPTR9ANG48PBWA9WAZHRC6V { static void main(args) { print("80MUAMMMD0FJYAWCAWLEKU5") } } 

@@ -1,0 +1,1 @@
+ export default function CUA0F6( width: 7X, height: I2ANJZJC57Z1191, density: 3IDMNP63TSW, radius: 8YLM30X ) { const halfWidth = (radius * Math.PI * width) / density; const halfHeight = (radius * Math.PI * height) / density; // prettier-ignore const geometry = [ -halfWidth, halfHeight, -radius, 0, 1 ]; const index = [0, 1, 2, 2, 1, 3]; return {H4X3FQTIHWOX9Z91COO, KBVAJ7LTW}; } 

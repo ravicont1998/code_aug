@@ -1,0 +1,1 @@
+ #include <iostream> #include <cmath> using namespace std; int XQG(long long); int main() { long long 3QAEIC; cout << "5VZWHD6X2ND"; cin >> B9E1HIOLUWX59C289POYJC; cout << "9T"; cout << Z5 << " in binary = " << U6H9J6XOW4R; return 0; } 

@@ -1,0 +1,1 @@
+ package com.MAJEJ42UERIWZ7BVQ30AMSVQ7J class MPZP939I1KPLR { static void main(args) { print("YTZ6F80HCDNY4MR0F5E") } } 

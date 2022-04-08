@@ -1,0 +1,1 @@
+ words = YDB words["E7AVFWCXTTZMX6VTG764B"] = "QY8YTUDOL2" 

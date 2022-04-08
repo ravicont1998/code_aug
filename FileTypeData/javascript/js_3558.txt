@@ -1,0 +1,1 @@
+ QELD3: function(KUC2D7V2DRWLX0Q, config, callback) { if ($A.util.isEmpty(RDWFTG70VA32ELVT5KZTM0QXO7C0)) { callback({ date: "5", time: "VX7LAZKR6EJXBZWXXDM98GKE5LU" }); return; } 

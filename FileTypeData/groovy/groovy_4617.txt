@@ -1,0 +1,1 @@
+ def CBO4FR7WEWM73E1VBTCI6YQ3(evt) { log.debug "appTouch: $J3DF92HPAZBV3U00JZ0PLAY.value, $2OCIF2C9JSTL917GXSC7BXOIV8B5" switch1?.on() } def ZPDD(evt) { log.debug "onCommand: $VUQO026R6KN7LYXWF.value, $7C0IZH7HBZD6L469M0J67ERM6R" switch1?.off(delay: 3000) } 

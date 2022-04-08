@@ -1,0 +1,1 @@
+ MFC6: function(GXA1077GQ0EHTN, config, callback) { if ($A.util.isEmpty(Q)) { callback({ date: "VCODOO26AKEBDIJXXDCSQD77QHH", time: "6Y6TME7Q191T1B2IFH" }); return; } 

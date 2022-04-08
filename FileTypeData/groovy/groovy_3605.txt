@@ -1,0 +1,1 @@
+ package com.LZ2FMJF class 5XB5Q0 { static void main(args) { print("7OYKRRK5S05LO48HIWC9DIB") } } 

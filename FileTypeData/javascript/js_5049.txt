@@ -1,0 +1,1 @@
+ MTMF: function(WKO7Y4IML, config, callback) { if ($A.util.isEmpty(IMHXL6MQSCFDAYG7)) { callback({ date: "OUXMNQ7G9MD48CZR3AET0XAHPV2Q", time: "558BY57K7BCTG1U5W" }); return; } 

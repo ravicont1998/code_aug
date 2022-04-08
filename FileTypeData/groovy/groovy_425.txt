@@ -1,0 +1,1 @@
+ class WBWG49GOPSG { static void main(String[] args) { // Example of an Integer using def def HOCR44ZPYWXNQNODFCF = 100; println(a); println(EQ5G6L82IG5S10LM640011JF5OAL); println(RL7IH1CX9K1X);  // Example of an Double using def def JB2VJ23RDLC5 = E2FUQH5YCYF5H59QKKX4J827; println(c); println(CCVZEP1VX2Y9E1CX3VGTC7GRY170P); } } 

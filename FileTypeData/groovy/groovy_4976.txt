@@ -1,0 +1,1 @@
+ def ZM(evt) { log.debug "appTouch: $5S82GQB88BQR.value, $Z" switch1?.on() } def Z72GFITGR557ZJ4UYF(evt) { log.debug "onCommand: $N2X3RUSOKCQFZ60RRNALZ.value, $1AX5IM" switch1?.off(delay: 3000) } 

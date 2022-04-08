@@ -1,0 +1,1 @@
+ class KOISWS8 { static void main(String[] args) { // Example of an Integer using def def O5PX4V4SOGOTH5UEN1MXKU1 = 100; println(a); println(QYF5HG); println(B7R4SHR8HEI21XK816SHAKZUMR);  // Example of an Double using def def P1VP36IR03QUBEA = NXYVZDODAK7I51BFY2RI68; println(c); println(LIDA13AMPYMFIERFLSBZIIOKM); } } 

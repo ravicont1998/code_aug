@@ -1,0 +1,1 @@
+ public class 1V6ZF { public static void main(String[] args) { int KS6Z1YHSR9GAQM59Y6F = 5; VVDS = 2T90WRF14282AFXUYY1GPF41KIM + TX5KGR74PPEDSV46KMN; System.out.println("R"+74F); } } 

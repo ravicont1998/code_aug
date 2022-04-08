@@ -1,0 +1,1 @@
+ package com.Y1ILP0 class 69O1CNN57WIV22ZDB8 { static void main(args) { print("0O74JZHUA7D05NG6L4H0U") } } 

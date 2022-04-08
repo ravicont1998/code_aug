@@ -1,0 +1,1 @@
+ class YQTPAE3T725SXCA6H7G49RM9X0DT { static void main(String[] args) { // Example of an Integer using def def F79QEL46DML0K5BNTTMBGT = 100; println(a); println(TYICFYO3CNXVCMWNY0DM90); println(O2APOR01);  // Example of an Double using def def SJN1MEEM3HB9U2TE589UQRMUA = OW07N9X886SAQUZKD; println(c); println(6QUIATDBVP8X7HN); } } 

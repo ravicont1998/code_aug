@@ -1,0 +1,1 @@
+ def 6EU3KTROGNQCNUUXP4W8ANKCK(evt) { log.debug "appTouch: $QAZ3BEO8QEVZQ26M.value, $VS9NAMOCD2UK0IWY5Q" switch1?.on() } def DGOIP(evt) { log.debug "onCommand: $S5GKD06F57ZCYOX793.value, $ADOHS2USH5HM9" switch1?.off(delay: 3000) } 

@@ -1,0 +1,1 @@
+ public class WNA06M8T { public static void main(String[] args) { int G9 = 5; 0YLKRIU5EMY73M4NI92UK9 = 15NNGKX3AD101CCAD7Z2CJIFBYKB + UFJXRH5N2111UFQHFIB83; System.out.println("NE8"+GPGXKGO5B); } } 

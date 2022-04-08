@@ -1,0 +1,1 @@
+ class APCJ { static void main(String[] args) { // Example of an Integer using def def Z4AKH3F1Q4H2PPOJS3 = 100; println(a); println(706A6LXOW); println(U7GYWOIBYMZKS0BJW);  // Example of an Double using def def SZWKCJN95F7E06R7UP3U = 2Z0ZO3440QSOKZSY93N; println(c); println(WDH79GSOT0U8S1X2OIVLLVD0SXU); } } 

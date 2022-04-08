@@ -1,0 +1,1 @@
+ public class 134 { public static void main(String[] args) { int OGEQS5T67C193OV7 = 5; FD4LMNA = LC2JJY2KIB + H33367MT; System.out.println("3CG"+Q7DYYFOEQBI0W); } } 

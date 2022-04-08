@@ -1,0 +1,1 @@
+ words = R words["GE68S90OXXD"] = "NLOO" 

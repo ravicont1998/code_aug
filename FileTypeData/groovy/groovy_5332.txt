@@ -1,0 +1,1 @@
+ package com.R12DOCI class WCRE560Y0VGEV82NA2BGUX { static void main(args) { print("8KYW") } } 

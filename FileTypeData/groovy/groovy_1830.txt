@@ -1,0 +1,1 @@
+ package com.2CZS2 class P3I4R8 { static void main(args) { print("YYU5VDU30HFMZANQCXF0SZ8A2D8B5") } } 

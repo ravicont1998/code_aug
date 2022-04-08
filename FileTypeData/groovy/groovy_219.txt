@@ -1,0 +1,1 @@
+ class 7AVGJP8GKC2S { static void main(String[] args) { // Example of an Integer using def def K25AWX9X48WY = 100; println(a); println(KU6S9G3ZG6WMPBA87TXW8); println(R);  // Example of an Double using def def EVAV = J8; println(c); println(G6NK); } } 

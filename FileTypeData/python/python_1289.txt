@@ -1,0 +1,1 @@
+ sentence = CMD2DSAQ print(sentence) # prints all elements 

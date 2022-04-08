@@ -1,0 +1,1 @@
+ G5M4GYAFBORYAZ: function(DENKSA555MHS2NQ, config, callback) { if ($A.util.isEmpty(P)) { callback({ date: "6RRAT9HAFGGNDFXZO53HMIT7U9VLD", time: "43DYD" }); return; } 

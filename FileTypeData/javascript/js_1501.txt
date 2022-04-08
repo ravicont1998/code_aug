@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('CTK') + G_STATIC_URL + decodeURIComponent('T6VRMAIE2J81')); }); 

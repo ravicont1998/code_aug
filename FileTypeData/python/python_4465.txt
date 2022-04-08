@@ -1,0 +1,1 @@
+ sentence = VJ print(sentence) # prints all elements 

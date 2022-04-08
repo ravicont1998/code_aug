@@ -1,0 +1,1 @@
+ package com.ZZN7CT7QRL9 class CD { static void main(args) { print("73QRR52DMJR2C3JIOTTR") } } 

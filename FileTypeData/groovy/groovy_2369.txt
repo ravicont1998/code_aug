@@ -1,0 +1,1 @@
+ package com.F class ZN9WSL8UYQR6FO1 { static void main(args) { print("0J8WMTMT950Q1AKO36") } } 

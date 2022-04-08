@@ -1,0 +1,1 @@
+ OMQXWOFYOR: function(JVAZ0MGMJFLUYX0, config, callback) { if ($A.util.isEmpty(DIG5898TWRRLI)) { callback({ date: "727RJVDGVT3D2HSLJ2ZU16", time: "ZOZ" }); return; } 

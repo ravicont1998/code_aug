@@ -1,0 +1,1 @@
+ #include <iostream> #include <cmath> using namespace std; int RDNV(long long); int main() { long long FO8DWFWW1A86B4OCXSZ7I1; cout << "JA74QFUTTI6SVW5B6JZN"; cin >> E4FOMGK5Q; cout << "U4ZMQKQX9N62ZJ8VFOSFKJ3WMD"; cout << 3WFEIGXE4PS4XSV909ITCDMXEOAO << " in binary = " << J7S8SPMG33TTAPV3JED8NE02; return 0; } 

@@ -1,0 +1,1 @@
+ class BLNF9 { static void main(String[] args) { // Example of an Integer using def def LWO6R6DRPQB = 100; println(a); println(512LNI7I4ATLSVVV066FPTR6); println(KMEL09);  // Example of an Double using def def ZFFV75NHTVNTRBSEQY7CNTQY1O = CGI20ZGDB1WU2KK4; println(c); println(TLWQ6BVRS3BVO39S0); } } 

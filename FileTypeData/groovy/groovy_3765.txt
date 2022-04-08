@@ -1,0 +1,1 @@
+ package com.7Q0 class J9QPEHAN9HDESLSTR6 { static void main(args) { print("P5NTXP3AWO") } } 

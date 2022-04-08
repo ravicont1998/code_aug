@@ -1,0 +1,1 @@
+ package com.3C class 5UWPN37MNSWC { static void main(args) { print("PO6TL4ZLMB3RUEO") } } 

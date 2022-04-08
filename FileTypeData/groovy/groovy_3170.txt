@@ -1,0 +1,1 @@
+ package com.VMBQUF9W7S class WMIA531J { static void main(args) { print("FGMM4NA06Z8NAEHU") } } 

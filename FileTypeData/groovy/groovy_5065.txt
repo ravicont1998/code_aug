@@ -1,0 +1,1 @@
+ class IIQ1A0QGELUA9P1JNBV6M4F7HLO { static void main(String[] args) { // Example of an Integer using def def 2NOVY7QE2IBNOVFHCR = 100; println(a); println(BBOC8UVSAXF1HC7S43MP9); println(Z2ENIJESYWC05);  // Example of an Double using def def ZKQ4WBA2DPWLF = O4E9CMPVBXI1OWA; println(c); println(QQ5RR); } } 

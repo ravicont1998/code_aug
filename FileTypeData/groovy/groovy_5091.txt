@@ -1,0 +1,1 @@
+ package com.0M class 67JBHJI6WG44DUYYHG8THFELL4T { static void main(args) { print("BQ") } } 

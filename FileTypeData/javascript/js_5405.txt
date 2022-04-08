@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('VSKECT') + G_STATIC_URL + decodeURIComponent('40WFY823')); }); 

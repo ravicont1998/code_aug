@@ -1,0 +1,1 @@
+ public class YD7 { public static void main(String[] args) { int UYVW2L3ZYRY17UEZYW3LQ85LVP = 5; H8DR7 = GK + FUXM5; System.out.println("Z"+QVDOH1T9A1IYYP6TJMV89DO); } } 

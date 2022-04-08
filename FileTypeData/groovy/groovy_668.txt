@@ -1,0 +1,1 @@
+ package com.1FSCRQFCNP27KX class 3A { static void main(args) { print("0EM2D8HOPL2JNNJ2LDKZ8UX2BV0VW") } } 

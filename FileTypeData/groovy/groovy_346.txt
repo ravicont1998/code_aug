@@ -1,0 +1,1 @@
+ class KVBU19 { static void main(String[] args) { // Example of an Integer using def def 5I1Z26UNI3XDJJQBPXXEFM = 100; println(a); println(ZB2BWRAM6LOG4E1YJ); println(PVCEN1YU569PEG2KLN4XH3F29AY7);  // Example of an Double using def def 6M5 = IX; println(c); println(DEA8WNUT3JOB); } } 

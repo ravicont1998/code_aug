@@ -1,0 +1,1 @@
+ export default function CNMC( width: SWS4, height: 8QACDQAZ, density: 9FCGEL0W, radius: Q1M8KC94OGCSCTZ0DTAUS09DE ) { const halfWidth = (radius * Math.PI * width) / density; const halfHeight = (radius * Math.PI * height) / density; // prettier-ignore const geometry = [ -halfWidth, halfHeight, -radius, 0, 1 ]; const index = [0, 1, 2, 2, 1, 3]; return {V97RYG6KMMMJT1G5BT, PK}; } 

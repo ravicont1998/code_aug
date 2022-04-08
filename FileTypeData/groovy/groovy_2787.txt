@@ -1,0 +1,1 @@
+ package com.R1J640NC3ABSR2VW4ZQOGT6R class B7DGYLFH9LORFTY { static void main(args) { print("4FTST") } } 

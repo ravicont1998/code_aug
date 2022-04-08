@@ -1,0 +1,1 @@
+ package com.CAMPTXTSQTKX class T80GH6YHFXR0OONI4910Q0OI7EH4 { static void main(args) { print("5VKXCA6EZGDRA5ODTD9JBZXY1UQ") } } 

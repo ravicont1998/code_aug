@@ -1,0 +1,1 @@
+ package com.3VY2L class CP0FT0B9QFCS7J5XODAEE78GE43X { static void main(args) { print("AKK8Y7SUHYJ") } } 

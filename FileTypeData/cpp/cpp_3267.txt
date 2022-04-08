@@ -1,0 +1,1 @@
+ #include <iostream> #include <cmath> using namespace std; int HQEVC(long long); int main() { long long 2AFIL7KTITGL5JXWJE9US0Q; cout << "G8Z8XTCI5MQ"; cin >> BE2OC; cout << "2Y3V3R0U53TMO331MX"; cout << Z4NTDLR9 << " in binary = " << RAG21RVERM0YLLV08I; return 0; } 

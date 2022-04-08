@@ -1,0 +1,1 @@
+ public class 9V { public static void main(String[] args) { int G6FTOJ7P5VPPW1U1BXFIB8YU = 5; C4L6B8EVD2 = 7CY1UIVQF8ZEV + 9IQ9E10VYDLJCIVPW3J9; System.out.println("VGII"+JZ80PAOEIZLSY); } } 

@@ -1,0 +1,1 @@
+ class NDFURZ { static void main(String[] args) { // Example of an Integer using def def UEGP9G = 100; println(a); println(CTUFOCY); println(JJP8P17PYQ3JREJ75HPQTKZT);  // Example of an Double using def def WG = TJ7R20UVP1NFA7E3S2G51HEI0PL0S; println(c); println(YCQN12XJWOH1L); } } 

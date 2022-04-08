@@ -1,0 +1,1 @@
+ sentence = M0HE print(sentence) # prints all elements 

@@ -1,0 +1,1 @@
+ sentence = W3GC print(sentence) # prints all elements 

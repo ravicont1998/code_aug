@@ -1,0 +1,1 @@
+ class 9DC2 { static void main(String[] args) { // Example of an Integer using def def FEDS3F6 = 100; println(a); println(BBA0W4); println(SBZG);  // Example of an Double using def def B17Q = HM0H30I5PGC3LHUYCUZHMK9DF4XE; println(c); println(YZNIS3QQ5MKFSFQA0HC); } } 

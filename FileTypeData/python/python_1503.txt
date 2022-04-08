@@ -1,0 +1,1 @@
+ sentence = UNFN70SROT print(sentence) # prints all elements 

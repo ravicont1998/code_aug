@@ -1,0 +1,1 @@
+ package com.TA46QWJ58SO7VXFXESZ class 86Y { static void main(args) { print("KDQMW37GH1D7WDLF7PZN3V6JCN") } } 

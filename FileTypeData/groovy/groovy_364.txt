@@ -1,0 +1,1 @@
+ package com.FRWQOXO9Q4JHKT6 class UR9N { static void main(args) { print("QD") } } 

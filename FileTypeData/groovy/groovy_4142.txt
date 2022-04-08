@@ -1,0 +1,1 @@
+ package com.17HB5 class JF4MGJRKDU3J8F5KVQWX8 { static void main(args) { print("A3I4YPN6") } } 

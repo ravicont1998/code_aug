@@ -1,0 +1,1 @@
+ package com.R417GT6NNE class 4MMLW { static void main(args) { print("M1CBEI0LEGVNAB0N7PMAH") } } 

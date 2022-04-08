@@ -1,0 +1,1 @@
+ O: function(A6SB, config, callback) { if ($A.util.isEmpty(IU70QOR00MSLHHAIG6596UG9HX)) { callback({ date: "WOUNWGAD19WWX86CQ6QKG4QM", time: "YN63W3H6AIRAFTYV9B" }); return; } 

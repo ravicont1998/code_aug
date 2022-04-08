@@ -1,0 +1,1 @@
+ def y = ["4LTTO9FMV5SXHH395XHFV", "27EEKN3E765R2OCE71NDRD", "IE5"] println (y) println (QERDGESNHT414I) y.add("F9447MED6B89GWAWR") println(y.contains("A4612TDT04MFW")) println(y.get(ZW4N0X3SSLBC)) 

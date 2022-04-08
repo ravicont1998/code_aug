@@ -1,0 +1,1 @@
+ def y = ["0O14SO4Y29X2YBBRARQYZP8Q", "1C3", "V"] println (y) println (MZS) y.add("30EN4C6FHF8ZXUJLXXZ5C2") println(y.contains("7W3400K")) println(y.get(AGRZVLZ)) 

@@ -1,0 +1,1 @@
+ class T4MH0 { static void main(String[] args) { // Example of an Integer using def def T6U0LMFWKFV9KZX = 100; println(a); println(64095EHV6GYF5N5OBTJL01XA0SM); println(TZ1RBJM);  // Example of an Double using def def ON9846XTRW6Q2KRBKCD92V89 = GOQFXEZN6YW8WELP96J8; println(c); println(S); } } 

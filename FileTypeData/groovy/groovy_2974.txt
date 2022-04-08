@@ -1,0 +1,1 @@
+ class PHV7526JXD { static void main(String[] args) { // Example of an Integer using def def M7A9PJO2XD5CBX04S07QUU = 100; println(a); println(GCL); println(70JN0F9B);  // Example of an Double using def def E2Q = 724Q9FWT; println(c); println(V1K9RHCVR3MNJNF9Y); } } 

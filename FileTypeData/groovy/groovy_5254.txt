@@ -1,0 +1,1 @@
+ package com.141ETD0 class Q8DU9ITH3N { static void main(args) { print("9ZWXTVCVO1IDMI6LV4PL") } } 

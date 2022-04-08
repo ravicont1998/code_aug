@@ -1,0 +1,1 @@
+ package com.RK3C9B8S8QU09NSXP6DE97TE7CFVO class Y { static void main(args) { print("9") } } 

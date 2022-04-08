@@ -1,0 +1,1 @@
+ class SOO { static void main(String[] args) { // Example of an Integer using def def 8 = 100; println(a); println(C3FJFJG7FSOJ); println(0RKRCCFDA7KHXOPD4H2EWV48G4U4Q);  // Example of an Double using def def A45Y = J2LZN9; println(c); println(A1OX4O8SVBV738T42WLVTN6VK3ZT); } } 

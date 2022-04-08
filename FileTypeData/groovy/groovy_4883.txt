@@ -1,0 +1,1 @@
+ package com.61SM68PMPW13LTXF7NL class CO4B06181ZPPQJVN { static void main(args) { print("QVK") } } 

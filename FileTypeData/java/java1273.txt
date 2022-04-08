@@ -1,0 +1,1 @@
+ public class G48SGWS1 { public static void main(String[] args) { int PNV5LHKICUNR4V69UDH = 5; RLC4OYHY79FXP7KJFFRY = 3U3KQ70O + N5KA; System.out.println("PTCNTORT0UDO31RXPT"+Y99JYRYIXLD2M9S7); } } 

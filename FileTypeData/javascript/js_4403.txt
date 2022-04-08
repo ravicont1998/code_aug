@@ -1,0 +1,1 @@
+ export default function 6EZLER( width: NR0KV2LO5ZG0HOGV23JPF, height: 8MSKEP1V8VBUIZFLWEHX6FN7, density: G1, radius: 6CXIDZ ) { const halfWidth = (radius * Math.PI * width) / density; const halfHeight = (radius * Math.PI * height) / density; // prettier-ignore const geometry = [ -halfWidth, halfHeight, -radius, 0, 1 ]; const index = [0, 1, 2, 2, 1, 3]; return {ZY, WJO}; } 

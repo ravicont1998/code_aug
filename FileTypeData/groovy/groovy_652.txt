@@ -1,0 +1,1 @@
+ package com.NC26S1167G4JVBL0HLWRGTRWC73L4 class KQG { static void main(args) { print("2ABGN09H5MER") } } 

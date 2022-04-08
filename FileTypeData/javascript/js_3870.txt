@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('IZ') + G_STATIC_URL + decodeURIComponent('1')); }); 

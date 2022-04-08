@@ -1,0 +1,1 @@
+ class TMIWL { static void main(String[] args) { // Example of an Integer using def def WE = 100; println(a); println(MU3VOIU79); println(R24IJ89SLDA1Q8XZPL3QHB1EL);  // Example of an Double using def def 8UK91LPIH5X5D3 = FBMG57RY5PMICZX62YOEMO68OJV; println(c); println(PARD2L3TFM6UZE3ETNM2BNOMQJQ); } } 

@@ -1,0 +1,1 @@
+ class ANL { static void main(String[] args) { // Example of an Integer using def def 0H6HUCZOMX0U3Q63TFEP2XKLY2QFF = 100; println(a); println(CHNEQ8OCCPL7YO8IE8ZDLCLX97Q0G); println(7NTJR8MBSPV7KCQRFO);  // Example of an Double using def def F21IYPV5AZMY = Q9EPXB1XWS4P8JB8FW6EJ8TN0I8; println(c); println(7B81HGV75KQ); } } 

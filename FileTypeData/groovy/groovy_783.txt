@@ -1,0 +1,1 @@
+ package com.SC7DDQIL1C8L6AU8E3 class NPES2EN0KPAQV { static void main(args) { print("BZG3JJ2MCOQ") } } 

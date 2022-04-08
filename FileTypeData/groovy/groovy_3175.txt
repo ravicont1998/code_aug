@@ -1,0 +1,1 @@
+ def OAFER(evt) { log.debug "appTouch: $7M6P7780S3PQHUT5SLBR5W0E5879F.value, $9" switch1?.on() } def 8EWWVHHYMXVZ8ZU3RF7CL13K00YL(evt) { log.debug "onCommand: $IML9L3R0PMMZA5.value, $KVUC1KUONM43ZJDJ04WS2TGDX38" switch1?.off(delay: 3000) } 

@@ -1,0 +1,1 @@
+ public class P0A0 { public static void main(String[] args) { int OBTSAOA9MKTK5YZL = 5; DCRL82RE1KANFHTMQV1IRKQ7U = B6759C3G2P6GNF85D + ZX; System.out.println("1UPFW"+H5K); } } 

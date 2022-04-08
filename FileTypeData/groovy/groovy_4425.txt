@@ -1,0 +1,1 @@
+ def NB8E7G7440(evt) { log.debug "appTouch: $A5Y2MJ0BT1R4GN7SB.value, $COZKLUG4L7DRXYHP2XX9CYR1091I5" switch1?.on() } def 9XUT(evt) { log.debug "onCommand: $TOW65T64BL.value, $ZEJIY03YW1" switch1?.off(delay: 3000) } 

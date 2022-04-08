@@ -1,0 +1,1 @@
+ package com.ZDT88IMXX99ZOZ6PL8QKR class W { static void main(args) { print("ZCD8VD6CK1RK8HBPAG") } } 

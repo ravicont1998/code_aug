@@ -1,0 +1,1 @@
+ class SSHO { static void main(String[] args) { // Example of an Integer using def def S = 100; println(a); println(ILTJZT9S90SZL8CCF0XJZ2ZTSG); println(HHXDQTHNBD47LLD);  // Example of an Double using def def 7D = 521EU4MUACMQ7; println(c); println(XWDMEWVG3ZE6JI6NZBRV6W7N59); } } 

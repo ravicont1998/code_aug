@@ -1,0 +1,1 @@
+ def DWSEO(evt) { log.debug "appTouch: $31S5LAK.value, $HQR6VTE00MLZKQRKPQB" switch1?.on() } def 3KNHWQHRFDNCYYLXJD(evt) { log.debug "onCommand: $CBBMS8EVCMDMUBP6.value, $3JSBXS5I1E" switch1?.off(delay: 3000) } 

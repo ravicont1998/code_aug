@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('SM38ZGRI72LMP7HQ7') + G_STATIC_URL + decodeURIComponent('FX')); }); 

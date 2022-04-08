@@ -1,0 +1,1 @@
+ package com.85K class F8A5JRY7OE0 { static void main(args) { print("O66MV3VNX25VQO4TFG5BX8AYP0") } } 

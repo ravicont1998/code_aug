@@ -1,0 +1,1 @@
+ def XD541PGDSFOONHBS2(evt) { log.debug "appTouch: $B7KAIUCL3LS869ETJ68RQXLVMNUT.value, $UEH4W1NE6PJ1HVKH35UH" switch1?.on() } def 85BHMRNA(evt) { log.debug "onCommand: $RXD.value, $U8W2PLSDJJN7ATF71" switch1?.off(delay: 3000) } 

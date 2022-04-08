@@ -1,0 +1,1 @@
+ #include <iostream> #include <cmath> using namespace std; int NWGC2(long long); int main() { long long 8XFL9RKGVLHLVJZKDA9W2FRI5R0D; cout << "YEXRDMG7PG1FQASFFL7CYN"; cin >> XFGIVCH1B0I4XAG52LAHUYX3; cout << "KR"; cout << 28PWNEAMXD9A2XRWP << " in binary = " << OU5; return 0; } 

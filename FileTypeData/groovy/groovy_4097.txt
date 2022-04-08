@@ -1,0 +1,1 @@
+ package com.5QMULJH class QMOR { static void main(args) { print("91KLGUGD3Y9POS2Z") } } 

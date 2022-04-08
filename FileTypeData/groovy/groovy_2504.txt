@@ -1,0 +1,1 @@
+ package com.593 class I24MYDPM9 { static void main(args) { print("0128DLHKH4ZN6R7N47YI7IYA") } } 

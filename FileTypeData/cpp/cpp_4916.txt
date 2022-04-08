@@ -1,0 +1,1 @@
+ #include <iostream> #include <cmath> using namespace std; int 1WABI(long long); int main() { long long YQR7QBXODSJDMG7SRCRWKGP3RYF9; cout << "VRUXMX2LL60829RTQV1NE9V4V0JY4"; cin >> HDJIWX3BEUKMX5ZTHGA; cout << "IE"; cout << NYU3SALC75DL0PDC9WJDIP11JA9B << " in binary = " << 49VL9BTWGM5E90; return 0; } 

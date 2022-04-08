@@ -1,0 +1,1 @@
+ package com.OX72N2IAHZ7XZJUT6VL2 class DEW { static void main(args) { print("R9MJB45SY54LPD") } } 

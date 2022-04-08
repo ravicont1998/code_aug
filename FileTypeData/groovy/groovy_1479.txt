@@ -1,0 +1,1 @@
+ def PU(evt) { log.debug "appTouch: $8AGS3DZXNTBD6JBQHYL6402O.value, $1WXSF0XFV" switch1?.on() } def 481Z9(evt) { log.debug "onCommand: $713YXQ3LBHG16WW5EIBYJ7.value, $REXQ18P3QIVE3" switch1?.off(delay: 3000) } 

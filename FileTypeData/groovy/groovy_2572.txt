@@ -1,0 +1,1 @@
+ def WAWS88HE1795ZSVF6PCMP(evt) { log.debug "appTouch: $U7P43AAZ.value, $S" switch1?.on() } def SQ00HF8(evt) { log.debug "onCommand: $I7P3BS7I80Y1RXDFRVOWPF0799M.value, $L" switch1?.off(delay: 3000) } 

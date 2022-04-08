@@ -1,0 +1,1 @@
+ package com.I6W2CMXWOMDIUGUG10I6XY1BN class OSHRNNU { static void main(args) { print("DI0IB7VVG3X") } } 

@@ -1,0 +1,1 @@
+ def Z86M(evt) { log.debug "appTouch: $R.value, $AXGK8KQ2WTV5OP27EVK8EFSHKAT" switch1?.on() } def 2ZY65HV3OV0EVD7AQB0NVB4V2RM5(evt) { log.debug "onCommand: $8CAZE86CGQJGBKFVMIV3BD.value, $2M18" switch1?.off(delay: 3000) } 

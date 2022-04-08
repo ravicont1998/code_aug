@@ -1,0 +1,1 @@
+ package com.SPCNTXGV1LV5DDUOS66P5ZTBY5 class OPBX9XI96YA { static void main(args) { print("56RL") } } 

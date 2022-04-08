@@ -1,0 +1,1 @@
+ package com.GWP968NKA9LOADIYQJCBH class HRT7VJ5VDNNNYYTPD5K7Y2AB94 { static void main(args) { print("6TEQ") } } 

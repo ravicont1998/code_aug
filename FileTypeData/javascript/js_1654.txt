@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('OVPW') + G_STATIC_URL + decodeURIComponent('3DA0WXOM71YF5017U8DJ')); }); 

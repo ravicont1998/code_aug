@@ -1,0 +1,1 @@
+ package com.PJBE9ID123ZPY71 class P6OE55VEGFS99N2O6V1L8NN26 { static void main(args) { print("K27") } } 

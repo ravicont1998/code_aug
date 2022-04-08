@@ -1,0 +1,1 @@
+ package com.9 class W2N { static void main(args) { print("FH70NZIPQO1YR01BJWYE0RSJ7CI") } } 

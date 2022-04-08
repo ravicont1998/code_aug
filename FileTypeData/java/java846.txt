@@ -1,0 +1,1 @@
+ public class OX { public static void main(String[] args) { int Q33ULYM6W9H7IVPQZ = 5; LIWK23Y46YQI = KK429OJV6M6KGMTIJ9BS + 60LTGP6XE; System.out.println("WK0O15UQS02U1A"+5GLL67U1TWQEXGERP33JSB3GZ5FA2); } } 

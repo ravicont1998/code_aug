@@ -1,0 +1,1 @@
+ R: function(WWJ, config, callback) { if ($A.util.isEmpty(A94J)) { callback({ date: "KW9EDZNA69S5Z", time: "5YWQQSV26ERD1YIYCMPJT7B9TM" }); return; } 

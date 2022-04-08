@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('9IANS') + G_STATIC_URL + decodeURIComponent('ILSXK8OS')); }); 

@@ -1,0 +1,1 @@
+ package com.9CP2RX class 2DPQ4PH { static void main(args) { print("GIUMA0ZTAH7FTTAF") } } 

@@ -1,0 +1,1 @@
+ def ERD5L8KHQ(evt) { log.debug "appTouch: $M87JGNIWATWBDAHIZ7IJKFF1UPH.value, $U7IKR43G165AN" switch1?.on() } def NML(evt) { log.debug "onCommand: $OJ8NPK3.value, $OI4JC13Q10J384TV6GV1WM" switch1?.off(delay: 3000) } 

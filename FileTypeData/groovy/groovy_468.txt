@@ -1,0 +1,1 @@
+ package com.XNY8KOCZCH class 0 { static void main(args) { print("959WR8UTLBL") } } 

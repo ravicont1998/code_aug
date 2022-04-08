@@ -1,0 +1,1 @@
+ K6: function(8, config, callback) { if ($A.util.isEmpty(YR0JJ)) { callback({ date: "XTI2DQI9", time: "RZR32M8ZBA2K80WUXPJ11" }); return; } 

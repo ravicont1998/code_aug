@@ -1,0 +1,1 @@
+ def UE53Q19RMCXD5FV(evt) { log.debug "appTouch: $3NKAI46HT57FB36WBEF4PR.value, $CP07W1WJFMNN3NS0CH3O" switch1?.on() } def BLIMSLERZISPT4NTN0VTOUBBVPX(evt) { log.debug "onCommand: $BU73F5BGKXDW17C90TFHGWC0XQK.value, $ZC5F2DLQRX" switch1?.off(delay: 3000) } 

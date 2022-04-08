@@ -1,0 +1,1 @@
+ package com.MI2 class 2SBFX { static void main(args) { print("OJ5Q") } } 

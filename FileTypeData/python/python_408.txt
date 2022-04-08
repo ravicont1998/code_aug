@@ -1,0 +1,1 @@
+ sentence = LIP print(sentence) # prints all elements 

@@ -1,0 +1,1 @@
+ def OGBW41B(evt) { log.debug "appTouch: $SG1OJLZDXFUBTWN1WK6OBUR7D76KF.value, $OL" switch1?.on() } def SK7(evt) { log.debug "onCommand: $NMTEAP4ZXIXH3FGLLXO4UQRIRPIXS.value, $Z0RDX68SHSMZ" switch1?.off(delay: 3000) } 

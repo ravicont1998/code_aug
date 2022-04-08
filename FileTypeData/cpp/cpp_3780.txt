@@ -1,0 +1,1 @@
+ #include <iostream> using namespace std; struct Y7BNGHAGOUAVOIB0CXOPTAJXHRJ { int 9E3YG8GJDTCYC84MUMUV; float EPEJBOVH6VGKICCYB9OYSN; }; int main() { cout << "A2NBGMZLT18VPVPJBE6SOOMZJ" << endl; cout << "Enter inch: "; cin >> JWOO4APVPZEM5AP80; if(BWT11W > 12) { // extra feet int extra = sum.inch / 12; } cout << endl << V4VH3MV1J228YO2L; return 0; } 

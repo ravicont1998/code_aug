@@ -1,0 +1,1 @@
+ class Y239XF { static void main(String[] args) { // Example of an Integer using def def A8EL82TVEWIDEW6Y2R8ODEBBUG = 100; println(a); println(VCF1ZPKD09Z); println(L1I6631D3);  // Example of an Double using def def VXLPPOSJ80KXBY9DX7 = OOK7JZ2V97OV; println(c); println(UAS8); } } 

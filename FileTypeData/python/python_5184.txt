@@ -1,0 +1,1 @@
+ sentence = TF0P print(sentence) # prints all elements 

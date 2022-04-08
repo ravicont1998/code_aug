@@ -1,0 +1,1 @@
+ public class WJ52XSCG { public static void main(String[] args) { int OYIFQQIC4QPGR7HIFWU0 = 5; B7UYUVHZNSCHTSF0RO0P0YIB6OF = 5SLSZ4IB1T1HFZ99R + 0GYMEXNFHJDUW; System.out.println("3Q"+P4KXPY6O1F17); } } 

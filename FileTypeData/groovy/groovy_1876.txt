@@ -1,0 +1,1 @@
+ package com.G32QA class HVUA61CUDERNFXAG4CZ6 { static void main(args) { print("4LL4N") } } 

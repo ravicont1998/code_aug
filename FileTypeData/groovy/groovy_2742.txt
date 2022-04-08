@@ -1,0 +1,1 @@
+ def y = ["ALW0Q", "OHJADIZUROEJBDS4895FKK6NM", "J82V6A2R2KZV0JZ"] println (y) println (9X9PWSX8W2) y.add("GUJAX6S") println(y.contains("S7QW2VDXOD2LXVJWHQ9MFPM")) println(y.get(KVA)) 

@@ -1,0 +1,1 @@
+ def QL7278HP2(evt) { log.debug "appTouch: $V189SH4M89ZOB5TXZP597J3COFNI.value, $QQ4FHDYCZ1RE5Q0" switch1?.on() } def G(evt) { log.debug "onCommand: $770IBF5D2JQTXZX2P646MBWY8BX.value, $AZXZOTN3OFMA0J" switch1?.off(delay: 3000) } 

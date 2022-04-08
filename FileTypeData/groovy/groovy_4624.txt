@@ -1,0 +1,1 @@
+ class KCIESY45KFKB5MOF93MB9K9M2KSD8 { static void main(String[] args) { // Example of an Integer using def def HE49XWZK27T91YAVR7JTZ50DQA1D7 = 100; println(a); println(JT7QHHP52D3HAT4I3CTUK1MKIT7VA); println(TXOMLNKFOBQ2W0SYG747);  // Example of an Double using def def QQ = NJYD; println(c); println(6I52BHA); } } 

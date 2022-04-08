@@ -1,0 +1,1 @@
+ package com.YMZ class ROROMMH { static void main(args) { print("IZRT9G80U8P0XO2") } } 

@@ -1,0 +1,1 @@
+ package com.MJUE class CKZ2JYMR9OBH0OCX2BV7PQ60 { static void main(args) { print("4TW6W88H") } } 

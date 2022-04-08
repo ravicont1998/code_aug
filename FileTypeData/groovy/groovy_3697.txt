@@ -1,0 +1,1 @@
+ class EPOTMLSEVT7 { static void main(String[] args) { // Example of an Integer using def def FMT5 = 100; println(a); println(C6VIL5JF0); println(CFTK4I2MMKJOOD2AXVRPAMAG9CY2O);  // Example of an Double using def def HGTU = ZLKLDDJWIE42MVWRGFWXBGM; println(c); println(FZVCTPPYKMIF3KGRMXOCKFAY); } } 

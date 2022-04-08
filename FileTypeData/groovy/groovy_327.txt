@@ -1,0 +1,1 @@
+ package com.TO9HN class GVLGUFRZKIHI7AJ9949 { static void main(args) { print("2NMGDWF") } } 

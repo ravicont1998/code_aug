@@ -1,0 +1,1 @@
+ sentence = 24DFPOCSEW print(sentence) # prints all elements 

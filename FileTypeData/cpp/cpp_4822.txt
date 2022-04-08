@@ -1,0 +1,1 @@
+ #include <iostream> #include <cmath> using namespace std; int COQTOP(long long); int main() { long long RSRG1BLQXLUG2127L6Z1; cout << "2A19VOPQ4T3PW"; cin >> X; cout << "ENX5SP8XM21Y83URQVHFJ"; cout << JXOE6IK87WRUN << " in binary = " << DVDRDTWX8VXPF8L4TR79FCZFXAC; return 0; } 

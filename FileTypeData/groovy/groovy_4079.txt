@@ -1,0 +1,1 @@
+ package com.HRDHPMG7BNBY01QWA class M40EY { static void main(args) { print("FPF") } } 

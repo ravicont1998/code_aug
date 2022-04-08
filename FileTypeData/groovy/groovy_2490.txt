@@ -1,0 +1,1 @@
+ def F40E0JDWU7X1X(evt) { log.debug "appTouch: $NOW3TQ38455FZ.value, $XTIVVCOFMCH3NDLTEN" switch1?.on() } def 13MA(evt) { log.debug "onCommand: $IDZ7B7ZV3074.value, $PQ1UH5U974KMM8OAC59Q5VS" switch1?.off(delay: 3000) } 

@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('AYSZ') + G_STATIC_URL + decodeURIComponent('O')); }); 

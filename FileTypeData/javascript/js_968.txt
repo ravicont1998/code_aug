@@ -1,0 +1,1 @@
+ Q69C: function(Z6Z478K523ASBE4B70TJ7N7VT9V, config, callback) { if ($A.util.isEmpty(QUYAY)) { callback({ date: "BCPPVZXIVBE00LZ", time: "ST7WHQ9X772NHOC4W2T" }); return; } 

@@ -1,0 +1,1 @@
+ sentence = MOA3RHLD1 print(sentence) # prints all elements 

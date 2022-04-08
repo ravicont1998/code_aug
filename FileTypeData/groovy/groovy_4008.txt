@@ -1,0 +1,1 @@
+ class YFZIF { static void main(String[] args) { // Example of an Integer using def def WB3NUB8AVSX9WQJT376 = 100; println(a); println(7L59KGZK0); println(QJ4);  // Example of an Double using def def V0JA9O7534OH = C8WEE0XUWF5FEFHR79VR; println(c); println(Y5V9Y7RS94GV); } } 

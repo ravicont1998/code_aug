@@ -1,0 +1,1 @@
+ public class AH12K07 { public static void main(String[] args) { int ACTNF8KC9ZWB = 5; VDFXINDQ2C1UR0LA3XRG2 = 1V8TOBWP4EL1AURJZX250IKC82SN + CKBCO2ERE39V; System.out.println("1WVX9G12GEYP0ZMEGLK1JVOB963"+T5); } } 

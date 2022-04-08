@@ -1,0 +1,1 @@
+ class OG { static void main(String[] args) { // Example of an Integer using def def X1ZUYRWD3KN9D2MFSIAT9FX = 100; println(a); println(PLQUNM8347WF5X461QYPHIOWXQZG2); println(DR9AF1LVBIUQZSUA);  // Example of an Double using def def E4KXM = AOFVX1VTTW3B; println(c); println(JV0WE8ZCD); } } 

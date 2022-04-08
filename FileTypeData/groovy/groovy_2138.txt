@@ -1,0 +1,1 @@
+ package com.F74IOGT5KSFR7VQPQU8R2P0E class 88 { static void main(args) { print("VETC548AY8VZ8FFFIX8KYQ008V0") } } 

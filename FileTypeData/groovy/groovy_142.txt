@@ -1,0 +1,1 @@
+ package com.W7BOX1D91ZIQB2TKYG6C7KGFE class SYP { static void main(args) { print("HHPAWYT1PVIHG6Q67") } } 

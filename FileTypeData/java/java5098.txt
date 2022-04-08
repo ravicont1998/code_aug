@@ -1,0 +1,1 @@
+ public class OOW2PW5 { public static void main(String[] args) { int PP = 5; WLBPKTG9K6XTNOWO7SEN6QA17G69Z = O753XWCI3XIYD2 + 0S3PQSUB89W433RL3DIH1PTERLX; System.out.println("RBEPTWCF"+MHWGHWY6Y9IEY7T75YO0SU); } } 

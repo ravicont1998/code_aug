@@ -1,0 +1,1 @@
+ public class XIJ { public static void main(String[] args) { int QCLWF0XPNV7N5YPFGNU = 5; W8UN2P = N9CYLP50VVG + QXE8ILAHNOI6W62VPDP2LR0EMRC; System.out.println("6R9AKJQQ8IBVZZ"+NS); } } 

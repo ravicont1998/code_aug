@@ -1,0 +1,1 @@
+ def KDAX(evt) { log.debug "appTouch: $YJ7G88XYI.value, $JVJLLZV3J09E" switch1?.on() } def TYA5S2BW(evt) { log.debug "onCommand: $Z80FV886MD2HY18ZVH3988T788Y.value, $CWTA8Q2CXH99OZGOU95TDNDHFJV0" switch1?.off(delay: 3000) } 

@@ -1,0 +1,1 @@
+ package com.CH3G class F9WXVTJVYIKN { static void main(args) { print("JOMJNE5FGN1NPUG0E7L75RZJ") } } 

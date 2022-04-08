@@ -1,0 +1,1 @@
+ def XLF(evt) { log.debug "appTouch: $F.value, $X26NMKY33LQMVO3HOIQTQT8FL5JW5" switch1?.on() } def P19Z4GWTE6D9UF4GBN4OPU0VUSD4(evt) { log.debug "onCommand: $LL948.value, $S5P3A6VBV275KX3VLAC4" switch1?.off(delay: 3000) } 

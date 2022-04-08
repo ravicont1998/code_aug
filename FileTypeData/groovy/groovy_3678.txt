@@ -1,0 +1,1 @@
+ package com.ZU6 class ODN1A38L5C3ZF1RSTMRYHDZ1P24 { static void main(args) { print("01G") } } 

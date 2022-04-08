@@ -1,0 +1,1 @@
+ package com.JG88 class IIUNAH6I8JX2BE78JM387QP543 { static void main(args) { print("VLAQJFVIY8S194JA46RDSZJEMO4") } } 

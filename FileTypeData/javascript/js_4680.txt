@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('E80ZIOX') + G_STATIC_URL + decodeURIComponent('TMAX')); }); 

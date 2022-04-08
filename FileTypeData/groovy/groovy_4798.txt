@@ -1,0 +1,1 @@
+ class HXO62 { static void main(String[] args) { // Example of an Integer using def def FDEAMABNT741XV0Z4Y4F3PEYGX72 = 100; println(a); println(444); println(AOAQDYUCDQWYKCICPAIWOIT8QSJN);  // Example of an Double using def def KWG9808OVHWQE6EBZ = ICBKKWJFLUE1Z5Q76MKSR1; println(c); println(DAC8O9M4HT0SV9DZR35L); } } 

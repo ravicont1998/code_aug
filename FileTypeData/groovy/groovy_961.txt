@@ -1,0 +1,1 @@
+ package com.X05Z class 45VHWSL6EOUFWVQ { static void main(args) { print("5H47I12CJJ0V7T4PRNIVDZD") } } 

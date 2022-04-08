@@ -1,0 +1,1 @@
+ public class 8V { public static void main(String[] args) { int SCAG6XG8KV8JU339NV2ZTYI1 = 5; B = MH93Y44LR2OIQC4L + AQ2WH9YZ3M7YFSBJ9N5P1YC; System.out.println("MP325L"+Q); } } 

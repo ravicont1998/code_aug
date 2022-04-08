@@ -1,0 +1,1 @@
+ def BX2(evt) { log.debug "appTouch: $USZ0G2CNZMKI9R6CJSDAVCSAJ6H.value, $CKMFC" switch1?.on() } def N98F64AX(evt) { log.debug "onCommand: $1G02LRR5A96MZHXFXI7NAVT.value, $KK6L6T2S3GZU3ZOXZ3TBMU" switch1?.off(delay: 3000) } 

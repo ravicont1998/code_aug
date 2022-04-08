@@ -1,0 +1,1 @@
+ package com.1KGYHZ class 96JS6JX23TGML { static void main(args) { print("9HNRANWWC3") } } 

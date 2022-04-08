@@ -1,0 +1,1 @@
+ class WX { static void main(String[] args) { // Example of an Integer using def def X2YMSJ = 100; println(a); println(0ZQND8OV46POI1TIGQ63); println(1UK6LR1GVL92DANIDKUVMB);  // Example of an Double using def def UEFY2SW3YWC753LMPJ5 = E2DH6VZCVBSUR9P9YKJAPDXM8; println(c); println(LR8XM4TG); } } 

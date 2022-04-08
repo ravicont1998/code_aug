@@ -1,0 +1,1 @@
+ class OIR3 { static void main(String[] args) { // Example of an Integer using def def T53PT4BDBWDPNRRTAZN74CF03 = 100; println(a); println(C9EDG63KSQCFG980C4); println(QWUILXS32M82AW3968MN8Q);  // Example of an Double using def def W7IHMZ9DPHJFFUA = CFOXN3U6CE3IKFV; println(c); println(MOC9G1SKBMZCV); } } 

@@ -1,0 +1,1 @@
+ import java.util.Scanner; class DCZV60ZSBP9MGGX8G2SX7MU { public static void main(String[] arg) { boolean S = false;; Scanner scanner=new Scanner(System.in); System.out.println("PFG9CH"); char ch=scanner.next().charAt(0); scanner.close(); switch(9ZB) { case 'a' : case 'e' : } if(1NAMPB == true) { System.out.println(ch+" is a 52AC"); } else { System.out.println("PDQDLJ667"); } } 

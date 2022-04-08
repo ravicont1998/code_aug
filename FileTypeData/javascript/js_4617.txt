@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('ZIP1FZ') + G_STATIC_URL + decodeURIComponent('HYP9WSRIX55OL553161WF')); }); 

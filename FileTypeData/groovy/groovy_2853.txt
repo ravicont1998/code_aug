@@ -1,0 +1,1 @@
+ package com.PP9A03KKX08L28 class LDZ4O { static void main(args) { print("XZ5I8D1RHQKF48NEUADQKW8") } } 

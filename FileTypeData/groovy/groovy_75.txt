@@ -1,0 +1,1 @@
+ package com.PAMEARIM0D1RLXXP6OV class ATURFODJ37MJFONLD { static void main(args) { print("SH8YFPXUALLJXYNUG") } } 

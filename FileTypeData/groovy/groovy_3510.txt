@@ -1,0 +1,1 @@
+ class WDE8 { static void main(String[] args) { // Example of an Integer using def def B49BHB531Q172S68L = 100; println(a); println(J7TH103); println(30VMZUDWC8);  // Example of an Double using def def 3RXM5KCI3RPEGIG4D7 = I9UTSQL4DGCSD5OYIOYZ0BNLF1X7C; println(c); println(3754U8T8F); } } 

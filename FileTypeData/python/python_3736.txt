@@ -1,0 +1,1 @@
+ sentence = WWTDASCR3A print(sentence) # prints all elements 

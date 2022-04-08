@@ -1,0 +1,1 @@
+ sentence = CD print(sentence) # prints all elements 

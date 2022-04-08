@@ -1,0 +1,1 @@
+ package com.SMN class W941MI3XKVZ6TBIEUFWOBOV { static void main(args) { print("9KBTQZILK7Q7NDLQTDL") } } 

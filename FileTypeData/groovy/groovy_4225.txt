@@ -1,0 +1,1 @@
+ def AVDQP(evt) { log.debug "appTouch: $0THVKPGZR4SD.value, $2P1M8" switch1?.on() } def Y0(evt) { log.debug "onCommand: $JPHSIG8R6PVV6FTXP5GV4GWCMM3O.value, $CZ0LW65" switch1?.off(delay: 3000) } 

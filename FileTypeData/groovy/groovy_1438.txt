@@ -1,0 +1,1 @@
+ def IGGI(evt) { log.debug "appTouch: $WFFTNY1C4LO2WZO95IVL73Y.value, $2" switch1?.on() } def 7A268L6BSJHGJEJJ1(evt) { log.debug "onCommand: $WFB662RI.value, $K" switch1?.off(delay: 3000) } 

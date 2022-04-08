@@ -1,0 +1,1 @@
+ def I57GH81(evt) { log.debug "appTouch: $DGHAVH4EO.value, $1WL5926YX8C5YU4GXI4XEW" switch1?.on() } def VK4F(evt) { log.debug "onCommand: $1LF3RH6UJ5ANPY5BUDYFCW4.value, $6M8ILNS6IWZIWPMCXPJRA7" switch1?.off(delay: 3000) } 

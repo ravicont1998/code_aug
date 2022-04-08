@@ -1,0 +1,1 @@
+ class DOKOZ13YLSA3BWO8NN8A { static void main(String[] args) { // Example of an Integer using def def FH = 100; println(a); println(JFF2BQ6ZEUAJEXO4FRY1O1TESDYI); println(BU6Y0EZ3HKA1K6AJTCETYKOPASR6X);  // Example of an Double using def def BJWIC0ERLA70EJG6DF5 = YVZ10Q7GGBBQ49QW5; println(c); println(G3DEVRBDGJ3W92KKR6EZ); } } 

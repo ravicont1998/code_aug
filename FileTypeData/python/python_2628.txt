@@ -1,0 +1,1 @@
+ sentence = 8PCEP8 print(sentence) # prints all elements 

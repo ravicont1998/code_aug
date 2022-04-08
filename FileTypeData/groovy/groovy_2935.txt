@@ -1,0 +1,1 @@
+ package com.MY40TBUJQHN8E0G326N89VORCUR class TEQ69N0XR { static void main(args) { print("HQ7") } } 

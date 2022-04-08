@@ -1,0 +1,1 @@
+ package com.KVDCGO78Q8L5W9YIFY4 class 8OV0GCP { static void main(args) { print("QR") } } 

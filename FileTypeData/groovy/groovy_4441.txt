@@ -1,0 +1,1 @@
+ class N15E { static void main(String[] args) { // Example of an Integer using def def R54LUWU3E1P9O = 100; println(a); println(F17DJTJDZZLP); println(JUD7FKAO1W0L6GCATX);  // Example of an Double using def def R0EHBE0BUD3673BE6CO8RU4D0JJ = QKRBOI5D7H82E2ULMYAP8P2; println(c); println(3G528RGHZCZ9BGQB7IDF); } } 

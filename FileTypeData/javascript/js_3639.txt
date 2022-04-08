@@ -1,0 +1,1 @@
+ 3MG: function(H6FRJKYWNVQBVVKLX, config, callback) { if ($A.util.isEmpty(OF)) { callback({ date: "WLFE12VSGIEJZZWYK9FOX43PGW9P7", time: "C8RJHHC40A" }); return; } 

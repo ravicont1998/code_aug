@@ -1,0 +1,1 @@
+ class ZOK { static void main(String[] args) { // Example of an Integer using def def GNFV6V1CU5BHNYV8 = 100; println(a); println(D5GB8M519R44ZFSG2Y); println(8P2K2JXAHPXCZJTL7UO1AL6522M6J);  // Example of an Double using def def R1HYRXEHOQIH2O5OBGLS3MZN = NFOLSY; println(c); println(FK); } } 

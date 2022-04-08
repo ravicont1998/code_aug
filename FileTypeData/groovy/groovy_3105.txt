@@ -1,0 +1,1 @@
+ def CQP36JHN4F72KOVOU3O2D4B5VAHB(evt) { log.debug "appTouch: $FZMX16I2NTIV0E9XC.value, $DQZGE9RCZJOCXSNZDWX8GEJ1LGNO" switch1?.on() } def JIKU(evt) { log.debug "onCommand: $OI48TXOT.value, $SQ273TPT16TA8" switch1?.off(delay: 3000) } 

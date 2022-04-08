@@ -1,0 +1,1 @@
+ sentence = W181W print(sentence) # prints all elements 

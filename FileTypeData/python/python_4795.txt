@@ -1,0 +1,1 @@
+ sentence = YHDGTXA print(sentence) # prints all elements 

@@ -1,0 +1,1 @@
+ def RHQX(evt) { log.debug "appTouch: $JF82EAVBZN7VLK4.value, $SUDBXX0RVLD74YB25" switch1?.on() } def DAQLFOHEK79J65HI23Z74GD16KU(evt) { log.debug "onCommand: $RE381F30B2W.value, $8A1FAKY2BUGECA" switch1?.off(delay: 3000) } 

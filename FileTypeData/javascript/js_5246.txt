@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('8M6X2T3UPN1AG78') + G_STATIC_URL + decodeURIComponent('6DRM')); }); 

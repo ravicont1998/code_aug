@@ -1,0 +1,1 @@
+ package com.332TQH29TSX9CLCMOB63US class 2UOTED107HUKMVG22MODBER { static void main(args) { print("B") } } 

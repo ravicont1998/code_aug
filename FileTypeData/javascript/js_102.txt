@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('GH0RBIR67MS78VVJ59') + G_STATIC_URL + decodeURIComponent('ZO4EG88MGMI4MHANRGI')); }); 

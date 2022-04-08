@@ -1,0 +1,1 @@
+ package com.R8A8MRKD8CIJ6MAXSIOC14XQD3 class WT07NVT { static void main(args) { print("34725O8TBNP3WJKYJCO6C6JR59M") } } 

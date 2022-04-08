@@ -1,0 +1,1 @@
+ class LXL { static void main(String[] args) { // Example of an Integer using def def O2VCG25DUV9LSVHWZP4ZZF = 100; println(a); println(AX2ZGW46QZ0); println(49);  // Example of an Double using def def JB9ZWI = ROHU1VU6EI; println(c); println(WG06QNADT6243); } } 

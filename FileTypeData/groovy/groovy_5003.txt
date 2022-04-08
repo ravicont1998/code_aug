@@ -1,0 +1,1 @@
+ package com.IYA class 9 { static void main(args) { print("6R8ZP78UYS6GLP1ZHXZOLBQ") } } 

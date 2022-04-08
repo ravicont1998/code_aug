@@ -1,0 +1,1 @@
+ package com.98 class M1I75RK8EYHX9CQB { static void main(args) { print("679SCMO4B3OIK") } } 

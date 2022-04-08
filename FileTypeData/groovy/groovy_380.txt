@@ -1,0 +1,1 @@
+ def y = ["USB9TO4", "P97JFU5HMRKPDKHTDUFYWFE", "DODJ9A5EOPAQS0"] println (y) println (HNLODCW2J148KPA3M2052R) y.add("FW") println(y.contains("MUKJT4RJSLLSXX2YSRJFUQ")) println(y.get(CDB)) 

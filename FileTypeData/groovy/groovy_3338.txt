@@ -1,0 +1,1 @@
+ class HX1 { static void main(String[] args) { // Example of an Integer using def def 8KDSIMYDWY = 100; println(a); println(XCVJVQLIO7A6SSN5GA); println(AVTIG39YZ781UG028V);  // Example of an Double using def def S58FYFWPH248SVR3ALF7DC9 = 1XR79QA9ROZFKNSR9; println(c); println(60I88R9YH45YLDA15); } } 

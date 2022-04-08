@@ -1,0 +1,1 @@
+ public class R { public static void main(String[] args) { int Q17FLPPR5 = 5; LHQDC0X44WYJ4TWOPX1RHLKZBT4H = I3NP9 + OP2NQR3S78GXFC4; System.out.println("AD7S65NJQJBMFEKEG8WUQK4T"+QGGXKZOXKEZ4U); } } 

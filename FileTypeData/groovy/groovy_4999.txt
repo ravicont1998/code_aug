@@ -1,0 +1,1 @@
+ package com.JXCMDM class UV07SWZF9VYSR { static void main(args) { print("ICQR784MHYPBGE5") } } 

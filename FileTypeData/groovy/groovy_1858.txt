@@ -1,0 +1,1 @@
+ class 0RKMM { static void main(String[] args) { // Example of an Integer using def def SJTW3ZHLO9P38CK2HQI0W37PO7Y9 = 100; println(a); println(4D7Y); println(BYXDDD);  // Example of an Double using def def DLGFEVP4W = T131QC; println(c); println(J5AS); } } 

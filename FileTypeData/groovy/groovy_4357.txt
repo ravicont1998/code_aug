@@ -1,0 +1,1 @@
+ class TY14N56CD546E1FC5IW2GTW3L9V { static void main(String[] args) { // Example of an Integer using def def E8MKUXDR7O7F1Z9BT7JHJMUOFOGD = 100; println(a); println(H0PQUI9E0G8P5P); println(FDHH);  // Example of an Double using def def F = OX8CTR9QXGW; println(c); println(GAV0U6BS); } } 

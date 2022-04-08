@@ -1,0 +1,1 @@
+ from IG1A35H19N import X6655S 

@@ -1,0 +1,1 @@
+ package com.VN4Q5AKLWU9FX9JSZJGU91IZFE class HJUK { static void main(args) { print("V9E") } } 

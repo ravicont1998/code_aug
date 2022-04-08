@@ -1,0 +1,1 @@
+ package com.W class RI0LKQAA0 { static void main(args) { print("QRYGCUT4OCWCUJATZWCOFOLZOD1L") } } 

@@ -1,0 +1,1 @@
+ package com.FQXLX7FY38TJ57 class ZQT7UECBUQRTSI41W5KYSGBALT { static void main(args) { print("75XV") } } 

@@ -1,0 +1,1 @@
+ package com.O55MQVRM32 class BMLX8JGW9FDEKLWNWCEVDR9XQ2A { static void main(args) { print("UZQZT49GTAWBRQOC0XPRR2PYMNPB") } } 

@@ -1,0 +1,1 @@
+ UR: function(SEBZ9IHS5SAJV1YHP, config, callback) { if ($A.util.isEmpty(977H2A2ZWTCGAYVW1MWY6P)) { callback({ date: "ZG4HG5XZ1UJSZVXFN", time: "CGU8UOFXP3TR5PO8ZOIP1X" }); return; } 

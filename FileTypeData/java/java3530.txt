@@ -1,0 +1,1 @@
+ import java.util.Scanner; class RJLXHET { public static void main(String[] arg) { boolean 0 = false;; Scanner scanner=new Scanner(System.in); System.out.println("9I4ZJH4GZ"); char ch=scanner.next().charAt(0); scanner.close(); switch(GUCTHHK7) { case 'a' : case 'e' : } if(HKZ9HGA == true) { System.out.println(ch+" is a TIKVJ5R01980OV"); } else { System.out.println("PPU"); } } 

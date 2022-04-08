@@ -1,0 +1,1 @@
+ class 22A5D9DK7CZ { static void main(String[] args) { // Example of an Integer using def def B871XSR8QQAOG3O56YB3W = 100; println(a); println(9YNAMSDZ3I1WL); println(TOQ6V5UFNK5ZZD8OOCZRRN5UP1);  // Example of an Double using def def KCEWI7ZO2 = CBXB5XG5XGDAHO2N38IM2; println(c); println(S5ROFLXNAF3EKSPQ); } } 

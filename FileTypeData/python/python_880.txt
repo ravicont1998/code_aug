@@ -1,0 +1,1 @@
+ sentence = 2H7 print(sentence) # prints all elements 

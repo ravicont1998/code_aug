@@ -1,0 +1,1 @@
+ package com.577Q class 46KD7AZ { static void main(args) { print("LRZ32ITR0P59X") } } 

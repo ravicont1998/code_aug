@@ -1,0 +1,1 @@
+ package com.UL6AVAQ35B3J6757Q6 class M { static void main(args) { print("320TRPXRE") } } 

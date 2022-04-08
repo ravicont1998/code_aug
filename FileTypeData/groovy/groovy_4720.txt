@@ -1,0 +1,1 @@
+ package com.QTHT class C { static void main(args) { print("PS6GZP89MXTXH1427LB") } } 

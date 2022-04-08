@@ -1,0 +1,1 @@
+ #include <iostream> #include <cmath> using namespace std; int LWCLVPN(long long); int main() { long long HD64PMJ94R5U4AO7G46; cout << "1VVV40IV"; cin >> X; cout << "PKTJ5P"; cout << D3YVNF20BZLH2ZJLSZL << " in binary = " << D8VROJEETDWZS9RTZ; return 0; } 

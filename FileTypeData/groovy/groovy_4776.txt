@@ -1,0 +1,1 @@
+ def KD279B3BKZ3SAJ(evt) { log.debug "appTouch: $33DWLKHI.value, $FTB3AB4BV6GMMRFIW0IVLU3V" switch1?.on() } def 54Z3(evt) { log.debug "onCommand: $PIFC.value, $PHGHXMD31TC4KA5IWM8PKKP" switch1?.off(delay: 3000) } 

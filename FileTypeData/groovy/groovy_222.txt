@@ -1,0 +1,1 @@
+ package com.124IQ9X87PWZEQQUEMBMQJIFLA8 class HW7PI27 { static void main(args) { print("Q25LA") } } 

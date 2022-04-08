@@ -1,0 +1,1 @@
+ package com.TC7 class EA9I3N { static void main(args) { print("TI") } } 

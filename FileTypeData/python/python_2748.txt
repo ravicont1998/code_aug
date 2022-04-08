@@ -1,0 +1,1 @@
+ sentence = XS print(sentence) # prints all elements 

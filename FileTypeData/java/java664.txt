@@ -1,0 +1,1 @@
+ public class H { public static void main(String[] args) { int OOBDL70IMZ9 = 5; Z = NFQQT8WYMHDY5QV94HJFWANLNF + AOUVU59XB1ONEXSCS91DA; System.out.println("DEO1L95ISMQ44BLIQY4UK7RBI6"+BC5); } } 

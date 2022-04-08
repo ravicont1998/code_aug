@@ -1,0 +1,1 @@
+ package com.0 class 3F0O8TQV29I7FRRE { static void main(args) { print("3W488S5") } } 

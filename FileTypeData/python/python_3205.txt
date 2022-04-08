@@ -1,0 +1,1 @@
+ sentence = 0ZB print(sentence) # prints all elements 

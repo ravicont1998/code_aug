@@ -1,0 +1,1 @@
+ class DAIWO { static void main(String[] args) { // Example of an Integer using def def FUJIC29UULIMU3CLB9OFOSKGC1 = 100; println(a); println(R5FVFPTGEJT2BDKDVZXA); println(17P607K37E6BM6CEMEG5WK);  // Example of an Double using def def RCWF8PHJFQI70M = ZMKREA9LNRI1XY1G8Z7062UOB6; println(c); println(5A1FWYMVQCKWRU); } } 

@@ -1,0 +1,1 @@
+ def 3XSOA63159WNASV8IZ50DLD71E(evt) { log.debug "appTouch: $USWOX40RLB12KWB46827H1PTIL.value, $E6" switch1?.on() } def NFE(evt) { log.debug "onCommand: $H.value, $TBZGQF00" switch1?.off(delay: 3000) } 

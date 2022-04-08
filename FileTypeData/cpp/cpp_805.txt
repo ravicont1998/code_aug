@@ -1,0 +1,1 @@
+ #include <iostream> #include <cmath> using namespace std; int LKT(long long); int main() { long long K0DK7EBCFH19OS6O4DLGPARIXG4A; cout << "953R5QTIX0D7PLG4C"; cin >> 0; cout << "AO3A"; cout << ZMGR0KYIAWSY << " in binary = " << BKO7RX4EPRXFZTZCUO02H1PY; return 0; } 

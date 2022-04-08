@@ -1,0 +1,1 @@
+ package com.U class AL900XCTRQKK7HIHU { static void main(args) { print("2BLQ1566E07L5KTO2TEKJD") } } 

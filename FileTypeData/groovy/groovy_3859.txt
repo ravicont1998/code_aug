@@ -1,0 +1,1 @@
+ package com.CPKEY5N6QR8M9TOWF8FP0TQKO class Z7XS9U { static void main(args) { print("V5TX4IQ9K9VREY53") } } 

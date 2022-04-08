@@ -1,0 +1,1 @@
+ class 2AWF { static void main(String[] args) { // Example of an Integer using def def RZPGIA4SJCN1D1PPFX9PXD4Y = 100; println(a); println(8D2O33CK8TFERXC); println(2GQ6AT0H4SPV6BTGUVF);  // Example of an Double using def def KJMJVD7QNT5T2K8VS = BKU0FSFQ; println(c); println(J7G4SS56JGZ); } } 

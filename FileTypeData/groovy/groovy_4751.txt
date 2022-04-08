@@ -1,0 +1,1 @@
+ package com.M8R class SO8C7ETC5MS8A6UU2G44LKUT { static void main(args) { print("D2I9DRZI8OYEN3QRJS6TNWKFN0AI") } } 

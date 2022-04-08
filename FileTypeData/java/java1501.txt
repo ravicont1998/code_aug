@@ -1,0 +1,1 @@
+ public class G2 { public static void main(String[] args) { int SWQYNMCBFDYF7320PEC = 5; V38XGDE6 = D6GWBW + BMJWP; System.out.println("MV61QJ1U"+KFO8DUWIC6DEBKQJ8OJUCWXMNR3); } } 

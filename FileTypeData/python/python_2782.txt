@@ -1,0 +1,1 @@
+ sentence = SQC0 print(sentence) # prints all elements 

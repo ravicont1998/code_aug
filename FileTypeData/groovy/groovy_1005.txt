@@ -1,0 +1,1 @@
+ package com.N0CFADA7 class 7O7N58 { static void main(args) { print("ADPVV") } } 

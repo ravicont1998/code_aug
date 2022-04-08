@@ -1,0 +1,1 @@
+ class GW { static void main(String[] args) { // Example of an Integer using def def BWQ3UNEWE42Z0BVK = 100; println(a); println(ZFZ); println(G9MR0UB4ST2DKTPPDIN7NMP);  // Example of an Double using def def 7VCZTY0FQI15Z = BAGTSUO2FDESIF; println(c); println(7GRBK1ERUJFV9VHUC7I8R6H2YPB2M); } } 

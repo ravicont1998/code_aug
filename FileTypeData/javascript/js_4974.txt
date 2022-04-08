@@ -1,0 +1,1 @@
+ PNJ7N: function(QSNUDC43EB6WB7FYAH5ZXKN0, config, callback) { if ($A.util.isEmpty(K5DSSQW3Q)) { callback({ date: "2QB2A5LU2BW", time: "L7QWGAT70ALKHSNJ3P90J3E9B" }); return; } 

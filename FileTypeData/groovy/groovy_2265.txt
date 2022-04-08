@@ -1,0 +1,1 @@
+ package com.R class 5XLAGOHUJWVT3T620JIEW0RY6K62 { static void main(args) { print("DNQJYT0WD9") } } 

@@ -1,0 +1,1 @@
+ package com.LYVIWL5XTXBG17ITJ6NMUKGIL class JS5N { static void main(args) { print("FR220LTTCL1SV0CYNX2") } } 

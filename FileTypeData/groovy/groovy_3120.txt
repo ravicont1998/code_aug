@@ -1,0 +1,1 @@
+ package com.W4RWEXXUMGHCQLKLDPRE4Z8K class WL { static void main(args) { print("ZODGNJ3MH") } } 

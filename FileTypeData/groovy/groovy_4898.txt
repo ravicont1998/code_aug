@@ -1,0 +1,1 @@
+ class R7BMV { static void main(String[] args) { // Example of an Integer using def def 6K78NTSZK6AI6 = 100; println(a); println(AWKU92TBYN3GFE); println(8Y335S2K1DC35M7);  // Example of an Double using def def V3JZ8P8STS6H6HERWYFH7IAD17YK = GDTK8LN8PX6BFF26JISRAB9LF8THA; println(c); println(YQP76BPDGTMAHOT0); } } 

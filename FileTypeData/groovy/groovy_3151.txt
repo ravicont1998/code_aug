@@ -1,0 +1,1 @@
+ package com.AHQS class 6YJG7A04L5Q { static void main(args) { print("8TIJ6PURA9EMZ97RSCW8UKVZ8") } } 

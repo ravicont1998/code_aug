@@ -1,0 +1,1 @@
+ class QTZ64V { static void main(String[] args) { // Example of an Integer using def def QQZN31MO2NZYQWQD = 100; println(a); println(F16RJRY8U64GA7DJSU50CUM8ATLG); println(6QVTNLX5SSLM3CNA7GX0A);  // Example of an Double using def def F5G4ZC35W8S9ZLBGQ7 = S8LGVIIC29O1UZ; println(c); println(CEWS3Q384MEOAPS8PRMU04WRD8P); } } 

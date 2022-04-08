@@ -1,0 +1,1 @@
+ sentence = ILLB8T print(sentence) # prints all elements 

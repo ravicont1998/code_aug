@@ -1,0 +1,1 @@
+ class ZUFNN { static void main(String[] args) { // Example of an Integer using def def XVLEN4G7NOO5KA7HMOC61LX = 100; println(a); println(DLLSRR4P3DLUIJTV); println(NDCZ0B44EGEGU);  // Example of an Double using def def XLQIG1WVKX906SWULGE8ZXG35 = Z4UEVM1QHWOFJ7OZL; println(c); println(KNSDIEAHVMKU988Z); } } 

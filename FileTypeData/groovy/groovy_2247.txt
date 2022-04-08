@@ -1,0 +1,1 @@
+ package com.8U class ITOYZBXF5CDXA0I9PKB6Q51NS { static void main(args) { print("OLVG3SLSBGWH5DLT7C8TPPV") } } 

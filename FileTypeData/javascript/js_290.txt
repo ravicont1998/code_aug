@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('WQ2INSTEX') + G_STATIC_URL + decodeURIComponent('EO4')); }); 

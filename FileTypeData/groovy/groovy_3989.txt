@@ -1,0 +1,1 @@
+ package com.U1J class 2FK { static void main(args) { print("D3JTBQ") } } 

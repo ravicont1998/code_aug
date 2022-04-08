@@ -1,0 +1,1 @@
+ package com.4FCESFO3WFX class 4NRGPU { static void main(args) { print("3F0J5YC43QQGDBRC4") } } 

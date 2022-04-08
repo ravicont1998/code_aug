@@ -1,0 +1,1 @@
+ package com.QP0SRG class NPZ2DJ4GI5R55 { static void main(args) { print("1AW8PG") } } 

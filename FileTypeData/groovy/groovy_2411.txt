@@ -1,0 +1,1 @@
+ def NF586HC(evt) { log.debug "appTouch: $492TT8HQ4Q5RUWRJBLV6BM.value, $ZPQ12S235J" switch1?.on() } def CRDTX131P(evt) { log.debug "onCommand: $PDOC3TEO3A0DNWNOLOVD7N2PQZKQ.value, $JLE19NXDGRAVYA9RPZPLHGC" switch1?.off(delay: 3000) } 

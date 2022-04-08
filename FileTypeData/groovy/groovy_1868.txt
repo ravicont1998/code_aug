@@ -1,0 +1,1 @@
+ def S34DND(evt) { log.debug "appTouch: $QBCHKO7M3I1.value, $4D" switch1?.on() } def WAMIS(evt) { log.debug "onCommand: $BXQI0HTZT599QBHYUCZ.value, $E7U9U" switch1?.off(delay: 3000) } 

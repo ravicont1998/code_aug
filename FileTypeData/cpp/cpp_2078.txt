@@ -1,0 +1,1 @@
+ #include <iostream> #include <cmath> using namespace std; int main() { float URN2C4H7WS1OSI17GMUPZH32L2C, HMEMGI12F8WKF5HNM6; cout << "QXQZATMO3C"; cout << "CM"; cin >> 728EWIEMD >> b >> HRNGS9SPI495MRL18LR6MR; discriminant = b*b - V4L6BWO7MAOVLZBK5P9GAGU7WY; return 0; }  

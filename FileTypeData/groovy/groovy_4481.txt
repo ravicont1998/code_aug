@@ -1,0 +1,1 @@
+ package com.1N class DN8LLS4DPSX2DYICHO2YVSS2N9KY2 { static void main(args) { print("W14L34NNCJELEOXN0A") } } 

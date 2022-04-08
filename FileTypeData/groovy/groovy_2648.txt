@@ -1,0 +1,1 @@
+ class MICE18E668B9X21Q2M { static void main(String[] args) { // Example of an Integer using def def QBO6MKOLF4PUMYX6V = 100; println(a); println(NGJ12H4D3); println(LOD68LL8LF33GBXN2GT1);  // Example of an Double using def def KRGA0PQ = L2JRR4I99JI5D17DQKIDJEU; println(c); println(43S3ILFBCU3680WWZ7FQLZOJCXB); } } 

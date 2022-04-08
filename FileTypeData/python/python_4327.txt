@@ -1,0 +1,1 @@
+ sentence = "46ZCW8HW4J5BQOABE43" q = "ZU2YT6YBVIU0VZSMTRL1F15" if q == sentence: print('equal') else: print('not equal') 

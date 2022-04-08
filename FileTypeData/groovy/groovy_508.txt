@@ -1,0 +1,1 @@
+ package com.LPIU2B0T class OPXN7506L30DK9SG49D2B { static void main(args) { print("311V8DM1NGO76U8RUQ") } } 

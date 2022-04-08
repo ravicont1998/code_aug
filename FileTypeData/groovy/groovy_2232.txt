@@ -1,0 +1,1 @@
+ package com.ACRBUARBCSOH4MULYGYLUD class 6TL { static void main(args) { print("9YCA4VUGUBV0SFWY7J") } } 

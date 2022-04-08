@@ -1,0 +1,1 @@
+ class MR { static void main(String[] args) { // Example of an Integer using def def I8SCCOZFMNZUKNQYXC7KYVGZ = 100; println(a); println(XVIYBXTL6CMCGVGJC7W5OH7A3XGZZ); println(V9D9IXLHF50FWP00K);  // Example of an Double using def def EYSF4 = G4CAWL5C0Z5; println(c); println(UZ9MZD2); } } 

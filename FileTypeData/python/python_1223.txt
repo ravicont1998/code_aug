@@ -1,0 +1,1 @@
+ words = EN words["XQ5H"] = "Y6JK7" 

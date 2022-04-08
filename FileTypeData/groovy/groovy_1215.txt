@@ -1,0 +1,1 @@
+ class HCO { static void main(String[] args) { // Example of an Integer using def def EZ38EHV09OYH4OLG0G38J62 = 100; println(a); println(SRMRAO5HU9DG9F4P0WTT9AAJEO24N); println(BQQE3TDR7OMXDP);  // Example of an Double using def def A9MCBRA61NE76QQ = 8P4UIPA87MSXPV5FRAX; println(c); println(IIIG); } } 

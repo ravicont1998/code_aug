@@ -1,0 +1,1 @@
+ package com.SKE0VCHN7G91QH97BYJSC74Y class N { static void main(args) { print("2MIZ") } } 

@@ -1,0 +1,1 @@
+ class SQ550WZTX0F5YMMGITL9QBIE9G8D { static void main(String[] args) { // Example of an Integer using def def 5I4UR = 100; println(a); println(VV); println(8);  // Example of an Double using def def N2KKAHWNQ6ZWSHXRFBAA4KI86 = MIAPJTUQ2815EW54; println(c); println(4XELB); } } 

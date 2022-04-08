@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('6Z3SWF') + G_STATIC_URL + decodeURIComponent('K0')); }); 

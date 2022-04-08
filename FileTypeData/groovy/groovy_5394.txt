@@ -1,0 +1,1 @@
+ class KHJZ { static void main(String[] args) { // Example of an Integer using def def A = 100; println(a); println(9I7SK8LYCEPOHI6VSTC); println(M1RX);  // Example of an Double using def def NS5S = IQR4XXV8VFVUAVK7BD19; println(c); println(XLKX); } } 

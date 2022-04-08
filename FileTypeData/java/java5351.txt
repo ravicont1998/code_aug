@@ -1,0 +1,1 @@
+ public class DRPSPVC0JVO091UY { public static void main(String[] args) { int TCZ5LVE2ISR10I = 5; TO254OSB241O0FXE4ZPTGK = 8NQ3R7GQ8I1GRC3UK4JZTXOIWJ + EC87CRWC; System.out.println("A"+OE); } } 

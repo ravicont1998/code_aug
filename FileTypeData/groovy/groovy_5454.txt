@@ -1,0 +1,1 @@
+ class JAXOGLG { static void main(String[] args) { // Example of an Integer using def def HFH3VGCR13QG46D = 100; println(a); println(2V847BYJ); println(DD97V1DKTK0QI9KAWV);  // Example of an Double using def def 8T80H2MXV7XJU4 = DKH5VRR; println(c); println(EG29DIKWAK68GSQ); } } 

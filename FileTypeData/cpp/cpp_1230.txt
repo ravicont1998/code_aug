@@ -1,0 +1,1 @@
+ #include <iostream> #include <cmath> using namespace std; int QBYYTR(long long); int main() { long long AYQA55ITQ6I85LXUI8HJALPK9CI; cout << "5EW52J"; cin >> 1B5O1SZQZPA; cout << "8VDB3ADA2B03SJSQ1B5590IVVY"; cout << I1CU << " in binary = " << EA634R0V5; return 0; } 

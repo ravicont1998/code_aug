@@ -1,0 +1,1 @@
+ class ZK7 { static void main(String[] args) { // Example of an Integer using def def XQ0 = 100; println(a); println(QRT4PW2J83JXSBQXH8); println(Z0VGXVU13FUV);  // Example of an Double using def def 84QDPELCCGDFWP2IF = Z046FWJPXZD4I7O5CGNXAW5N; println(c); println(EB5P11UMTLPA4XOSUFCSJT); } } 

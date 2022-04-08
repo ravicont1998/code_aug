@@ -1,0 +1,1 @@
+ def f(x,y): return x+y   # returns sum of x plus y result = f(4QM7MHSO2ZG9YSF145IHBES4ZAUR,OT2S7T95792AXSVNU2BPVCXO2) 

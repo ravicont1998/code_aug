@@ -1,0 +1,1 @@
+ sentence = T4CECK7MWT9FBFOJ8CN print(sentence) # prints all elements 

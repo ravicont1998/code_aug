@@ -1,0 +1,1 @@
+ package com.Z4 class NPEISMJ1VE6FOXSM9 { static void main(args) { print("1GUVFSYMCFAXXFSV9XM") } } 

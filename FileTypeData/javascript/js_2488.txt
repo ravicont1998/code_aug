@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('LT') + G_STATIC_URL + decodeURIComponent('JB42HT')); }); 

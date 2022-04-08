@@ -1,0 +1,1 @@
+ class WBXL { static void main(String[] args) { // Example of an Integer using def def QF2FEYDNQPZG8IBWA2 = 100; println(a); println(0YQH); println(EN51TLMHP40UBZYH3);  // Example of an Double using def def K5NLKHFLGEQ05FIUQ7 = 2; println(c); println(IWV6ORHNOLXYMOLVR); } } 

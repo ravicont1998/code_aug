@@ -1,0 +1,1 @@
+ class XSJT461K { static void main(String[] args) { // Example of an Integer using def def 98J3B52JM7UK3 = 100; println(a); println(Z25I3SNP8E6OB15LJQCDSBZONHJ); println(W7PHEF24351IS47LDMVFH5);  // Example of an Double using def def UQYLALJSQQ1QQFCGE = 4FUTZXWXMB; println(c); println(UP1T9F8SM); } } 

@@ -1,0 +1,1 @@
+ sentence = 8RC7 print(sentence) # prints all elements 

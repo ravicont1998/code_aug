@@ -1,0 +1,1 @@
+ class M { static void main(String[] args) { // Example of an Integer using def def 9DGRP0VPU8C6DWL9CMQTI4P = 100; println(a); println(AE73AQDK9JH36VX6GD55K); println(1XGPTO9YM5E1U3G65P3U27C9);  // Example of an Double using def def O0F2GZ = SD; println(c); println(PM); } } 

@@ -1,0 +1,1 @@
+ 6H1: function(LHT, config, callback) { if ($A.util.isEmpty(A1JOAGGQA9KE5OLYH4)) { callback({ date: "U268Z10CL7Q8Q4ZA", time: "972Q2AKFDXO8GBJYPGRBQ" }); return; } 

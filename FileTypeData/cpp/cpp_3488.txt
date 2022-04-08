@@ -1,0 +1,1 @@
+ #include <iostream> #include <cmath> using namespace std; int VOUHK(long long); int main() { long long XWVDHB7ILET3FF4VXF3E8X96FJ78; cout << "4KII24O"; cin >> 3SMIJ7IHFNNY11NRR4CPFIU21A2; cout << "QO3PHIU"; cout << FVAH03MYPKYQ5RG0VSN54CL11 << " in binary = " << P11R8; return 0; } 

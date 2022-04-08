@@ -1,0 +1,1 @@
+ #include <iostream> #include <cmath> using namespace std; int NVC(long long); int main() { long long 5CT4BFBSEC; cout << "C7A5OFH1QEATUY8O1XS66J8II2"; cin >> A85VZLACL9W6PM70J9JH3V1FF9W; cout << "3H3"; cout << N765MV2 << " in binary = " << AOZ14NHMTXIHEIQAHR4I4L5; return 0; } 

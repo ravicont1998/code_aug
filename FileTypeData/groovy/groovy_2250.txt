@@ -1,0 +1,1 @@
+ package com.8LV65GG class 1UXS1EFSRXXPDDGNY0 { static void main(args) { print("7AOBR") } } 

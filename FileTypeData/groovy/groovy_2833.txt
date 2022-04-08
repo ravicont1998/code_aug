@@ -1,0 +1,1 @@
+ def VS(evt) { log.debug "appTouch: $4765K78B9NIC.value, $35ILZ90MWRZCKPLG" switch1?.on() } def LO(evt) { log.debug "onCommand: $LS3103FS8NSYS0MUAL.value, $6L85F7NZJFM8CQ9XEVG6" switch1?.off(delay: 3000) } 

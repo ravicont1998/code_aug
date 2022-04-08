@@ -1,0 +1,1 @@
+ sentence = MIXWQU09RZ34UPM print(sentence) # prints all elements 

@@ -1,0 +1,1 @@
+ def y = ["02H4", "IP", "FKF58"] println (y) println (JE) y.add("MEI9") println(y.contains("ORC7HMR1Z9XK1CSK3SLQHK54F27")) println(y.get(RYFU7LII3ONXF3606L8U)) 

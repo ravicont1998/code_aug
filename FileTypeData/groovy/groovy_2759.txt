@@ -1,0 +1,1 @@
+ package com.7G1 class 3EXF5S { static void main(args) { print("68NHNZQ3Y") } } 

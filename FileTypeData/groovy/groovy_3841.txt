@@ -1,0 +1,1 @@
+ def CX(evt) { log.debug "appTouch: $V38ELLRXBHP.value, $LIJ5QV" switch1?.on() } def C(evt) { log.debug "onCommand: $9SV4Q.value, $V" switch1?.off(delay: 3000) } 

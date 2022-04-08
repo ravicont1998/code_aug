@@ -1,0 +1,1 @@
+ def TRZN580SCRN(evt) { log.debug "appTouch: $FFVC35I5DSJ1AZDXSUAKXVTB2156E.value, $BRBN8Y77MCGHGAJ0AMDMMUR8MJI" switch1?.on() } def AJ7X08L35J80NXE(evt) { log.debug "onCommand: $H620QOGEVVY3XQGANM.value, $0P" switch1?.off(delay: 3000) } 

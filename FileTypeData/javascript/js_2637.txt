@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('XMBS') + G_STATIC_URL + decodeURIComponent('5')); }); 

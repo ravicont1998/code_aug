@@ -1,0 +1,1 @@
+ package com.ANOYND class 8LNRN747ONHS2IV { static void main(args) { print("4DD9IVNSAM") } } 

@@ -1,0 +1,1 @@
+ class YC4TTA { static void main(String[] args) { // Example of an Integer using def def SV4 = 100; println(a); println(Z4E02JLGNAW7OSFO); println(8K4TAM1FAO771Z40);  // Example of an Double using def def DVFG8YWZQU9N = TR; println(c); println(KJQZZI6538K3B4INLPE); } } 

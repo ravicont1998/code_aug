@@ -1,0 +1,1 @@
+ sentence = JJG print(sentence) # prints all elements 

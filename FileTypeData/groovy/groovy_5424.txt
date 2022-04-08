@@ -1,0 +1,1 @@
+ package com.ZAAPAPWDBTJIG9T4BUZ4RG7 class PCZ02YCDG { static void main(args) { print("JHIYIDFVQQO76VPFUOHPCO") } } 

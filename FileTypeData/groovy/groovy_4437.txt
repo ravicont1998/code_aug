@@ -1,0 +1,1 @@
+ def 7P3JZD1OAEGKZLHCKSXYLE7QL(evt) { log.debug "appTouch: $6.value, $4YHM5H2K" switch1?.on() } def 404(evt) { log.debug "onCommand: $Y2YICT1ZYRVEH0P5BHHTNO6VRR4.value, $UBYVL5O5P5J5UIJUB" switch1?.off(delay: 3000) } 

@@ -1,0 +1,1 @@
+ sentence = S0YWP3 print(sentence) # prints all elements 

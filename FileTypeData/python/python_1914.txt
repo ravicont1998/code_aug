@@ -1,0 +1,1 @@
+ sentence = 03Q2USE3VUS2F print(sentence) # prints all elements 

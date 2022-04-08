@@ -1,0 +1,1 @@
+ def y = ["GLSUIG8CB1WGYYBPNT", "52YQDJE2WVS5T5PMRU", "RCMRBL9"] println (y) println (WZXA86MNHP4I0IAO6SV6AWPR1LC) y.add("6SA73TK9F0SAK") println(y.contains("NGI")) println(y.get(PICKF)) 

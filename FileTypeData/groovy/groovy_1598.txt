@@ -1,0 +1,1 @@
+ def NPI(evt) { log.debug "appTouch: $T75I4C7V1.value, $SXJ5K9LPTKSHQ8" switch1?.on() } def MF5KQTTRYTCWRX5DBN1AP75R(evt) { log.debug "onCommand: $U3W2I9N4.value, $Y6XY1GZFCF85ASXNDC3IT5" switch1?.off(delay: 3000) } 

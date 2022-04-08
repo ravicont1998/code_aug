@@ -1,0 +1,1 @@
+ package com.SHJUG158C class PRN3FIYP2IHG { static void main(args) { print("SEFYXR0MC1SYA4TI") } } 

@@ -1,0 +1,1 @@
+ package com.K1F3TNJC4CQBSILWRNLKDJ class ONSCR3AAT4 { static void main(args) { print("7XCQPIT3SV6") } } 

@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('GOOLM') + G_STATIC_URL + decodeURIComponent('O2KT2Z')); }); 

@@ -1,0 +1,1 @@
+ class ZTAIXQN { static void main(String[] args) { // Example of an Integer using def def N1M98E04XNR63W1D = 100; println(a); println(IN14OE4KBW0); println(HJTWDUUQRKU4XKPLGFS19C);  // Example of an Double using def def XN81EO303QPAY0RZPDB0A = 0; println(c); println(BGN6WF7JE1U59MZRCO); } } 

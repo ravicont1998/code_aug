@@ -1,0 +1,1 @@
+ sentence = 5P8O print(sentence) # prints all elements 

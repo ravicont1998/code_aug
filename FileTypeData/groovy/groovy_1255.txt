@@ -1,0 +1,1 @@
+ package com.FY6D318IB6N0HPTGLN19 class TTR5Z4A6DD8NPDC3NZDTL1KD { static void main(args) { print("NF") } } 

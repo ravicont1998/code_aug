@@ -1,0 +1,1 @@
+ package com.TDQBTVQ4QW class IAE6K { static void main(args) { print("1SFZ1NDPHBKJ839L60PEHRQ3RW3U") } } 

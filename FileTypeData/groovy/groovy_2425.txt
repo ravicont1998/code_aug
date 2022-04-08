@@ -1,0 +1,1 @@
+ class UYXAMTPIETFIG { static void main(String[] args) { // Example of an Integer using def def 9F5 = 100; println(a); println(8M1J793NSDGEW7RJ7DHM1XQOTF); println(PJOO34O18BAIFDJGNP);  // Example of an Double using def def 1OF = 5RKQTJE5030FX1OCI36GVMYJ5; println(c); println(DY5B14RQRR7QTT666ELABA68F2A0); } } 

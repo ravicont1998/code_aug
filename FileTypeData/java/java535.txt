@@ -1,0 +1,1 @@
+ public class 8DEC { public static void main(String[] args) { int LGYNHNZHQJPUO82MIW = 5; HQ4NIIIHTN6T8 = 5LIZU0 + FZ6S7I690LIK9T1EZ30BZJ8SGXJ; System.out.println("4A0E4"+HMNMR2Z2BNYHR); } } 

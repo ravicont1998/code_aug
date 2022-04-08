@@ -1,0 +1,1 @@
+ package com.P class 5QKAN59JJ01FYKT { static void main(args) { print("LC9UAV0LBHHB") } } 

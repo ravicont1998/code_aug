@@ -1,0 +1,1 @@
+ package com.O4YUMN5M2LPBTJ9LN2VHDGMXK8NB class SQ32XYLS57 { static void main(args) { print("P5WU4BMO1ZYF6NVM6MAEH") } } 

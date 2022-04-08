@@ -1,0 +1,1 @@
+ package com.MVJPM6IXRDISC075A class IZOX7CXMBOQUTMVZKQWFNWVD77YEV { static void main(args) { print("7RRKA2I17S") } } 

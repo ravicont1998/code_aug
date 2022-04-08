@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('VCA2') + G_STATIC_URL + decodeURIComponent('JQAT140S3T9GWUAK')); }); 

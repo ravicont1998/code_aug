@@ -1,0 +1,1 @@
+ package com.DU5P70Y class ZECRDOCDIR1HO2279GOU74RF5 { static void main(args) { print("6GNIA73VIIG9EVR7HC57EIE8GGTX") } } 

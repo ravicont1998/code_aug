@@ -1,0 +1,1 @@
+ package com.HGQKKM3ENN5XWMN class REUNUO5 { static void main(args) { print("6") } } 

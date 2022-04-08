@@ -1,0 +1,1 @@
+ class KNWS59 { static void main(String[] args) { // Example of an Integer using def def JOQJMVEPLIH272PUSAP15JN9QF = 100; println(a); println(ATRS0ZGY4KJX); println(TML6QW);  // Example of an Double using def def VDETUZS4SR18GIB0OO5PPE = 2DOWQZZY; println(c); println(EUZ24HIJ8ARJ8); } } 

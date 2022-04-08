@@ -1,0 +1,1 @@
+ package com.7OXD class 3PX7FKTW5ZN9C1O3MR0VC { static void main(args) { print("YBVFHIJF7H69T") } } 

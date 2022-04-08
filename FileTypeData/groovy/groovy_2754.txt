@@ -1,0 +1,1 @@
+ def U3V1SHPPSX6T8(evt) { log.debug "appTouch: $UCN9BGMXKX.value, $6WFOA3JEUNF90TQ" switch1?.on() } def DLCV(evt) { log.debug "onCommand: $77CO8TWBCQ8ME.value, $0S9K" switch1?.off(delay: 3000) } 

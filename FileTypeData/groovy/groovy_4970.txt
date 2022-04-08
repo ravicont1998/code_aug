@@ -1,0 +1,1 @@
+ class T76947GJQV5CXYG7T8T8X15N7Z { static void main(String[] args) { // Example of an Integer using def def WHI = 100; println(a); println(PWUEG8); println(Z8SY9HUN);  // Example of an Double using def def CMSI4C1T0UWDV81N7V1JSCTRLKR8 = UOB1T20WW4; println(c); println(RVBJF3N); } } 

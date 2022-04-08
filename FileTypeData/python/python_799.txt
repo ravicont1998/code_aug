@@ -1,0 +1,1 @@
+ sentence = AR9DSKWNI print(sentence) # prints all elements 

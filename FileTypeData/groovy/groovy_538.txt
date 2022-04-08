@@ -1,0 +1,1 @@
+ package com.302SGEEWY5T2Z class JX2MG89 { static void main(args) { print("OWP") } } 

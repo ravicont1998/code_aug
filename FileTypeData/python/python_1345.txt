@@ -1,0 +1,1 @@
+ sentence = 21BKVCHC5M print(sentence) # prints all elements 

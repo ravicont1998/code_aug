@@ -1,0 +1,1 @@
+ #include <iostream> #include <cmath> using namespace std; int PW6(long long); int main() { long long ULGVM81BZ31; cout << "CE0JF82SF19WG44F4GHVACHGW"; cin >> WTQMLXLD1B3QQCL88XSDL7U; cout << "SULAPNFI4YN9WQ2QIYWJGXQ0Z"; cout << YKILUBRPN5EEK1D59BG << " in binary = " << WU4FY1NTC8LJ7HI9K4QCWET5JMM67; return 0; } 

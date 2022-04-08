@@ -1,0 +1,1 @@
+ class DLCX { static void main(String[] args) { // Example of an Integer using def def CIG7F6Z = 100; println(a); println(2G6); println(PEROND5TLYZDT8HPVXFHFDMU487MU);  // Example of an Double using def def DNTPT5R5JRIXDTYYOVLUCHYWOGM2 = FQUATYCUPS2MFR5CT6M97VYZDN; println(c); println(UH717OV5D); } } 

@@ -1,0 +1,1 @@
+ package com.YWMNZ1JMEHM2AF1ML98XAE3 class Q5 { static void main(args) { print("Z8QFNXYBRTT1ESGC3O1SQYYP") } } 

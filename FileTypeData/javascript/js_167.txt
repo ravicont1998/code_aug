@@ -1,0 +1,1 @@
+ UKFODIGIZOE: function(JYDE0V7AWTVUKCQBBMUT0YCCF, config, callback) { if ($A.util.isEmpty(BMGH79YGKMTF7YHR9MMX8AE7)) { callback({ date: "IPPX5U8VQ26E", time: "W" }); return; } 

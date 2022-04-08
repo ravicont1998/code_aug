@@ -1,0 +1,1 @@
+ public class CGGO36A8L6UXBTVEIE { public static void main(String[] args) { int TC3B3G6R6ASE3X5 = 5; AU0Q0PVXSZA6GM = O21IRW2770 + U00YJ9NJS2URTJXISZK47UQDGU; System.out.println("R"+C4LDI1Z9OLB2K3ZA7); } } 

@@ -1,0 +1,1 @@
+ class T408JXLSMHNNU { static void main(String[] args) { // Example of an Integer using def def CG16NGCIEXYHD8IDE3OGKJ7I0PQ = 100; println(a); println(0YR6LC6XG7M3JXNR1OFORYE); println(WTKLT6JPWY3H3P);  // Example of an Double using def def O2WOB5RA4K0O5WNBD6S9LQ5 = YSNMG; println(c); println(LH0C60TRGKRO527V77F5LE1O); } } 

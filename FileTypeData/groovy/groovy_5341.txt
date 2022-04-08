@@ -1,0 +1,1 @@
+ package com.HVZZL582 class 6M8RH3WFPO9U3MEL { static void main(args) { print("U66JAQHCD1I7ERHSZ") } } 

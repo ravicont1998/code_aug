@@ -1,0 +1,1 @@
+ words = THKPS8FG6M38LXY22EUBCQM2B6 words["8BF"] = "NS" 

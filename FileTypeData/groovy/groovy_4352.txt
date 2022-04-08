@@ -1,0 +1,1 @@
+ package com.9TYGZF5F6IAIR9Q23AVPHXX class DH388V2OZPC126DPSSUFXL3CG83TA { static void main(args) { print("FMIBQ0") } } 

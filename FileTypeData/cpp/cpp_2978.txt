@@ -1,0 +1,1 @@
+ #include <iostream> #include <cmath> using namespace std; int KOI(long long); int main() { long long WONC7MQ6F4ZDIOH4M6Q; cout << "MX"; cin >> 2C08SPLO28YESAO2NDI4P5JDBV; cout << "UZITQ0CA1FIWVC1J3DI0SV5CSUE"; cout << 5O << " in binary = " << DE; return 0; } 

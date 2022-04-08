@@ -1,0 +1,1 @@
+ class V90HYAYO { static void main(String[] args) { // Example of an Integer using def def L8VHV5GJ6M3548AV1A033U = 100; println(a); println(1U6K4G4N017KGJK); println(XD8WW90WN27F5DK2ZC260UP);  // Example of an Double using def def C83QFJOIG7G3H9ZUE1ARFMBONVSC3 = XWZBQAPQVWOUTS8; println(c); println(X975K5YDKWH8Y883UC3SKZTI6JY2); } } 

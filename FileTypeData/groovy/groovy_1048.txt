@@ -1,0 +1,1 @@
+ def y = ["C6BS5TW", "UTT11TBJRN1J08UH", "6K45IX"] println (y) println (AJAX81) y.add("XMAWKTS7SRSJOHP") println(y.contains("ONH9RVMO0")) println(y.get(40JL682GQC7G6OI04T)) 

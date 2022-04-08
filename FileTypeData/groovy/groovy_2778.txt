@@ -1,0 +1,1 @@
+ def y = ["CNETD3HYV7XVIOFPSV9HYGF5OE65D", "8JIDZGU43J9O5QYSRLWC", "OF15VMZFAW6"] println (y) println (3Z) y.add("ISP") println(y.contains("U7K03GI18KT5J887C44B")) println(y.get(545AT0Q8P2XKL8M204)) 

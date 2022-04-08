@@ -1,0 +1,1 @@
+ package com.8 class FY4WBPGSS0AT1 { static void main(args) { print("G") } } 

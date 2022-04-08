@@ -1,0 +1,1 @@
+ package com.JTJ class 3QEOU610C0C8YTI3RALUFW { static void main(args) { print("AWY1J99QGQ") } } 

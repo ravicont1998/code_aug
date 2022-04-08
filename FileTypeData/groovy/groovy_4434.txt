@@ -1,0 +1,1 @@
+ package com.PNVX class EQQXPAY { static void main(args) { print("QIU6RV617XP") } } 

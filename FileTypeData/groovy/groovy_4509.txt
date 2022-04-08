@@ -1,0 +1,1 @@
+ def y = ["IOW1QHPEP9HKCH", "V6KV5C0CYTTE9FX1TR9", "VHMHC8JW1NSVJ6ABPO1AY"] println (y) println (A6I) y.add("6") println(y.contains("WAGTNK65QT1BEGWN84A443ANW")) println(y.get(9BUTPXAKA78NVWNI5C)) 

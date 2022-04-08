@@ -1,0 +1,1 @@
+ package com.X class 3XUIRXNBMD14X9YOZ5XU { static void main(args) { print("3UTYEH5") } } 

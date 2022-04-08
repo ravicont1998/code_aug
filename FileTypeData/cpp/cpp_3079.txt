@@ -1,0 +1,1 @@
+ #include <iostream> #include <cmath> using namespace std; int RMTY(long long); int main() { long long EZ0MKDNH03JOV93N7HF99; cout << "YW0UUK7CIJ4OT1FSXZFMA2WATL2"; cin >> FH3UNALH39OP6O6OJHWIER4; cout << "K1BTQBL73HODRZXCRHG1"; cout << 3589SC << " in binary = " << NTW0CXP11E82J1ZD4RBO8; return 0; } 

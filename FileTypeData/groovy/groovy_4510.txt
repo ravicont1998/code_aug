@@ -1,0 +1,1 @@
+ package com.K class 0DYMMGBG { static void main(args) { print("CBLZHIWMTHLFP8J50O71L") } } 

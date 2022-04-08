@@ -1,0 +1,1 @@
+ public class RBLQ4J { public static void main(String[] args) { int I4FF4OT41I853BT = 5; SZM5QGNI99RF5 = LPCMCF1KZRRJ6CP7VYN29X1TBRLFG + 8; System.out.println("4AP4VC1"+3FIN9MGGNNY5D); } } 

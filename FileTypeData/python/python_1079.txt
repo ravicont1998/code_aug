@@ -1,0 +1,1 @@
+ sentence = WXONLZ print(sentence) # prints all elements 

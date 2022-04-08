@@ -1,0 +1,1 @@
+ package com.77BZHPLYL0ZYI class MDLU1JE { static void main(args) { print("2") } } 

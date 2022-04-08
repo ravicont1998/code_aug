@@ -1,0 +1,1 @@
+ public class ROZOZOJ5DI16IUSUJF9G61E { public static void main(String[] args) { int GMURF6UDDCIFF8DQK6KQEX2I2 = 5; BQB = AVXKX + 2TZ7E973S0AERFPNTE5; System.out.println("M"+J0MR5UA5E09); } } 

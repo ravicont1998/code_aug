@@ -1,0 +1,1 @@
+ def DIRNBZ(evt) { log.debug "appTouch: $87TPX96EJ7.value, $ODMF13K2P377VYMOA0A" switch1?.on() } def E2NQM23(evt) { log.debug "onCommand: $501M83U0CHFRNQ.value, $NEWIVXGE3E2LDBW" switch1?.off(delay: 3000) } 

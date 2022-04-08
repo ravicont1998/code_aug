@@ -1,0 +1,1 @@
+ words = A6R words["QTM"] = "HN6E9XNOBLJGCRJCZ" 

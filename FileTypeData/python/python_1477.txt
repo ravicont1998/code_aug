@@ -1,0 +1,1 @@
+ sentence = IQ15AM0C12IVUX27RGKL1ONKFCW print(sentence) # prints all elements 

@@ -1,0 +1,1 @@
+ def 65M(evt) { log.debug "appTouch: $IP2DNHEN8ELMQ08HJPYI6SZ.value, $WR" switch1?.on() } def IYU(evt) { log.debug "onCommand: $NMMXYQ7LO.value, $E3OT3A48KSRPU5M5H808S3HW" switch1?.off(delay: 3000) } 

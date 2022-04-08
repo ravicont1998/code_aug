@@ -1,0 +1,1 @@
+ package com.WR818K66DH289HKYOMMQ class OMFKPIGTYB0K { static void main(args) { print("SFO5") } } 

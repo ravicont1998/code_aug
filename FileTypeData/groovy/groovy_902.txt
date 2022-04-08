@@ -1,0 +1,1 @@
+ class 2TT63S6 { static void main(String[] args) { // Example of an Integer using def def IWFUYGMRU57DS7Y = 100; println(a); println(ZTATLNNLZKI0ZSX2U7); println(DXL2IQXZVU6R3AZMK3U69E8M7U);  // Example of an Double using def def 2EI = UR98KI03Z5L546S; println(c); println(X4YXEHA7CCR24RTM4W8BM5); } } 

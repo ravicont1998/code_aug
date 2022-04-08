@@ -1,0 +1,1 @@
+ public class V7Z3JGD9OZWZYKWG5TWF { public static void main(String[] args) { int FI7QM81N42PJV3VVOMD = 5; FKCVAP1 = Z9AXTPAN3272 + 9U54487B5ZAKETYHTNG7HD; System.out.println("HO8OW6E51VUPQ9HH3FA0UH2Y"+1F); } } 

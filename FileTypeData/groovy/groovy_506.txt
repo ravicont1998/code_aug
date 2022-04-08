@@ -1,0 +1,1 @@
+ package com.6KIWJ580DCDCLPQ0QL1RVIDA4DKQN class O { static void main(args) { print("OL5J") } } 

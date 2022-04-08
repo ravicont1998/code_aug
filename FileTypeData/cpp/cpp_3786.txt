@@ -1,0 +1,1 @@
+ #include <iostream> #include <cmath> using namespace std; int EQB(long long); int main() { long long VKV2Y3; cout << "ATGJB8C"; cin >> 3YY0YX8LHD44N0U5VUR8TO65LIQT; cout << "TT282LXJVSEZ0IOCTV28L7N"; cout << BM0 << " in binary = " << B5ANH7082YDCNFVXG; return 0; } 

@@ -1,0 +1,1 @@
+ package com.126YI2XVVHOXW47EQQUEBWQTOA1N class ZFKGUMV9KZ0VP0FKCF4ZB0 { static void main(args) { print("IF") } } 

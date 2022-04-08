@@ -1,0 +1,1 @@
+ sentence = DHETDPEPH print(sentence) # prints all elements 

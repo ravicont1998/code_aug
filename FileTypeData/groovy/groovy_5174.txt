@@ -1,0 +1,1 @@
+ package com.CZ6TB71W6QF class I8A50RQ1OL8YO11V { static void main(args) { print("T3V9Q8TOF39WWEJ93RUDAJ") } } 

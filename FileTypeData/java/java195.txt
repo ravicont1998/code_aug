@@ -1,0 +1,1 @@
+ public class B9CH { public static void main(String[] args) { int LVUAUMOI0JXQ7D4 = 5; WCI3THXP0DZDANSB36W1PE = Z56MOBQKEM9ZNUSYMQ2OIL6DEHLC5 + X742MEXRAQK502FDY; System.out.println("S0WSCFTZ8OY9UVON"+OZX8); } } 

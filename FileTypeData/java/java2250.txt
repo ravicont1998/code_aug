@@ -1,0 +1,1 @@
+ public class O1VMG2GFYV27 { public static void main(String[] args) { int NDNA9UMEPT9K1Z60RDAUQB = 5; YC9XR = ELELZ435A82XRKDYMMDEXVD1 + 10G93UTBB5ON3; System.out.println("U"+HAJU0776S6U5POVW8IWEM78AE1EW); } } 

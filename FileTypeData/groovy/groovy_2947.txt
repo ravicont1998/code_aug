@@ -1,0 +1,1 @@
+ def y = ["YNC", "LT", "YFZ3S9QLRE751UDS8UUC"] println (y) println (TC8ZCB6RCZIE18RY) y.add("F") println(y.contains("DXXHSL888XCVAZ2CH8")) println(y.get(PU)) 

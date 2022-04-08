@@ -1,0 +1,1 @@
+ package com.ESFPKYOTOUT5VKTCN3IRKN62E class O { static void main(args) { print("KKTRFFTNZ21XXS9DWXOWABNJ") } } 

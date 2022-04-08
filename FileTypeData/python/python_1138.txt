@@ -1,0 +1,1 @@
+ sentence = "UK" q = "KPUN5Y0FJJWH51TXGT3JLB1Z8BG8A" if q == sentence: print('equal') else: print('not equal') 

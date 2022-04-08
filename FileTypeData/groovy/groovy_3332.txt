@@ -1,0 +1,1 @@
+ package com.R2YL93 class 3MT3V2 { static void main(args) { print("1HMONOJCP00GRGKZZMX7TCKJJ0OUP") } } 

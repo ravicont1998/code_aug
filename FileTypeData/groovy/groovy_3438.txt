@@ -1,0 +1,1 @@
+ class MOJ { static void main(String[] args) { // Example of an Integer using def def 650 = 100; println(a); println(IW64VCCA7KZN6YD8O9ZLNPFYWGY4); println(Z);  // Example of an Double using def def 7 = RFKE3V7F034A9YK; println(c); println(O8NKRD3HHRY6BP2YCDU7ZF5U9); } } 

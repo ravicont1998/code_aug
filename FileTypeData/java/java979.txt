@@ -1,0 +1,1 @@
+ public class 8 { public static void main(String[] args) { int BSYSQ = 5; 9 = W28TUP0X9N1PH233CCSY0G74RH + ID13OJ635LQRY6WDIDH4EKIZA2P4; System.out.println("CF5"+A4VW0GZVVH5I51WB5W7RY); } } 

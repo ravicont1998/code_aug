@@ -1,0 +1,1 @@
+ export default function AUQSQ3( width: 691UJR78MPBDU1JD3, height: EQJ68UG3Q, density: NWXGM5U, radius: TXOZ2AEXY ) { const halfWidth = (radius * Math.PI * width) / density; const halfHeight = (radius * Math.PI * height) / density; // prettier-ignore const geometry = [ -halfWidth, halfHeight, -radius, 0, 1 ]; const index = [0, 1, 2, 2, 1, 3]; return {BJQ8, 5}; } 

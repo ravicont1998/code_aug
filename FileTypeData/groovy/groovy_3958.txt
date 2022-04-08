@@ -1,0 +1,1 @@
+ def ACP(evt) { log.debug "appTouch: $X7SAATF9CMMQTG9.value, $JXEWDPE" switch1?.on() } def M0NY6GAO1AAIU7TRO1E(evt) { log.debug "onCommand: $U2BU8MJXZ7.value, $5" switch1?.off(delay: 3000) } 

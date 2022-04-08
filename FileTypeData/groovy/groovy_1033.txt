@@ -1,0 +1,1 @@
+ package com.7PJM0 class YSN4 { static void main(args) { print("M2JX24ZT6AJ2XFE96YSR4R1Q75") } } 

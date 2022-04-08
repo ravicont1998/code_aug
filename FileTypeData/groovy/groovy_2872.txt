@@ -1,0 +1,1 @@
+ package com.YINDICFZ5MMQL7CEGW5K2B0YV76 class L { static void main(args) { print("KA") } } 

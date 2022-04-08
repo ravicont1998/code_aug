@@ -1,0 +1,1 @@
+ class AM { static void main(String[] args) { // Example of an Integer using def def VJN846JIL4IG9XPCNTDMP80 = 100; println(a); println(EG9ZOVJPL7RG); println(V5NU0TN5V84LDRZHSKESW48M7P);  // Example of an Double using def def M7OX78LDALOVGQW2XJI = ZEY1MR14UJT7FSRC7; println(c); println(8FJGY2BR5OB72F4AZYDZSQSAO8ULI); } } 

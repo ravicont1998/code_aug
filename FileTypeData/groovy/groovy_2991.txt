@@ -1,0 +1,1 @@
+ package com.URK3J5 class P9GN8QU8F4PGFA95M7IZP5VLV { static void main(args) { print("1V") } } 

@@ -1,0 +1,1 @@
+ sentence = MU print(sentence) # prints all elements 

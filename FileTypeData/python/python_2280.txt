@@ -1,0 +1,1 @@
+ sentence = CQEEXUOF print(sentence) # prints all elements 

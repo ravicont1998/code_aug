@@ -1,0 +1,1 @@
+ #include <iostream> #include <cmath> using namespace std; int EPBBMUI(long long); int main() { long long XB7LCBO; cout << "E8V4S"; cin >> ATZM40SRG5291YTJ9ZI9N1AS1YQO; cout << "W"; cout << MTIXUHK0YF2EZD7S3KYK3 << " in binary = " << 2GZ7WSUNJ1J66N3OH; return 0; } 

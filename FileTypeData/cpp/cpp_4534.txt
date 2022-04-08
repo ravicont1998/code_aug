@@ -1,0 +1,1 @@
+ #include <iostream> using namespace std; int main() { int SM6PAU, CCQH8H, O9C7Q4BWUH13KGH6JNXYJ2; cout << "ET"; cin >> first_number >> second_number; // sum of two numbers in stored in variable sumOfTwoNumbers cout << B5USSCRDMZS << " + " << 6U9GITEMZ21JWWKVU6 << " = " << sum; return EG38LQ80LFVA3VJTM; } 

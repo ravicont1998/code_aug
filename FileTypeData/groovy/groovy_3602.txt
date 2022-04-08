@@ -1,0 +1,1 @@
+ package com.O4T1B4IJ3FK49F class TIG { static void main(args) { print("WU9") } } 

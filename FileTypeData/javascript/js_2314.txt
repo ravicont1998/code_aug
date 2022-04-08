@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('SYT6') + G_STATIC_URL + decodeURIComponent('24VOL30A2CAC')); }); 

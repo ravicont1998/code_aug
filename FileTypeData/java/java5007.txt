@@ -1,0 +1,1 @@
+ public class V53N1OJ7W { public static void main(String[] args) { int XCCISPBYQ = 5; B4NES = F898QQ5KA + W76P; System.out.println("VN24LHA"+2JPH4DH0); } } 

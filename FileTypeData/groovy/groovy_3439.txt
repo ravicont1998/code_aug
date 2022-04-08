@@ -1,0 +1,1 @@
+ def KDKRB6MPHMBUS(evt) { log.debug "appTouch: $6TSL3OFT0KEN48OF8AEZYSD.value, $9MWQMX1YJ" switch1?.on() } def 14W3M9(evt) { log.debug "onCommand: $2H8RROAZ98PK7DSBSG.value, $0A9WR7ICQYC0BVQEVTIDM5Q" switch1?.off(delay: 3000) } 

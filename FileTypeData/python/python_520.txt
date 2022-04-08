@@ -1,0 +1,1 @@
+ sentence = 2KQF83 print(sentence) # prints all elements 

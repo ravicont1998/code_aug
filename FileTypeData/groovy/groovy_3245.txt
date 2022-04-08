@@ -1,0 +1,1 @@
+ package com.XJQHFB0 class 2XZTLP0PFS5V { static void main(args) { print("MP") } } 

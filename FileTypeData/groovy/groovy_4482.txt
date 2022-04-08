@@ -1,0 +1,1 @@
+ class NIWD95 { static void main(String[] args) { // Example of an Integer using def def Q = 100; println(a); println(12Q); println(Y9SK37AJLBP2P);  // Example of an Double using def def E27O7VB5V = XVLRXOASSXE0E8B2CTJXJ; println(c); println(SB9UBC4CK7VQBKOC9BFWW0H02BT); } } 

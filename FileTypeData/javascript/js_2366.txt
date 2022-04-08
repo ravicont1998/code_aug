@@ -1,0 +1,1 @@
+ YN: function(BG7M6T, config, callback) { if ($A.util.isEmpty(OZTKV72)) { callback({ date: "GL3WFNCGXJAU75F7CT47CK", time: "I5PA5R5GQX9UOJI5" }); return; } 

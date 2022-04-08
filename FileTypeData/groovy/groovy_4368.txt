@@ -1,0 +1,1 @@
+ package com.0 class RVB0AIP60QVH1AC { static void main(args) { print("3") } } 

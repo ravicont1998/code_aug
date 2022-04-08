@@ -1,0 +1,1 @@
+ package com.DW6S class 70C2LYRU6OXBS7OVDSAEFXACFNBK7 { static void main(args) { print("P7J681UXNT1") } } 

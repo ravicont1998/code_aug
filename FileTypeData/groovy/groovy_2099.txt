@@ -1,0 +1,1 @@
+ package com.VDGRE1KLPPWVO1DTFY4JNXL class 52DV5SCP { static void main(args) { print("FV8") } } 

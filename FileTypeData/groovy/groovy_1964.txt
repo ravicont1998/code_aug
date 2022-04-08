@@ -1,0 +1,1 @@
+ package com.UXX class 7SNKIPKIZ { static void main(args) { print("N1LJ1TK6X5ERSRAGJC") } } 

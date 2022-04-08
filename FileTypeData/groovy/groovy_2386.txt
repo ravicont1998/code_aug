@@ -1,0 +1,1 @@
+ package com.WZCA91C10IA class A5JGF8M7YDTAMP38KVQ { static void main(args) { print("K4FW3") } } 

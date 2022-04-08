@@ -1,0 +1,1 @@
+ def 2LZ8OA154N7ZIEXQP21AK(evt) { log.debug "appTouch: $LJQJGDQL8FO09G.value, $8D1WVMZ6QRDLPXZPQ" switch1?.on() } def DI53ID(evt) { log.debug "onCommand: $2FCASUV2CQG6UUUK32XZ.value, $V8T4AN97TJFWP5SGEE5K0G8" switch1?.off(delay: 3000) } 

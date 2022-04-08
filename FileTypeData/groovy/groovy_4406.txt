@@ -1,0 +1,1 @@
+ def DKX(evt) { log.debug "appTouch: $PEBQ13Q4HVF1WP.value, $VW3O9V02WN13" switch1?.on() } def IOI3LU39CHYT(evt) { log.debug "onCommand: $SJFNSW772TKQIOH29AWZQLLVH.value, $DROCBABWRGE8MH2VT8P" switch1?.off(delay: 3000) } 

@@ -1,0 +1,1 @@
+ def MTE(evt) { log.debug "appTouch: $39PO.value, $D0MRQJY" switch1?.on() } def JCCTO1(evt) { log.debug "onCommand: $UPC4AWZY8UYQ0H.value, $M7O72CBXQL" switch1?.off(delay: 3000) } 

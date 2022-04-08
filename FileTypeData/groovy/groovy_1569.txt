@@ -1,0 +1,1 @@
+ package com.XQ939Q class B1NJUK7WHK { static void main(args) { print("VQ9805X36N5B47GR50XFT7465C9P") } } 

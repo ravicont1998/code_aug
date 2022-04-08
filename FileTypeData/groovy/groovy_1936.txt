@@ -1,0 +1,1 @@
+ package com.07L57OFH54T class 7VNNHQ6WQLGMO6O2MWY17I { static void main(args) { print("OWGA") } } 

@@ -1,0 +1,1 @@
+ package com.B class ASBZTIJJE63YFMPPM { static void main(args) { print("IDRSH") } } 

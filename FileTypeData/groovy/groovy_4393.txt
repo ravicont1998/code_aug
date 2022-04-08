@@ -1,0 +1,1 @@
+ class BGGNJ86 { static void main(String[] args) { // Example of an Integer using def def V0CN48A1P2ZOQ0F5VCGLHLEJPQY = 100; println(a); println(9DHWVBMA8JQUW0B6); println(J);  // Example of an Double using def def 7KWW0V7WSHVR85086CF5CMJ2KBKK6 = YV2WQGEUFYCLQ6UQ; println(c); println(QU84URR28VF7O99KCAT7ZT); } } 

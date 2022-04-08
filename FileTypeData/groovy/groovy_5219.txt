@@ -1,0 +1,1 @@
+ package com.GC class TED90TMHAWN7YSWEZ { static void main(args) { print("JLN19AJ70T56LUFBOAA31") } } 

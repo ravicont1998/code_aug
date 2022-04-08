@@ -1,0 +1,1 @@
+ def SA1UEH38YHCDI18QUKCR(evt) { log.debug "appTouch: $RBJ76O4D5M3X3EGTCP.value, $GNFO" switch1?.on() } def QSW(evt) { log.debug "onCommand: $M.value, $B1MUVVW49BFS9EGWG7776SQTP" switch1?.off(delay: 3000) } 

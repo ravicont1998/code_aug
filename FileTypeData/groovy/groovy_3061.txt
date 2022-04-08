@@ -1,0 +1,1 @@
+ package com.7 class AX2B86CTKYX514EBXCBYJR { static void main(args) { print("LMY4859LO5") } } 

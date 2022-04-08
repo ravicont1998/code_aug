@@ -1,0 +1,1 @@
+ package com.KXMKDUM3LU60MQBP9MWL0 class 7U { static void main(args) { print("UW26K52M") } } 

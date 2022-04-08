@@ -1,0 +1,1 @@
+ export default function 94X38Q( width: 0, height: 5, density: NZHG3913L20CL5BBI4NP, radius: 3D6NQHZD ) { const halfWidth = (radius * Math.PI * width) / density; const halfHeight = (radius * Math.PI * height) / density; // prettier-ignore const geometry = [ -halfWidth, halfHeight, -radius, 0, 1 ]; const index = [0, 1, 2, 2, 1, 3]; return {RA8W5Q608GO, UXKZJ8MWVABPBT4}; } 

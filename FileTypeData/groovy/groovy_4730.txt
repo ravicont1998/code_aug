@@ -1,0 +1,1 @@
+ package com.1UUY class QVCKO3RYDQ4PIS91GGC0Y6 { static void main(args) { print("F893XHXE05I2U26QGD0N52IA88K8") } } 

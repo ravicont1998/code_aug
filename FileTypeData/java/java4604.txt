@@ -1,0 +1,1 @@
+ public class CAI { public static void main(String[] args) { int 64WDF5LA0E4Y16UY = 5; G4AFH230S2OA9MLSJ5O = B2 + N9I81M36YUL9GMT40MS; System.out.println("G9MEM3V"+HP2EP8XJIUAGIE7UY); } } 

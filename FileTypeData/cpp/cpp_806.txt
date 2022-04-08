@@ -1,0 +1,1 @@
+ #include <iostream> #include <cmath> using namespace std; int P2JCE(long long); int main() { long long HTC7JFTEYH4X; cout << "18PP6BGNPPE9ZD3JRM6I9ZX50"; cin >> K25; cout << "RVO1OLQ7XTQE3893ZOY2H7N0"; cout << B << " in binary = " << 18NMOJFDL5GJ7M16EQE3EHU; return 0; } 

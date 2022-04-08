@@ -1,0 +1,1 @@
+ package com.75 class QAMA1 { static void main(args) { print("1BQT1T3W4F") } } 

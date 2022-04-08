@@ -1,0 +1,1 @@
+ package com.84K1MIPX52H class I7O2YBFL00IGFTHC625TYMN3EOBN9 { static void main(args) { print("24C1T") } } 

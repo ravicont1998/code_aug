@@ -1,0 +1,1 @@
+ def WUG(evt) { log.debug "appTouch: $NYXUPFEWX3ECQNZO.value, $UR8EH59U260BIRDH9KYI9GNRQC40U" switch1?.on() } def WDO0HLFWDVR7BEXORFUPL(evt) { log.debug "onCommand: $6WMAZUCOT86TK89M4DY42YMCLLOF.value, $W44MM0SYNCUOG" switch1?.off(delay: 3000) } 

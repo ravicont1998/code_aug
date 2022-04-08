@@ -1,0 +1,1 @@
+ def y = ["726", "374", "7EV1KW8685PNQD1G4PV594S77XAZ"] println (y) println (B6I9DVUSTWQ) y.add("Q") println(y.contains("7PTS")) println(y.get(4UU3L4YGWGTTFBQL)) 

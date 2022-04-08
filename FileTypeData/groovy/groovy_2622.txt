@@ -1,0 +1,1 @@
+ def BSXDX(evt) { log.debug "appTouch: $76F1Q72A5LLMD6SMGMZDR23AGKO9.value, $W1S9" switch1?.on() } def 9OLDL5R4GV167UKNDWS5AYX1(evt) { log.debug "onCommand: $5ZW2II37O9VG3T1GZVOYW2M.value, $WJODLCJ80NKZEPMUHD1QN908PWMV" switch1?.off(delay: 3000) } 

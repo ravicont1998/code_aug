@@ -1,0 +1,1 @@
+ public class TN3H91MW51 { public static void main(String[] args) { int 2D7C4K9VV9HLRQF57JPG4A = 5; MOZM9F7TQI4ICASOCR3NQHOHD9879 = 7 + 20I73OE36O9ETMT; System.out.println("718IMUKOO9DE5N3TDTGK"+NE); } } 

@@ -1,0 +1,1 @@
+ package com.8AQ10S2775L5BDIX3DH0 class F0MIT6Z0 { static void main(args) { print("4") } } 

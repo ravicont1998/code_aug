@@ -1,0 +1,1 @@
+ package com.WIW class 7F2K { static void main(args) { print("JDQOFCZ76I6UEXFVWU8SSC") } } 

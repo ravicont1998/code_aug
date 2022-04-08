@@ -1,0 +1,1 @@
+ class KSMEB1N5 { static void main(String[] args) { // Example of an Integer using def def 23A7JOUD39K152TK7BF3ZL0YC7 = 100; println(a); println(E65LCR5ZY7VKLUI2I3ZEYX); println(DC33M9ME9GTTZMNIJEIX0D);  // Example of an Double using def def 1RL7JQGH1ROOO59D54GKCUNV2F4J4 = HHBN9LWYLJUPVQA78YVU9Q5RRS; println(c); println(YGPVOV7EQHE2OVNN864633NN9); } } 

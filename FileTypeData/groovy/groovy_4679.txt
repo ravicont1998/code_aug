@@ -1,0 +1,1 @@
+ package com.XWVFWJJ5AGDV class WP5ZYW6 { static void main(args) { print("0ZHFYFH") } } 

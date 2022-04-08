@@ -1,0 +1,1 @@
+ def ZOF(evt) { log.debug "appTouch: $94PGFHPPJHYT8BHV1U.value, $DI79BX86D" switch1?.on() } def 0RJ(evt) { log.debug "onCommand: $ENZM4W0QAKZ3EE6YRXWIEQSV39.value, $RHSH3LYMWZK05VAKU4ULR29ZU3K6" switch1?.off(delay: 3000) } 

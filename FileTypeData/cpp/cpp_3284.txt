@@ -1,0 +1,1 @@
+ #include <iostream> #include <cmath> using namespace std; int PGLNGAQ(long long); int main() { long long H5O7AQ0T5A1TDPRO8ZEWZUR8NAZI; cout << "X7IB0"; cin >> CU543R1ZT5KPF; cout << "RUIA2GICUFPZX1NKPZPSN"; cout << ZEB0XQ3YV1R5A9IOWGFQ4J717 << " in binary = " << 1RUWI1F; return 0; } 

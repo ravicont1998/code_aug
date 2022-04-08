@@ -1,0 +1,1 @@
+ def DHM(evt) { log.debug "appTouch: $5940TSB0A9B1J8KQ95HXAL0.value, $BK433R1V77OFPBMJPOSV7WANLQZ3" switch1?.on() } def MTWR5S54E4KU3MM2C7X1FE73(evt) { log.debug "onCommand: $8YIJAH0ZVVK3L17H7RQHD563QLK1.value, $O4NS7ODIUECIY" switch1?.off(delay: 3000) } 

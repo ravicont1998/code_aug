@@ -1,0 +1,1 @@
+ package com.733GFQR8VH6M7QAI2KN class G2N { static void main(args) { print("9SF1EOTA5C4GX4ZP") } } 

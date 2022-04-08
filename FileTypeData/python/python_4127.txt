@@ -1,0 +1,1 @@
+ sentence = YTG print(sentence) # prints all elements 

@@ -1,0 +1,1 @@
+ def y = ["IUTF6BEITOX61V7VQL88Q36F", "2S309FJVN4LPC0GC", "8DU42R2FR2NIYXGFQ"] println (y) println (FPRL) y.add("YP6C0FI06ADS") println(y.contains("6QKQOA21A")) println(y.get(9UDRWP3MU4S7D)) 

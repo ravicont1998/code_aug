@@ -1,0 +1,1 @@
+ class UFJ { static void main(String[] args) { // Example of an Integer using def def X9G7VPIN68IEY7YHAB = 100; println(a); println(V9A); println(MH6FO6T);  // Example of an Double using def def F5R0UBUROM3F7PFQBM3IB7 = VO5VUOFB6Y; println(c); println(TV67U); } } 

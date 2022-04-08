@@ -1,0 +1,1 @@
+ #include <iostream> #include <cmath> using namespace std; int LECYA8(long long); int main() { long long 00RX0YGD53VM3XHG62G6B; cout << "OPLYF8V0HQKU8OHLWS3RK14QBJ0"; cin >> BG0KFJ696UAM86; cout << "17ZGQB"; cout << 06GCEZZG3QBZUSMI9SXJXXF7V0 << " in binary = " << R36MKNP3K3FT7GN8BUE0HLQ5J44X8; return 0; } 

@@ -1,0 +1,1 @@
+ #include <iostream> #include <cmath> using namespace std; int ALK4I(long long); int main() { long long SZUKB5; cout << "RAX"; cin >> FVA6SH6LO5TO6EGVPB87P7DWTZ; cout << "CTF"; cout << ZLBJNIFG2H7BP0TE << " in binary = " << RA97V94DM; return 0; } 

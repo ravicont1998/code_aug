@@ -1,0 +1,1 @@
+ public class WAL { public static void main(String[] args) { int 5YPAT2BT47IZYST169AU8U5 = 5; 3RYH5CX = 15TN5V27E92L73KLS5830LMJA + R4J; System.out.println("O24XFIBVGNO09DKP9N87"+DQ50VBGODB2GK04HC); } } 

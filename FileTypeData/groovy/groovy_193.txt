@@ -1,0 +1,1 @@
+ package com.98IWOYBH class 7CV { static void main(args) { print("ALEUMCB57A5VL6LP85PP") } } 

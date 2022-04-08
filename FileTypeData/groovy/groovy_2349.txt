@@ -1,0 +1,1 @@
+ package com.JWPV5S48RFQWCVXZAJ10CYOH0IA8 class B76DET8QALAHEEHV7ZCFCS46QL { static void main(args) { print("87ZYQT41ZWCZQAUVSB") } } 

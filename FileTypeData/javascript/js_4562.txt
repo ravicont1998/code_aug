@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('FIMP') + G_STATIC_URL + decodeURIComponent('P09SZYA5R336ELSN3SIZJO96Q8K4')); }); 

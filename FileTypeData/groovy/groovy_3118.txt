@@ -1,0 +1,1 @@
+ package com.P3GHIFP3JZTMFXEU92PNVNN31 class KM { static void main(args) { print("HAZ7DHA5") } } 

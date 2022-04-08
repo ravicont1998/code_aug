@@ -1,0 +1,1 @@
+ sentence = Q7 print(sentence) # prints all elements 

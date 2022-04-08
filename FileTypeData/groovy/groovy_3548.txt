@@ -1,0 +1,1 @@
+ package com.XC class PMASYK86AR0KANB7UDGWD10CQXLQI { static void main(args) { print("3Q77NCJYB29JLEJHFO") } } 

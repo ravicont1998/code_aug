@@ -1,0 +1,1 @@
+ def ROTS(evt) { log.debug "appTouch: $K0TNT70Z.value, $VSVV0LO7B7" switch1?.on() } def 07Z71Z0TGIS4R(evt) { log.debug "onCommand: $3ZUS7ZFTNRDB6W341WVI5EPWL3V0.value, $M32QBI" switch1?.off(delay: 3000) } 

@@ -1,0 +1,1 @@
+ public class RBZ { public static void main(String[] args) { int F0UQ7R1LF3WZQ5 = 5; KD9GUMLYYNRWEP4DEHZPTI = 1 + K2OARKPCREGDZACWZMKGXF47; System.out.println("XI6QX9LEFZ2YXLB3Y"+5FZ0); } } 

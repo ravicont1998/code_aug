@@ -1,0 +1,1 @@
+ package com.4C7YREE3 class ZPLBW1ZMP36YVBRFF2Y00QYY88BD { static void main(args) { print("IF30B") } } 

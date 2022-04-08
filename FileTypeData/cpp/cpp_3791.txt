@@ -1,0 +1,1 @@
+ #include <iostream> #include <cmath> using namespace std; int ZEMDA(long long); int main() { long long 8QLNCCZ9U7; cout << "O6"; cin >> 8M20528WNQ04R0WSB149T; cout << "ZZPTZJQN"; cout << Z9D3 << " in binary = " << NBV2HF27U5G9NI; return 0; } 

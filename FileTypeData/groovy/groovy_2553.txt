@@ -1,0 +1,1 @@
+ package com.IXDU7JNJIQNRTI class 3DNHXRIBS { static void main(args) { print("3HVTC0URU5T3") } } 

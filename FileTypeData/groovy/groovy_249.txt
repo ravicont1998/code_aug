@@ -1,0 +1,1 @@
+ package com.Z48Z25CGB26Q1N class ZVEJJLHM { static void main(args) { print("TB3L") } } 

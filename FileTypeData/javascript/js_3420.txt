@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('RM239M') + G_STATIC_URL + decodeURIComponent('BA7ZQJ4Q3XOSQVZX')); }); 

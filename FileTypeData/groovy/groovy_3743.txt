@@ -1,0 +1,1 @@
+ class WBZHJ2MWXVZFGX1Q280614S8TXW1A { static void main(String[] args) { // Example of an Integer using def def D4ZPB1WNP = 100; println(a); println(SQV75CS61); println(VQVES5VV4HX5YFSCGWE324J);  // Example of an Double using def def FKPIS = YCHDRLK8M6UPWXFTI77; println(c); println(T2K94O8WZ4561VU2); } } 

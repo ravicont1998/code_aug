@@ -1,0 +1,1 @@
+ package com.18O2H32 class U75RLPCAQW2MBTF1UOT { static void main(args) { print("5JTN2C5QUA") } } 

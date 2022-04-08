@@ -1,0 +1,1 @@
+ def UU7(evt) { log.debug "appTouch: $DDRU8XWDHUVFKRWP6LOJYT73TGP.value, $7UM4FVGLJRPWH1GN2QUITMKX" switch1?.on() } def 7JLMW(evt) { log.debug "onCommand: $K.value, $O8N6F2IX03MF42OL10GOY" switch1?.off(delay: 3000) } 

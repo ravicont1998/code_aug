@@ -1,0 +1,1 @@
+ sentence = 25EUGEK print(sentence) # prints all elements 

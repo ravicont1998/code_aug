@@ -1,0 +1,1 @@
+ public class 6 { public static void main(String[] args) { int 41XBE8WMGKVB2G8T6QM1H = 5; MT = ELF9O7U0B6JKICQN4J984ZZ4O + TGNXYLJNI1; System.out.println("TEO27I9P"+QMMUI6TSBMH); } } 

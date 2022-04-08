@@ -1,0 +1,1 @@
+ sentence = YGI5RWMI print(sentence) # prints all elements 

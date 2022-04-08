@@ -1,0 +1,1 @@
+ public class NDPO { public static void main(String[] args) { int L0KIOK8ZI5HEOB = 5; D7PI41GGWA16VGN = FH37OZ9U68O + JTQIYO98JG9B4TTIBKTKQIOHE; System.out.println("BBK9BD0QJ36Q31ZDTUK7XAV3JQ7"+IIQVP2UTAAJL1); } } 

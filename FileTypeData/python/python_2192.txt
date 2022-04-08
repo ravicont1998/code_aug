@@ -1,0 +1,1 @@
+ sentence = FCP2SPXQ2FVKRIIW8WCR5S print(sentence) # prints all elements 

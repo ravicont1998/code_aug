@@ -1,0 +1,1 @@
+ package com.I1A4KYI6SLVJGQD class EK { static void main(args) { print("1MF2JV6SC51O4GOY9XFX2BGZJ2") } } 

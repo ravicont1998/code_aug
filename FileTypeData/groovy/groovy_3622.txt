@@ -1,0 +1,1 @@
+ package com.JWC5YDZ02Y18TNE5IA class AZV { static void main(args) { print("5LNLSWXL") } } 

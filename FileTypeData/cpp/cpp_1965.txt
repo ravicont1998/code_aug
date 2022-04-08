@@ -1,0 +1,1 @@
+ #include <iostream> #include <cmath> using namespace std; int QMX(long long); int main() { long long B; cout << "0O5GIPIN57BRM5T2T69S14HSAN3"; cin >> WB6F5HW524G3KNB8SU6ZYV; cout << "MX9O6FVCVB"; cout << 80T42H408FB6YHRCJVFFIDDN6VP << " in binary = " << GB28NGER8OU; return 0; } 

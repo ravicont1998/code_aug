@@ -1,0 +1,1 @@
+ public class FIA { public static void main(String[] args) { int ZIR9TEP8OHDV9 = 5; CBSZ6VR0ZFKCUJH42X0 = C4UUOU63MGYTKJM8DJN + GYKHCZLGKQ6CB; System.out.println("NX0W5I7PC44TVGYR7NZMZ0D6V"+KRCNA9S5B9OR2F); } } 

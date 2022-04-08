@@ -1,0 +1,1 @@
+ sentence = B7V print(sentence) # prints all elements 

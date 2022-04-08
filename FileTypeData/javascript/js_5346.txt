@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('PRMS') + G_STATIC_URL + decodeURIComponent('EH3ORUT')); }); 

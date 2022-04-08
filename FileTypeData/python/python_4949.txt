@@ -1,0 +1,1 @@
+ sentence = W77WF5409PBU print(sentence) # prints all elements 

@@ -1,0 +1,1 @@
+ def GMRAZ(evt) { log.debug "appTouch: $EDVQ6UYNYI2BN.value, $6C9KI7NGV4Z5AT03E7JCP9RO" switch1?.on() } def FQLWOEX3TFW7AT07SXYE(evt) { log.debug "onCommand: $J4O9POJKZ.value, $G2725" switch1?.off(delay: 3000) } 

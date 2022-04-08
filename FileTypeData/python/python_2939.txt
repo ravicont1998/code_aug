@@ -1,0 +1,1 @@
+ sentence = 4ND1 print(sentence) # prints all elements 

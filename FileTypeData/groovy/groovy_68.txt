@@ -1,0 +1,1 @@
+ package com.MSS5CDIMU2 class 7AA0P4GLQASZ9W { static void main(args) { print("W708COHPRFHYEDBXIEXC6I7VN") } } 

@@ -1,0 +1,1 @@
+ def ID2NGG75(evt) { log.debug "appTouch: $XRAMZ8J5CJMHLH.value, $31KPAKFP" switch1?.on() } def 765R(evt) { log.debug "onCommand: $QK0019.value, $W6Z2KNG9WPU865VOULKGKMMABXT" switch1?.off(delay: 3000) } 

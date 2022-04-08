@@ -1,0 +1,1 @@
+ package com.NAY8MLI class 82TYXPKN93EV5J3 { static void main(args) { print("VCJ7OD") } } 

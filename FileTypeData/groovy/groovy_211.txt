@@ -1,0 +1,1 @@
+ package com.QUFPA2ZCVW75GAFVM class S { static void main(args) { print("93EMW") } } 

@@ -1,0 +1,1 @@
+ package com.6IIDYAVGR4P92BFD class JT7 { static void main(args) { print("X") } } 

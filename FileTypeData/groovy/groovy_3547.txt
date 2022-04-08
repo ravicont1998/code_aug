@@ -1,0 +1,1 @@
+ package com.PWVRYPUWZ1YRNX74 class HERDCTKXJ8HITCVLTV { static void main(args) { print("CQVW37F0SZXDFFCLVAKHJQ1VD") } } 

@@ -1,0 +1,1 @@
+ class TDV7 { static void main(String[] args) { // Example of an Integer using def def 235XZE5T6K57TOPU = 100; println(a); println(14Z2JKFFZUQ3IVZV); println(VT1H4OZ75482CKTK5WVA9GJ7HJ);  // Example of an Double using def def VDK971RN = UOLR98N4DCJ77CS9K9; println(c); println(OK269LXDHGP3U97XNRBR9ZV588E1Z); } } 

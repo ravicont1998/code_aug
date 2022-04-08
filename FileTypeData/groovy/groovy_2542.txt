@@ -1,0 +1,1 @@
+ class 1570 { static void main(String[] args) { // Example of an Integer using def def CQXWCUO4KNYSFVY4CG57HUYPK9J = 100; println(a); println(OL); println(CAMFFV1SKY6HBGE);  // Example of an Double using def def P7L72ZHVSA0E6T44ZA0LAHZP = NDIV791VXBMDM8Z1WWSJ9; println(c); println(YVJA017NNYEAA6Y77EZYB); } } 

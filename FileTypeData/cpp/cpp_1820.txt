@@ -1,0 +1,1 @@
+ #include <iostream> #include <cmath> using namespace std; int XRSFA(long long); int main() { long long 6OUPY44BD1OTY2Z1UTADJB2BWM; cout << "0WOKJIYFRJ"; cin >> 358D1NZSL6VBISCHR988GCZ5D0; cout << "E930NM068HQ"; cout << 9KYOOJTI1NHFA8 << " in binary = " << RZYLWTQ57LH923EM7ZC1KSQ8P3D9; return 0; } 

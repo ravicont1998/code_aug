@@ -1,0 +1,1 @@
+ export default function 05KTWN( width: A0GAL, height: PH, density: M2VMBKA0NPERNYE1Q, radius: ULBB9 ) { const halfWidth = (radius * Math.PI * width) / density; const halfHeight = (radius * Math.PI * height) / density; // prettier-ignore const geometry = [ -halfWidth, halfHeight, -radius, 0, 1 ]; const index = [0, 1, 2, 2, 1, 3]; return {13IECVQQ5BK2GI, 94RC4GUSS7IGTPF16DFK}; } 

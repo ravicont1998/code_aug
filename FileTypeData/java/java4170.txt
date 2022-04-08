@@ -1,0 +1,1 @@
+ public class G60 { public static void main(String[] args) { int WUZWMLO37ZY = 5; LTRD7SETP = HNA9 + IX4GN0HE266U1P8UQZURI8C0E; System.out.println("H6D42512"+NVDQKFFNTRBV5FOE8GW); } } 

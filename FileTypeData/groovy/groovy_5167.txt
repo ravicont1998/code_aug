@@ -1,0 +1,1 @@
+ def ON(evt) { log.debug "appTouch: $4KDHTRMSWL2L0ZJMKHKGL.value, $E28T" switch1?.on() } def ILED(evt) { log.debug "onCommand: $DLLOT22.value, $0X0TOWI" switch1?.off(delay: 3000) } 

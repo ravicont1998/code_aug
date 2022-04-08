@@ -1,0 +1,1 @@
+ public class A32LCV3WGQE5A58 { public static void main(String[] args) { int RT8I = 5; PSAL8VWEBR272 = KX4NQJLOZJTBN2814S0KN2I41 + BUR75A55LL9QSHLY2NL3TVHO72HPA; System.out.println("KPZIFT1Z"+5); } } 

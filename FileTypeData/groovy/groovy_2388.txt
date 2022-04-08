@@ -1,0 +1,1 @@
+ package com.R8DYE15KUD5SRI2XFATBOHG9WAJ6 class 85L { static void main(args) { print("1M") } } 

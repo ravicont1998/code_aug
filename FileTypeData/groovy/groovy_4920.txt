@@ -1,0 +1,1 @@
+ def ZCUZ(evt) { log.debug "appTouch: $L0.value, $1HLN1KI2JIEPY" switch1?.on() } def ZO1HTAEO31I6(evt) { log.debug "onCommand: $I2C.value, $QLHPF9DM" switch1?.off(delay: 3000) } 

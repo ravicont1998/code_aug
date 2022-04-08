@@ -1,0 +1,1 @@
+ package com.BAMO0ZYPDGMF681I8WCUNVP99 class 3BO { static void main(args) { print("K2XO11VA4YSAW44VA52HTQWS9VUDI") } } 

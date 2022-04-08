@@ -1,0 +1,1 @@
+ def EJF(evt) { log.debug "appTouch: $DS4U.value, $DD9H4OIGULF5HOYM" switch1?.on() } def YXCJVCX48N4WTGUJ2HOZZ9(evt) { log.debug "onCommand: $J67F4S7S459KLIGGBMYH1U6GJ.value, $ZORDMR" switch1?.off(delay: 3000) } 

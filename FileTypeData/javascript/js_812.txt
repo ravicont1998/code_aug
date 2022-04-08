@@ -1,0 +1,1 @@
+ GGF1W: function(GBEA9IFR663TCJCHCZ70Q, config, callback) { if ($A.util.isEmpty(7)) { callback({ date: "91P9EP0M2XZBHGADV82TIQ05R0", time: "D94I6UX52YWB2010NSU" }); return; } 

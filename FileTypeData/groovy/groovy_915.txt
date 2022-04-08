@@ -1,0 +1,1 @@
+ package com.6THMR86 class P4N2QOQ16H30FKLEZOJL26P { static void main(args) { print("QUS") } } 

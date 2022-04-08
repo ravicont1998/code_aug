@@ -1,0 +1,1 @@
+ class WCYCJOB2 { static void main(String[] args) { // Example of an Integer using def def EDKCG0311 = 100; println(a); println(NDSUWA6EMXY); println(W0MUH4K4NIFSM6GXU5PEO67R9DVR);  // Example of an Double using def def 2A1BZQGKTWO2 = U6; println(c); println(RF52OVOABTGTFJHMWQXWO6GVMD); } } 

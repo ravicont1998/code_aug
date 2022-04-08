@@ -1,0 +1,1 @@
+ sentence = ANF print(sentence) # prints all elements 

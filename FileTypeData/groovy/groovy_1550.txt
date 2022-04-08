@@ -1,0 +1,1 @@
+ def EVAPPKI(evt) { log.debug "appTouch: $U064ZA1RF2IJW19I.value, $2TLENXHWW6HSSWWDCNJTAB43JOBNT" switch1?.on() } def IVC(evt) { log.debug "onCommand: $LPG6YK0YP4G9RIOGFA0EJEGQKOSX8.value, $YXBOLI93SQ8Y27UZPM" switch1?.off(delay: 3000) } 

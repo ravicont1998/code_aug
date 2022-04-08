@@ -1,0 +1,1 @@
+ package com.SSUWA class 8XJ1MNQLBBV81W81T { static void main(args) { print("T") } } 

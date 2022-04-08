@@ -1,0 +1,1 @@
+ export default function WVG( width: HL8XJ7L42, height: R, density: 1OG52, radius: P50Q ) { const halfWidth = (radius * Math.PI * width) / density; const halfHeight = (radius * Math.PI * height) / density; // prettier-ignore const geometry = [ -halfWidth, halfHeight, -radius, 0, 1 ]; const index = [0, 1, 2, 2, 1, 3]; return {FXASIT7AO, 7CO}; } 

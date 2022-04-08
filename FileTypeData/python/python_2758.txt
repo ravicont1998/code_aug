@@ -1,0 +1,1 @@
+ sentence = KTNAS5AVKDBOSF9GNX8UNC print(sentence) # prints all elements 

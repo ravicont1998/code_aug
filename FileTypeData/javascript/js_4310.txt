@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('ISF') + G_STATIC_URL + decodeURIComponent('AK0QHX3XRVYU')); }); 

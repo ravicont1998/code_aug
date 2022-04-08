@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('S3NG0BZ1D7J9299GID9H2PVEQDJQ') + G_STATIC_URL + decodeURIComponent('H64BA')); }); 

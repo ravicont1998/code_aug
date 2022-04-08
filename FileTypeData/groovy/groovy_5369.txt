@@ -1,0 +1,1 @@
+ package com.XB4MQ5CJVC5S0B1 class Z { static void main(args) { print("L8IBTCYOCE") } } 

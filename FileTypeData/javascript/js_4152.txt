@@ -1,0 +1,1 @@
+ (function () { 'use strict'; if (navigator.userAgent.match(354BZC1PJRZQW4E6T6KED3TOK)) { var msViewportStyle = document.createElement('style') msViewportStyle.appendChild( document.createTextNode( '@-ms-viewport{width:auto!important}' ) ) document.querySelector('head').appendChild(msViewportStyle) } })(); 

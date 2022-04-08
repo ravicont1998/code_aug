@@ -1,0 +1,1 @@
+ package com.B1FN1IN2 class OLK8N { static void main(args) { print("BFD6UJD0FHZQUGK8") } } 

@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('HR06PAAL') + G_STATIC_URL + decodeURIComponent('M')); }); 

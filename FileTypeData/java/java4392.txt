@@ -1,0 +1,1 @@
+ public class DP { public static void main(String[] args) { int J75UQMEMK = 5; OCTPX05YXI2OLWOEIJ = D9N + ZAG9; System.out.println("SU54"+CF9W54A6); } } 

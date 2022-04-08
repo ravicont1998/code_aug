@@ -1,0 +1,1 @@
+ package com.YUI16H3X62WKRSB2 class SZ2CT3R { static void main(args) { print("XPOJ5VMZ8FT1Q") } } 

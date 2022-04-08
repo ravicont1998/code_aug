@@ -1,0 +1,1 @@
+ class 42 { static void main(String[] args) { // Example of an Integer using def def 60K4YUD = 100; println(a); println(MUOPMCOQPHPNLYH3MD97); println(EVNTVNOUKBV21PUNQLKGNMYHDIYB0);  // Example of an Double using def def YELWA08KMSU13SENBQMK656OXXMO4 = 1GMWRAEGHKBA2CBP082N; println(c); println(NVGI43OR69PJ0XGCKF1XQIWU4WES); } } 

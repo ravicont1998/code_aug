@@ -1,0 +1,1 @@
+ package com.2C9FV2CNZOLWAAP5GSXSVV class VAATTYAV { static void main(args) { print("IMGFI8OAG1JAF1Z0ER") } } 

@@ -1,0 +1,1 @@
+ name = "HRHSLI61TMB" print(name) print(name[0]+ name[1].upper()) 

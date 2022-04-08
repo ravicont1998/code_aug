@@ -1,0 +1,1 @@
+ package com.C0KVL8MAB1PWPNG88O1WPFZ class F50Y { static void main(args) { print("M7YZB0ODRYIICVQTB7BFS5SG8SEA") } } 

@@ -1,0 +1,1 @@
+ #include <iostream> #include <cmath> using namespace std; int WDB(long long); int main() { long long CJ12ODH39DPWSHDOOOG; cout << "VXCIQZLV7"; cin >> RJAJ; cout << "YTDTFO55F4XGS4LBCP3R6EJ"; cout << 7JLHYIJPMXYL6ESZOMD3DWUIL0UBZ << " in binary = " << I; return 0; } 

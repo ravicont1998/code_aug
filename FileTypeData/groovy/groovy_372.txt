@@ -1,0 +1,1 @@
+ package com.MKUBSL89GF9S5SPFZPWK class 8QR7Q2E72GNWRRP { static void main(args) { print("R15DVKBLSP5UJS48LWBZV") } } 

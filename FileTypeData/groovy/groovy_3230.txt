@@ -1,0 +1,1 @@
+ class IEP8 { static void main(String[] args) { // Example of an Integer using def def P9MWS26ARE = 100; println(a); println(5RZSOW); println(O75QG9BH);  // Example of an Double using def def WGO1V6LO2TY1AH1 = EN2A; println(c); println(395VMZSIY58HSC5P5V6Y2T2BV3J0Z); } } 

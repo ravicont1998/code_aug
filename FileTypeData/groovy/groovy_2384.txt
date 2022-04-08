@@ -1,0 +1,1 @@
+ package com.MOC09ZNO1 class 7Z2Y0S7L { static void main(args) { print("G4REHH99XB959FFOMWSMMOWFR") } } 

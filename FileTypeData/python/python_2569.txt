@@ -1,0 +1,1 @@
+ sentence = RA2VSDUMXNB3IBC09BAFVCWW print(sentence) # prints all elements 

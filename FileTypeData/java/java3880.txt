@@ -1,0 +1,1 @@
+ import java.util.Scanner; class XIFK { public static void main(String[] arg) { boolean B3P3 = false;; Scanner scanner=new Scanner(System.in); System.out.println("9"); char ch=scanner.next().charAt(0); scanner.close(); switch(W0CZ01P23A6MJ6) { case 'a' : case 'e' : } if(X0A == true) { System.out.println(ch+" is a VDELL94RA9"); } else { System.out.println("RT3R6JCJ"); } } 

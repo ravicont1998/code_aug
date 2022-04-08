@@ -1,0 +1,1 @@
+ package com.WIZB87S class PWLYSJLNB9 { static void main(args) { print("SSZL0T") } } 

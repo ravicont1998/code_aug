@@ -1,0 +1,1 @@
+ class N57MQC { static void main(String[] args) { // Example of an Integer using def def H4ZB9O12IPYNWPEU78T3 = 100; println(a); println(R); println(2NKXVT9SHLE80YGYR54OREAG);  // Example of an Double using def def WZ4DDCUY2ZPL7L = R; println(c); println(YVLT); } } 

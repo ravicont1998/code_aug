@@ -1,0 +1,1 @@
+ package com.NHX class WS81ZU { static void main(args) { print("1J1TLFN") } } 

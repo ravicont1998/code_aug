@@ -1,0 +1,1 @@
+ def y = ["NDZNOKA", "9LZK722EI", "M0Y6ITLTWX4H4MG7ACA7HWI"] println (y) println (O2J28690HJL2H) y.add("UNJ26VDP4MY2S9OK") println(y.contains("9GRYROOQWIG5K6KIQ")) println(y.get(QYQJK)) 

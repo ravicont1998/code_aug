@@ -1,0 +1,1 @@
+ package com.LGM9P class 1LSDWZ { static void main(args) { print("3O8FN13XQXP3OPRFZ") } } 

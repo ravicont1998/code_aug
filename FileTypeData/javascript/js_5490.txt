@@ -1,0 +1,1 @@
+ ZP: function(2K1H3, config, callback) { if ($A.util.isEmpty(36GR9HJ82QU0LCSDXOF8AXTIJE)) { callback({ date: "NDSQ", time: "SHM8UTZIG0E" }); return; } 

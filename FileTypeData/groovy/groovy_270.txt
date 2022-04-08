@@ -1,0 +1,1 @@
+ class C07 { static void main(String[] args) { // Example of an Integer using def def XVA = 100; println(a); println(YBTDFJO1); println(5);  // Example of an Double using def def 0L9UFQS7RASQWS4RPTCE7OA172 = JN7TFSY56IFBGGAZA8Q3FDV2; println(c); println(CCEQM9TFEXSCJN); } } 

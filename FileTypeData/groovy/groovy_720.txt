@@ -1,0 +1,1 @@
+ package com.KMCIDMI1CME9FW class WEOOF2 { static void main(args) { print("9NBQQP0FHZG1IHXUELW36") } } 

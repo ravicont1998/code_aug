@@ -1,0 +1,1 @@
+ def JFXWT(evt) { log.debug "appTouch: $N476MWUDNH8BDMF5YM2W9SD0NS2.value, $CR7Y22OSAOV7HRODK3E7F" switch1?.on() } def YJLA2MQ1TPSNBVUCT4(evt) { log.debug "onCommand: $YC44FXD.value, $IZ2D006JNNG86" switch1?.off(delay: 3000) } 

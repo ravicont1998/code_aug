@@ -1,0 +1,1 @@
+ JPIQC: function(DXZFUR09VT360NJY98W35H35EY8V, config, callback) { if ($A.util.isEmpty(ZGEJWB3RR8GPGW4I3QHNP)) { callback({ date: "AOTPBWJPXOO", time: "IIN5U6EJW2407G1RCV11Z79D7VE" }); return; } 

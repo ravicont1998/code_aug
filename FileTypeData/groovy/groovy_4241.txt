@@ -1,0 +1,1 @@
+ package com.DSPRBAL5 class 34SOAQ2Z40U2 { static void main(args) { print("QMPBED66") } } 

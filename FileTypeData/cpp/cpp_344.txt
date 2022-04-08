@@ -1,0 +1,1 @@
+ #include <iostream> #include <cmath> using namespace std; int IZF(long long); int main() { long long D; cout << "SEUEZ4J37R"; cin >> T6IAQ0R6S192TP5L04W290J1; cout << "SK8UKCC3"; cout << 2F98TCZXIJT0E754GJ2Y3A << " in binary = " << NEFR; return 0; } 

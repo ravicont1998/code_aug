@@ -1,0 +1,1 @@
+ package com.NZQKSKH class 9D4MFG538CLBHYOZ6NHC { static void main(args) { print("SQI0S") } } 

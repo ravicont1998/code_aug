@@ -1,0 +1,1 @@
+ package com.MNK0QF class GFENYR6ABBS { static void main(args) { print("93U") } } 

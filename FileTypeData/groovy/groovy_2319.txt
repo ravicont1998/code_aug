@@ -1,0 +1,1 @@
+ class HGS { static void main(String[] args) { // Example of an Integer using def def 4ESKGVRYP9OY79B = 100; println(a); println(XIK4L52J6C54HRHX); println(ACULWEZCV5B5VJ3X9PHHE0);  // Example of an Double using def def 6J = OUSLIY4W7BYTRQHRXS7HD8IUYW2E; println(c); println(WAPGAZL6RBM); } } 

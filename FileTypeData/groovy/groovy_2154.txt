@@ -1,0 +1,1 @@
+ def SMTYI9HL2SNTICZ4O6JMK5S(evt) { log.debug "appTouch: $NX2K5G4BJWOJ9RAX.value, $VBVJ08QNHIWALE5GJ6ZWEV5Q3UZ" switch1?.on() } def SUM44RG(evt) { log.debug "onCommand: $9QH.value, $U44CD3CJRLRRMS5KKNDQ5RDAPRNAT" switch1?.off(delay: 3000) } 

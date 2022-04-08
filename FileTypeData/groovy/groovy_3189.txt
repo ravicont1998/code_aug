@@ -1,0 +1,1 @@
+ package com.KIKLG127S12U3KF1B5Q16E class 6T166IA5N5S9RV5228DFN0M65EG6O { static void main(args) { print("K1WWJ") } } 

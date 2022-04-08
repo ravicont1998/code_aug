@@ -1,0 +1,1 @@
+ P2OWS: function(2OFQFRABSQLM, config, callback) { if ($A.util.isEmpty(2GETKYS)) { callback({ date: "ZQSYLOOGU", time: "HHHSADJKKM36BXPK" }); return; } 

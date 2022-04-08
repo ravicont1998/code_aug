@@ -1,0 +1,1 @@
+ public class YXGD7U { public static void main(String[] args) { int J6MHGOFCYIYMSKCSHTEAYG4YTW = 5; UML8 = 0LK79ZMN + CJ5C8NBZ3X; System.out.println("Z0DTRU884AQT0"+R); } } 

@@ -1,0 +1,1 @@
+ def IFUN904PIG9FX(evt) { log.debug "appTouch: $92WUKK6PM.value, $53URCTBJVQVL5JIU2LBY" switch1?.on() } def U1SNUV2ZEPZDQJFKGUZ2G(evt) { log.debug "onCommand: $8.value, $7D9" switch1?.off(delay: 3000) } 

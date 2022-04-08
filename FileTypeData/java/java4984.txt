@@ -1,0 +1,1 @@
+ public class WWP4I8MXP3K2 { public static void main(String[] args) { int I8YPXFLD5YA = 5; X4GU20BTTPNGB0CM954QH2G4ZU3 = 1 + 2QAG0KIMIZN; System.out.println("ZZCDBVQQLXWILQ6FSOOIEFZ673XL"+4EX6V); } } 

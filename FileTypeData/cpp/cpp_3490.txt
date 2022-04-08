@@ -1,0 +1,1 @@
+ #include <iostream> #include <cmath> using namespace std; int FF8GFXHMQN4IPELQYKX0RWR(long long); int main() { long long V1MROMZ7NF6Y; cout << "LS"; cin >> TBBW5K1PF2MU; cout << "OWP7NLC0X2FNNXP1ZCSSFV68"; cout << 3N7MFH9SXOT2 << " in binary = " << DPCRJ1FC0I2PFD8JI; return 0; } 

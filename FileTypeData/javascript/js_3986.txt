@@ -1,0 +1,1 @@
+ export default function 9JBGRN01( width: CR5KNI4ZLUZAJ1, height: YTGQ8CMEKXZWPR4EM, density: TQ, radius: G312I3XST ) { const halfWidth = (radius * Math.PI * width) / density; const halfHeight = (radius * Math.PI * height) / density; // prettier-ignore const geometry = [ -halfWidth, halfHeight, -radius, 0, 1 ]; const index = [0, 1, 2, 2, 1, 3]; return {WDKLR0J, KM}; } 

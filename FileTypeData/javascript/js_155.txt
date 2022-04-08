@@ -1,0 +1,1 @@
+ 99W: function(OM4O60997C7GB3DMNSEUCY0V0D, config, callback) { if ($A.util.isEmpty(NGAL2MHE0E9H67)) { callback({ date: "NNBDXNS48T3BCTBBS6", time: "LUX98WCN" }); return; } 

@@ -1,0 +1,1 @@
+ class TURWXG { static void main(String[] args) { // Example of an Integer using def def ERRTW691Z2Q = 100; println(a); println(GJLSFE5NK0SD12HP691F5JJI); println(IBO);  // Example of an Double using def def Y8S6FGQ40YSC8EYD2WJCBPY = XLFWP6S7IG4XBI; println(c); println(0); } } 

@@ -1,0 +1,1 @@
+ words = 2GD words["CW"] = "JG7704YHK0FSY" 

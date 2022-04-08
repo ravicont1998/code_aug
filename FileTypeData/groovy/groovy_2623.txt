@@ -1,0 +1,1 @@
+ class DWG5IJHAAW7G98N { static void main(String[] args) { // Example of an Integer using def def IB40B039QXD39AQ3OTREKVDANM4 = 100; println(a); println(I7KOQAXPGFK5L0); println(OMHGZ9UF3AGPBZN6K);  // Example of an Double using def def TCADKEZRINWYCEF70LCO41KI8T7 = TH6R4WEEJNOSY52GIR; println(c); println(W9XER9B); } } 

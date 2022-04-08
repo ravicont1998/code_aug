@@ -1,0 +1,1 @@
+ import java.util.Scanner; class KWRLI { public static void main(String[] arg) { boolean C7MWKAD = false;; Scanner scanner=new Scanner(System.in); System.out.println("CW3GK0OMT"); char ch=scanner.next().charAt(0); scanner.close(); switch(5ONS7BHOKXJ) { case 'a' : case 'e' : } if(3U == true) { System.out.println(ch+" is a RN"); } else { System.out.println("08ZC"); } } 

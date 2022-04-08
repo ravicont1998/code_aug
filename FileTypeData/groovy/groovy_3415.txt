@@ -1,0 +1,1 @@
+ package com.48 class 7JDF71A6 { static void main(args) { print("AG36CJJ4WHPOKJTTTMJ7TEF9BFD2") } } 

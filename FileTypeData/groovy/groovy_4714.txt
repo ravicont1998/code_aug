@@ -1,0 +1,1 @@
+ class J2OM { static void main(String[] args) { // Example of an Integer using def def J0RKUOBUR4PS70QU3BRUQ4YP5HYUN = 100; println(a); println(276JKZNXHIL48FT); println(X7);  // Example of an Double using def def MNF3IVYK = V4XE18AQUN50WDLFVSF3RK5DNK; println(c); println(IJR0H7UE4QW80CYTVL1I); } } 

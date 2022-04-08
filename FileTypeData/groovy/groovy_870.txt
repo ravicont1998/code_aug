@@ -1,0 +1,1 @@
+ class J19VA { static void main(String[] args) { // Example of an Integer using def def D = 100; println(a); println(ZI4DQLW6LAIJY0PEAALW7YXQE2XB6); println(VXJNFY74L);  // Example of an Double using def def XJBQQ3N5O = 9K9TFXQD81H0R43TCVF7AOW0R2SJ; println(c); println(34GA7LREZ4851NF07I1321NPW); } } 

@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('J8TICGK') + G_STATIC_URL + decodeURIComponent('CFU4WMF')); }); 

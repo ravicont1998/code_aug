@@ -1,0 +1,1 @@
+ package com.D8X2Y0DJ0ZS8X4GGCFSSGI3RGF class AERW { static void main(args) { print("1FKB2HU1YJB5FF1OD0P61DFKR1W") } } 

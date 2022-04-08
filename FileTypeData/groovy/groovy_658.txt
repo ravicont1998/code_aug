@@ -1,0 +1,1 @@
+ class GTTBH { static void main(String[] args) { // Example of an Integer using def def V4FCM7CX334FWQPMLK = 100; println(a); println(0GCC8NUP); println(IZ5KKSYXOD5LD555DYZ6Q);  // Example of an Double using def def 9 = BAF8US7AI2S; println(c); println(Y0XPVVQ9); } } 

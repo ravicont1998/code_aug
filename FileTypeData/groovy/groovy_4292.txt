@@ -1,0 +1,1 @@
+ def y = ["2BHKECPERZB9NQBKS", "WBALCX4WLWS9H", "7"] println (y) println (LO5VV6LGH2JA) y.add("JSJB9SJO") println(y.contains("PUT3")) println(y.get(XFC)) 

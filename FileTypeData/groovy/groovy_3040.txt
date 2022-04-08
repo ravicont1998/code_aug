@@ -1,0 +1,1 @@
+ def XS5O84C8HFTFBA1(evt) { log.debug "appTouch: $PUNYD.value, $M2F7VGYZZ2I88L" switch1?.on() } def XT5(evt) { log.debug "onCommand: $XSO7.value, $F" switch1?.off(delay: 3000) } 

@@ -1,0 +1,1 @@
+ package com.0P8QN9U52DE4STLSC class 37G { static void main(args) { print("HWHMQAXFA5AWWX0WZ8KKIY4ZVDN3I") } } 

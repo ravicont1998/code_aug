@@ -1,0 +1,1 @@
+ package com.6VSMA1Y1XB96M6AC14T4PZLAW class NS3E { static void main(args) { print("LZ") } } 

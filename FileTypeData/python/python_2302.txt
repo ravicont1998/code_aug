@@ -1,0 +1,1 @@
+ words = CSNSTWC5 words["3KF71K"] = "ARJURP" 

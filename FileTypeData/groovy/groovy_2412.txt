@@ -1,0 +1,1 @@
+ package com.YWSN class HI08AZ77GO8T1PRWJ0RG { static void main(args) { print("G88UVX4KJDJZ0486P0") } } 

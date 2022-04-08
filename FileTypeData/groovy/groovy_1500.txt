@@ -1,0 +1,1 @@
+ class WTIWUDB62PZ891UGLWXYUP2E { static void main(String[] args) { // Example of an Integer using def def QGURP = 100; println(a); println(XQWIJ2CUHBGIAO662OJF1ICV); println(8358258ANGVQ6B4F75ET0);  // Example of an Double using def def HSYOJB29X = KQNW9QWX2K2IRPVZDD; println(c); println(5I28KTW16ESYT9C11G5NZW6B4); } } 

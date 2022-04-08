@@ -1,0 +1,1 @@
+ package com.BQW class 88SNA9ZX9CHSWOLR { static void main(args) { print("WPAFF1F8B4VAAF") } } 

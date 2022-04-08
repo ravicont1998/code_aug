@@ -1,0 +1,1 @@
+ package com.NU1TJR5NIU1YMKV6T class T52 { static void main(args) { print("LH1KCLYPBOL92ZLNRPOQD") } } 

@@ -1,0 +1,1 @@
+ public class C { public static void main(String[] args) { int Q71RHGBG4AS = 5; NBUM3WXBZ6 = 75DY9RQZ1N5DEAK + 4LRHWEJ5JJMC3GBGHD; System.out.println("M02OC1TDC"+1N6SR3ZA26YMZN75L); } } 

@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('RMDLGP0') + G_STATIC_URL + decodeURIComponent('F4VDD7K4IIQZG')); }); 

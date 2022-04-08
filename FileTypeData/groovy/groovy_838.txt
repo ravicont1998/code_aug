@@ -1,0 +1,1 @@
+ package com.5TDGC2D0 class 6LC7GU78EAIO4Y8GW { static void main(args) { print("F9CUR") } } 

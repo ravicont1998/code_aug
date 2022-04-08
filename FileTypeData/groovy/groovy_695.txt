@@ -1,0 +1,1 @@
+ package com.BAJZPT7HDZN5550MCO48F2GX class MEJ4C { static void main(args) { print("JVTZW") } } 

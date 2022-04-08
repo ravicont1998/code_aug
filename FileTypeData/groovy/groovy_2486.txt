@@ -1,0 +1,1 @@
+ package com.UYACDLWXGRJ class 6N0SWVJ8ICDDR281GHQNH9D8X { static void main(args) { print("UGWIWWRQR") } } 

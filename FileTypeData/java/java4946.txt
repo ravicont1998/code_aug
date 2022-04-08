@@ -1,0 +1,1 @@
+ public class 546Q80 { public static void main(String[] args) { int G7E2CWF7 = 5; UCDCNQH42Z8CC41IRDD6W4 = YVUPYXKVEZIP1Z2MCBNOEOY + N5ZESZE; System.out.println("FNFD54LQSFZPHE2"+BCEXVX23WGEV771SBZ); } } 

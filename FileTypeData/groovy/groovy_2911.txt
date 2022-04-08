@@ -1,0 +1,1 @@
+ def XP7YQQHZGC23Y70VITB(evt) { log.debug "appTouch: $K2OXBHBD9Y9CJ8CN77.value, $W6A0" switch1?.on() } def MTF(evt) { log.debug "onCommand: $Y7JT64P.value, $YIUM5YLU4IB1J4CU3" switch1?.off(delay: 3000) } 

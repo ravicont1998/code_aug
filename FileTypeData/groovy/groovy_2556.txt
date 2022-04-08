@@ -1,0 +1,1 @@
+ package com.MYYXWB86 class RKQPE0W { static void main(args) { print("TQRBTGQYFRM1XLZ3V6B1") } } 

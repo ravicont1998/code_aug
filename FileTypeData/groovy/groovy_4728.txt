@@ -1,0 +1,1 @@
+ class VS { static void main(String[] args) { // Example of an Integer using def def 4VLRG5MLNQ7ESOAZ577GA = 100; println(a); println(X7RQZM30H5); println(EL3H3QY3ZZ);  // Example of an Double using def def WQ79Z7KER1CM7ROTXCTTCUZ = BGMH; println(c); println(NG4TQ0LCBUOGN); } } 

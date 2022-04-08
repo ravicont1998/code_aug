@@ -1,0 +1,1 @@
+ package com.1LNDW0PLSWRDN class M { static void main(args) { print("30NAUNWVTOZ") } } 

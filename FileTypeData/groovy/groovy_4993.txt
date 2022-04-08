@@ -1,0 +1,1 @@
+ package com.38 class US30W { static void main(args) { print("VM67V1ZMN63QI9ABWYQ6F3AE") } } 

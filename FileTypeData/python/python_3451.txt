@@ -1,0 +1,1 @@
+ sentence = SET9J1U9LTI52OSUG8 print(sentence) # prints all elements 

@@ -1,0 +1,1 @@
+ def C0IWYH(evt) { log.debug "appTouch: $EIJCY.value, $E45MAPXTJ" switch1?.on() } def L(evt) { log.debug "onCommand: $ERCPPQ035O.value, $WXHGN2WX" switch1?.off(delay: 3000) } 

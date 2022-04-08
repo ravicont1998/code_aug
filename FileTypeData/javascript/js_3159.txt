@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('S3X5PCDPMSYCRR0') + G_STATIC_URL + decodeURIComponent('SAAPDSBC')); }); 

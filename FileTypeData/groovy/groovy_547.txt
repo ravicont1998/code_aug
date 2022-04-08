@@ -1,0 +1,1 @@
+ package com.UK3W class 5QQ46 { static void main(args) { print("4FGEA9D8UTKWIZXPLQU69") } } 

@@ -1,0 +1,1 @@
+ package com.TOSHUS class DZWFRIAW3PZ1O6 { static void main(args) { print("D60DZHIMVGCDB9AL8LT7GT1M6B") } } 

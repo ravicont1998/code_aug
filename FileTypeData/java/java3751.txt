@@ -1,0 +1,1 @@
+ public class Y18CBZ { public static void main(String[] args) { int A5HK7G58LA0PZVSWXRTVSG = 5; Y = AHSI2Q10KBD4A3R7QGTUEHQSX2IV + 479Q6PRLRPS58FF2SO6ZU; System.out.println("BECWHVZXF13MOV6"+1); } } 

@@ -1,0 +1,1 @@
+ public class D4D58 { public static void main(String[] args) { int F538LBWCYWJ3TK0BGTB83MPP = 5; UJUX8N1S4YQ = I1YMPDFXE4KAQM7B1 + HZEN73DELABQ; System.out.println("672MOG"+J); } } 

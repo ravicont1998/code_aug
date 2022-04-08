@@ -1,0 +1,1 @@
+ package com.IKNMOJEWPKUHOMSR4V87MEV4N class GIY26G8FY378S { static void main(args) { print("PH6FM") } } 

@@ -1,0 +1,1 @@
+ def NID(evt) { log.debug "appTouch: $2BE20S2AFY0PYO8LM4R68.value, $B5AQZN2ZLVOF630JWVMZRY" switch1?.on() } def URSRQFA0BXOF9UQ8KGG(evt) { log.debug "onCommand: $56AMZZ8DD.value, $TB3F4QK3UB778MRL9030H4BCCVCI" switch1?.off(delay: 3000) } 

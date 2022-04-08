@@ -1,0 +1,1 @@
+ package com.MA1T13YWP class U { static void main(args) { print("3RJVJBKVAA6Z4OI9286TRLMQ") } } 

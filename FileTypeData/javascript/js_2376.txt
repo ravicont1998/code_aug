@@ -1,0 +1,1 @@
+ LK47C4VG1FL4E1F4YXT2: function(5H9OAX1JL, config, callback) { if ($A.util.isEmpty(O9Q0Y)) { callback({ date: "PULS7UN3KAXBIRTUX28", time: "K34" }); return; } 

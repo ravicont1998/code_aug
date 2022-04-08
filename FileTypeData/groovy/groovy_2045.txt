@@ -1,0 +1,1 @@
+ package com.97Q5HG class G9FQVYXVTZQINFVH4F { static void main(args) { print("N") } } 

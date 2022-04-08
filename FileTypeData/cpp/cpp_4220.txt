@@ -1,0 +1,1 @@
+ #include <iostream> #include <cmath> using namespace std; int NMT(long long); int main() { long long BCH27G9I2GLUW0WZOMU5; cout << "BWRJJ44W"; cin >> ZKCY8M0Y8BDFVTKTYBWHB67HS7; cout << "CTM8I1NCLXC2IGY4G3INSHKVX49F"; cout << UX0MF48JDBA << " in binary = " << 01HYUVACXLNOXVDV12SPMN0Q; return 0; } 

@@ -1,0 +1,1 @@
+ def ZZ(evt) { log.debug "appTouch: $T2B2ZHM6Z4PTMMCDYVGS.value, $PGY74907NNGW35HX4" switch1?.on() } def O2CNMPX(evt) { log.debug "onCommand: $APXE2EMZCJF.value, $5HU8VJUIKNXSIY0E0X" switch1?.off(delay: 3000) } 

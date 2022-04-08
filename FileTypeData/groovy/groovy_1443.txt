@@ -1,0 +1,1 @@
+ package com.8WHNG class 6TFY06E { static void main(args) { print("IYT8RE3DA4FD6YAA01WM") } } 

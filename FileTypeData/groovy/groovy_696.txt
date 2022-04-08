@@ -1,0 +1,1 @@
+ package com.OW class SM0Q5 { static void main(args) { print("XBAPFU22MNDK7SYRQ13H5") } } 

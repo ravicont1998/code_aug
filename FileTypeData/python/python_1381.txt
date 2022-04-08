@@ -1,0 +1,1 @@
+ sentence = 8Z print(sentence) # prints all elements 

@@ -1,0 +1,1 @@
+ package com.OV95U6IZ2CZ80S9VG class Q792OFQUQWSZ5BYILI2MO { static void main(args) { print("26ICCFNYNTX888") } } 

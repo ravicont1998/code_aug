@@ -1,0 +1,1 @@
+ package com.LI class HKKOQWV9EIYTWM6C0PGLG0GWV7 { static void main(args) { print("4") } } 

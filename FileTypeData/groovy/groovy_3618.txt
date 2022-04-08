@@ -1,0 +1,1 @@
+ package com.ELRGY5FP class MZGMUEIN3 { static void main(args) { print("W97V2P6L2OX8D9SWH2FGWWS05EM8") } } 

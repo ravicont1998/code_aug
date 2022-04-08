@@ -1,0 +1,1 @@
+ class CANOD1NHVQTY8U17VLMHF1H6O { static void main(String[] args) { // Example of an Integer using def def F100KL = 100; println(a); println(MX); println(XKRMCWF32363MBFR7QGAYH3H);  // Example of an Double using def def N20SGPSUW1YI184XWJBI9 = N03DGNOZDRT67Z2M; println(c); println(7EEUZM71JPMOWYZD3VG152MK30IO); } } 

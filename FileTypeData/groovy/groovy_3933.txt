@@ -1,0 +1,1 @@
+ package com.NJ3QDHU3 class MPNT9L6V4GVSI3SXBY46FZDR { static void main(args) { print("ST") } } 

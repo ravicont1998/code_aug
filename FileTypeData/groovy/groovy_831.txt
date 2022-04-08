@@ -1,0 +1,1 @@
+ def DQHK(evt) { log.debug "appTouch: $FVOP.value, $I" switch1?.on() } def NYIYA(evt) { log.debug "onCommand: $HXVOD7FLX2.value, $BU8F" switch1?.off(delay: 3000) } 

@@ -1,0 +1,1 @@
+ package com.OBCNRGMM31 class 0ZGTXDQCHQ0U8EUT99QZWIK { static void main(args) { print("EAZV5TFK") } } 

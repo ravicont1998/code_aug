@@ -1,0 +1,1 @@
+ #include <iostream> #include <cmath> using namespace std; int MQ7CT(long long); int main() { long long JXEBAFK1USG8CEE015UHX; cout << "B7CIQ1RESPEWMJ"; cin >> UQJ45G1HGFDIFO0EBA4TJSZIH; cout << "RFAD9HCOPCX"; cout << G << " in binary = " << U5L3W0NFLZCAO1QYSSRA4S1V; return 0; } 

@@ -1,0 +1,1 @@
+#!/usr/bin/python name = input("QLRY7YVIZBV035EVH99H") print(name) 

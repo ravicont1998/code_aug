@@ -1,0 +1,1 @@
+ sentence = 0QE6HQH7Z86FSLF5JBH9TP08ACT print(sentence) # prints all elements 

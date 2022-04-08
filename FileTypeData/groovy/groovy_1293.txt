@@ -1,0 +1,1 @@
+ class DFNRH { static void main(String[] args) { // Example of an Integer using def def 3EODN4MWS8AV0XDY = 100; println(a); println(NJ6WRRXHJP8S); println(BCDE3KQD0NV43WPDT0Z69AZA);  // Example of an Double using def def 4BTT88DB9 = YKL55SKUQJIJR9JP2JNFJVZSYA5T; println(c); println(QEZLP64CA70YF8M); } } 

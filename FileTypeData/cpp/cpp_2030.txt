@@ -1,0 +1,1 @@
+ #include <iostream> #include <cmath> using namespace std; int 8NAFR(long long); int main() { long long 0GC55XHL0GCX; cout << "LY16L0HXQV7X89LSE4JLEFDZKOK8"; cin >> 6R6EQVX532ECYB685; cout << "TW5AR6MT5LFPEMYL"; cout << 9ZSZGU08UVHSIF7W1CPA << " in binary = " << 55OO5UESFHR44B; return 0; } 

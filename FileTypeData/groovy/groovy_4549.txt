@@ -1,0 +1,1 @@
+ class TSJTY96K17R7X { static void main(String[] args) { // Example of an Integer using def def ASML1QUR95AB0O9LJFERHJFGV = 100; println(a); println(757NCXNGHZDBYV0K); println(4I);  // Example of an Double using def def BFEABAWCD = 1TG8QIV8691ZIQUQ5MBBVI; println(c); println(673CWVESU7G882WDG); } } 

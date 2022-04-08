@@ -1,0 +1,1 @@
+ package com.0ECJZ class 8GVG6NJO { static void main(args) { print("IPBLXR") } } 

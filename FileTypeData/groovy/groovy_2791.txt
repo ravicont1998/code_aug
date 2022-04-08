@@ -1,0 +1,1 @@
+ package com.1FTPMJMEYERO748TJFM class 93WTID1QZU1N5RJDWQV9AE126X { static void main(args) { print("HND2HV") } } 

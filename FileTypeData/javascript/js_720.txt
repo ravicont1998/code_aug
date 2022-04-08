@@ -1,0 +1,1 @@
+ K: function(U010, config, callback) { if ($A.util.isEmpty(FNI4P)) { callback({ date: "8MI7GANU6", time: "8GJJT6DAISCN4I" }); return; } 

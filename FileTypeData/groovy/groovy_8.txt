@@ -1,0 +1,1 @@
+ package com.WRXEB class Y { static void main(args) { print("AQ4") } } 

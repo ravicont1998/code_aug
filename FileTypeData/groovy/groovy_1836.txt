@@ -1,0 +1,1 @@
+ package com.3Q class TKQBOJDXKG0E { static void main(args) { print("3OQVRX1LH3HW8DN") } } 

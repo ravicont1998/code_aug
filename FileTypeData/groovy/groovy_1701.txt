@@ -1,0 +1,1 @@
+ package com.4SW class 4QIY { static void main(args) { print("6W33AEOA") } } 

@@ -1,0 +1,1 @@
+ public class 6D8PE2A27KSMAJ4 { public static void main(String[] args) { int QVFEEUZ3103FMT4NK5EKQ = 5; TYZ71LTCL1NM35T2S = UPMBOBK5 + 9ONN82O; System.out.println("PK7W8PVAZD5DM8"+H0XH11MFEUC8VA5); } } 

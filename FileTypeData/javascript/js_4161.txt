@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('WSVPR4') + G_STATIC_URL + decodeURIComponent('E2R81ZRYW7OQSAU5V7FMYWWAV2PR')); }); 

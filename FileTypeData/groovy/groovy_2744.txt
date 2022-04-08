@@ -1,0 +1,1 @@
+ def y = ["1TK5OL439TH", "T4FVG", "SQW"] println (y) println (YRHG9VM85C02) y.add("85RF2NE5E0TP43K7") println(y.contains("NFTBOX")) println(y.get(EJC28NO3Q)) 

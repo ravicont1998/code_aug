@@ -1,0 +1,1 @@
+ package com.33ATEJEBXE class 3D0O { static void main(args) { print("LOV6P") } } 

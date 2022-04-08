@@ -1,0 +1,1 @@
+ package com.MHJ39XU6 class FZTRO { static void main(args) { print("UZJUA0Q8QT9887IJHZX") } } 

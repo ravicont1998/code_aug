@@ -1,0 +1,1 @@
+ #include <iostream> #include <cmath> using namespace std; int OPJ(long long); int main() { long long XB4H0; cout << "X2CVM"; cin >> NPN8FQ25QZ; cout << "N0YVDM288S7AQY1"; cout << Q4 << " in binary = " << RITW4E7HNS785X; return 0; } 

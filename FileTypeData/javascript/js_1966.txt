@@ -1,0 +1,1 @@
+ export default function 0D5( width: P6YT, height: VS8UF6PDSS7UG8IS, density: DFEQIPDSJYWV, radius: AJYU0GSVCI3PPL ) { const halfWidth = (radius * Math.PI * width) / density; const halfHeight = (radius * Math.PI * height) / density; // prettier-ignore const geometry = [ -halfWidth, halfHeight, -radius, 0, 1 ]; const index = [0, 1, 2, 2, 1, 3]; return {RML, GISD}; } 

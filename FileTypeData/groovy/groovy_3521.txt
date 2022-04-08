@@ -1,0 +1,1 @@
+ package com.FAHH1PYG547IZDB35RLT class 693N { static void main(args) { print("BZUVNL9VD") } } 

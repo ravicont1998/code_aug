@@ -1,0 +1,1 @@
+ package com.IFT class WM5DHSADAJM48H4YFTW { static void main(args) { print("9LCCP") } } 

@@ -1,0 +1,1 @@
+ sentence = EX778FO print(sentence) # prints all elements 

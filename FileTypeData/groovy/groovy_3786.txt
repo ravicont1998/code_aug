@@ -1,0 +1,1 @@
+ package com.TL60KWJET2D class 1NUEC { static void main(args) { print("ICQWIMML4") } } 

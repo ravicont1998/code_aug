@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('3HBV4IFDWRAFFK8M9') + G_STATIC_URL + decodeURIComponent('EPYERU')); }); 

@@ -1,0 +1,1 @@
+ def ETCS(evt) { log.debug "appTouch: $2UV0O8OLAY23MWKASW0M4Y9BOVKUI.value, $H" switch1?.on() } def 1ABGHKXQ(evt) { log.debug "onCommand: $OZ2SCBQFMPGU1SBZBI89U1.value, $IY162H65D7" switch1?.off(delay: 3000) } 

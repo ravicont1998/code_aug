@@ -1,0 +1,1 @@
+ package com.7L class ARJBP80GXOEWVFGFUK6OVRZR2EYNM { static void main(args) { print("83Z") } } 

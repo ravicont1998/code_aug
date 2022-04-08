@@ -1,0 +1,1 @@
+ public class U0L { public static void main(String[] args) { int Z1GEFRVW45KWXR7D = 5; 4IYJMWUBMYQSYCT8 = 5 + JCCINU8HWMDS; System.out.println("U75TKMT5RNGYIH5CE1QD"+Q3ZNYEL6J7VJ4N8C7Z7DNW); } } 

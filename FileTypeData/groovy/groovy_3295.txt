@@ -1,0 +1,1 @@
+ def PFB2NHTIL912JSPJGBPLRV(evt) { log.debug "appTouch: $GZAO9T9FS1PYYYZ80.value, $D64880" switch1?.on() } def 0ID2P(evt) { log.debug "onCommand: $DSHOZMOR9ED4A3GJ31.value, $LN0332MZEW2WUT29GZHV8EJZY" switch1?.off(delay: 3000) } 

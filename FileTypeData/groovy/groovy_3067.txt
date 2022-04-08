@@ -1,0 +1,1 @@
+ class 3NFTSUQT0PAF32M9V26LQVPT { static void main(String[] args) { // Example of an Integer using def def E7Z6ZDN6IZSQZRPXEQ = 100; println(a); println(FAWZYLPQK5MCNTJ9XJY74JRCCEV5); println(D5QN7M045LCJP);  // Example of an Double using def def JMI0JP0WV4MS41A6WJIF1CL66SUO = S2BM6BOL8W; println(c); println(F2K9); } } 

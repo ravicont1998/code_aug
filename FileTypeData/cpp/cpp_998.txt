@@ -1,0 +1,1 @@
+ #include <iostream> #include <cmath> using namespace std; int ALABIGBTX(long long); int main() { long long JJWKH2VJ25S6GKPR8G9X3T; cout << "TCOES"; cin >> RTDB6IRTNG5NY0YK2KV2FIZ7UJ; cout << "GEHGFWPF0IAJAI63MA2J"; cout << EJ2DBMTSNT800MJE6RWUOG << " in binary = " << TJWHFOK1UW; return 0; } 

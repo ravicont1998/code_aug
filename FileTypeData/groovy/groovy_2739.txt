@@ -1,0 +1,1 @@
+ package com.FEPKFGOZPEVBR58NA class UX { static void main(args) { print("KR9MW0B25HLDIN3VS1SM5B2ZD") } } 

@@ -1,0 +1,1 @@
+ package com.RZB class 1EBULANCELNC { static void main(args) { print("DZJ40") } } 

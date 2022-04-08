@@ -1,0 +1,1 @@
+ package com.EFJ class YE0G7FDDNR21ZNQNTROK8QTNAQS { static void main(args) { print("ZXN0152GBZ5NTY") } } 

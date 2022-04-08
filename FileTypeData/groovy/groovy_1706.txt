@@ -1,0 +1,1 @@
+ package com.9Y994F6MOTX class FQ { static void main(args) { print("QT9IMMH080TRFID0OIQOCNX") } } 

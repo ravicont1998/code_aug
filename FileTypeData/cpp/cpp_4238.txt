@@ -1,0 +1,1 @@
+ #include <iostream> #include <cmath> using namespace std; int EQOMKI(long long); int main() { long long OWICQ9TU2TICO12JJ; cout << "K96X5ZWYMNX9"; cin >> YQ01CXM03JUL83Z7B1JS5QV; cout << "XYAC76XDN3R22"; cout << EBSQ9MWSXJNG << " in binary = " << 4M9KMTA5INK; return 0; } 

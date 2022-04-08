@@ -1,0 +1,1 @@
+ package com.A class IT330ZD7ZT70VC88P5RDETPU02 { static void main(args) { print("T42Z18KOQW83JTK8FY8I8QJW") } } 

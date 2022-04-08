@@ -1,0 +1,1 @@
+ words = VBO06GQE7RHUMF0FW words["L570"] = "OCMCGHW" 

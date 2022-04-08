@@ -1,0 +1,1 @@
+ package com.2GCQFWQZN9GX9UX7TW9LL2BCK class 52OH23C5AF8TH841 { static void main(args) { print("RIFKE") } } 

@@ -1,0 +1,1 @@
+ sentence = 1FAWNSK22 print(sentence) # prints all elements 

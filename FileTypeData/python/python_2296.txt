@@ -1,0 +1,1 @@
+ sentence = WB750ZIPO17MI19GFXRP3 print(sentence) # prints all elements 

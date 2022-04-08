@@ -1,0 +1,1 @@
+ package com.MAGEUPFSB0QTQ76G class VKG86WUCN0UMUOC8N { static void main(args) { print("O1S17V5YKOBZE1QY") } } 

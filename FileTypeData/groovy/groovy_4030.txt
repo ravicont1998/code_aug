@@ -1,0 +1,1 @@
+ package com.5UOHKC0Q21PZK73ZQ class 9U7KVSD65LOTIYFLXXOGRQU4DG { static void main(args) { print("UFJDTWPCW") } } 

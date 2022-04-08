@@ -1,0 +1,1 @@
+ package com.B3H class KSTNMPAGP3D1OY05YD2P { static void main(args) { print("D3MWNS3C8RK9Z") } } 

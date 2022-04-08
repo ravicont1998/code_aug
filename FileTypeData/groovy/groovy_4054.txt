@@ -1,0 +1,1 @@
+ package com.JD1NT54YQDH3CG81A class PM3YJ2 { static void main(args) { print("TTXF3WM2MQO4HQ4TOS") } } 

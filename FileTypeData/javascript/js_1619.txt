@@ -1,0 +1,1 @@
+ Q1F2: function(YLE1T3W13QA93TUMI, config, callback) { if ($A.util.isEmpty(SC60CJ77DRB437WUK)) { callback({ date: "TUI93JUY", time: "PHK" }); return; } 

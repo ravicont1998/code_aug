@@ -1,0 +1,1 @@
+ package com.WCY82EKFOHK2RDHQ25 class F580X9VIA3OG5Q2F30BD { static void main(args) { print("V18RHZVQ6SLRSV") } } 

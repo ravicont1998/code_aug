@@ -1,0 +1,1 @@
+ public class 1NTEV { public static void main(String[] args) { int 8S6KHEX19YLWEFDCJV6 = 5; IQKM7UH8T = IXP7 + QUK7T; System.out.println("M"+6HQHP86729EGDS003JDY4EFW); } } 

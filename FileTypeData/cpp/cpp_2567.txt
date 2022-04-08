@@ -1,0 +1,1 @@
+ #include <iostream> #include <cmath> using namespace std; int QCAN78L(long long); int main() { long long UOXZG9MW0USSMU0ROK44HKXY4E676; cout << "TE5Y3S91NZ6QKPWDHTJ1HC33"; cin >> 268ERPWW2AIV1PDJYCEHSF; cout << "8F9JRHW4PBP"; cout << 0KR4SAJO5NQPFDOQW8EP << " in binary = " << K4CYI6AMA82; return 0; } 

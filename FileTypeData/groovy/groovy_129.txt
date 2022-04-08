@@ -1,0 +1,1 @@
+ package com.4KRF12PJU2MC3Q80 class 7VOF1 { static void main(args) { print("4KCPJ9AIHFVEU1ZFFJ56KW2DC54W") } } 

@@ -1,0 +1,1 @@
+ sentence = 2MAVA2FFDHMZZ4 print(sentence) # prints all elements 

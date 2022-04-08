@@ -1,0 +1,1 @@
+ package com.YUHKLLIWJ98GGZGM2G class D8UNOS { static void main(args) { print("9MDMQ") } } 

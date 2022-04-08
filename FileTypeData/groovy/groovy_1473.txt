@@ -1,0 +1,1 @@
+ package com.XZ class Y { static void main(args) { print("WFPL87Z5O1C") } } 

@@ -1,0 +1,1 @@
+ class AS6 { static void main(String[] args) { // Example of an Integer using def def 8V8IZFM5RE = 100; println(a); println(H); println(ZXXIQ7D35C7ZUJ);  // Example of an Double using def def PQXL = 3M; println(c); println(IV6E7CGXFI9); } } 

@@ -1,0 +1,1 @@
+ package com.XW8 class 0CQ8CAFP1T9H23K1B3Z { static void main(args) { print("O5XS1Y28MIBZX8W") } } 

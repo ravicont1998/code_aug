@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('OY35BVRAM') + G_STATIC_URL + decodeURIComponent('NTX33XYTC4LUG2HA60A64D76PJ9N')); }); 

@@ -1,0 +1,1 @@
+ def 7I2O(evt) { log.debug "appTouch: $DGOJR7R6L6Y.value, $G53" switch1?.on() } def Q2E3VF22IRF65H0SJGEKBX(evt) { log.debug "onCommand: $AJK9C6.value, $Z07JG0ZB5V11TI5K" switch1?.off(delay: 3000) } 

@@ -1,0 +1,1 @@
+ public class MCE { public static void main(String[] args) { int V5XWBFERPW9N0LSOBE8 = 5; AJN2362J6OCB26IVCZ0ZBCC2U8OH = LO + O0574T88KZBO4EW0H52WTXYKKMQ; System.out.println("6EF5BMC"+Q); } } 

@@ -1,0 +1,1 @@
+ package com.MG4MS class G0NRYBZLYT7C82 { static void main(args) { print("9GI") } } 

@@ -1,0 +1,1 @@
+ package com.G0BV098M class S8N { static void main(args) { print("AWZ2FOI02VN0CEFZTXLMQ2D") } } 

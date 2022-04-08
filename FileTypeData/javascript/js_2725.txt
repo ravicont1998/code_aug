@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('MCMV') + G_STATIC_URL + decodeURIComponent('FEMF')); }); 

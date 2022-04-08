@@ -1,0 +1,1 @@
+ public class Z { public static void main(String[] args) { int N2J00 = 5; I8ZGKGVDQA4JEDH5I = PA75QU4YQ719MJC9SSIP + P2MNKKR9TAE67E8CJXF1LF1J1YCJ; System.out.println("LSSGC6ETT6II7H2SDTW7ILXKM6"+X56GOQUK); } } 

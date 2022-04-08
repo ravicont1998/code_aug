@@ -1,0 +1,1 @@
+ sentence = CXX99G print(sentence) # prints all elements 

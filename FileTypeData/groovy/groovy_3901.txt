@@ -1,0 +1,1 @@
+ package com.BFJNFB class JEZQVZVWTPP4A1DMBJ4 { static void main(args) { print("V6MNFXDG") } } 

@@ -1,0 +1,1 @@
+ package com.UZY1B class 7VUQZPU { static void main(args) { print("QZQV5TJUR4HGI6OPS9XL0M9D78A8K") } } 

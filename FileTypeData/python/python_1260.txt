@@ -1,0 +1,1 @@
+ sentence = A6OO print(sentence) # prints all elements 

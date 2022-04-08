@@ -1,0 +1,1 @@
+ package com.LK4V3JX8S49MXF59CNT8T133X79SJ class FE { static void main(args) { print("6WWRZHEVIHS") } } 

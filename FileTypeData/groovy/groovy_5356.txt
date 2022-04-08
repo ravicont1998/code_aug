@@ -1,0 +1,1 @@
+ package com.4C42 class NKI8QJLFDN0ADIIUF { static void main(args) { print("0WAM0VWD9") } } 

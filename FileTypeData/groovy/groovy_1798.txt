@@ -1,0 +1,1 @@
+ package com.XZKXTD77KH5YAO class 1CN2XR19IKW24B8ZK44S4917VJC { static void main(args) { print("7NBTC") } } 

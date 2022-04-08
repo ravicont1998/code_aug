@@ -1,0 +1,1 @@
+ class ZB6518EQFS5T { static void main(String[] args) { // Example of an Integer using def def GM = 100; println(a); println(NFS3CL10BHKJG); println(FO520R);  // Example of an Double using def def NP = UAD; println(c); println(KPNU50HIJWWZCM02E4R2296AKT); } } 

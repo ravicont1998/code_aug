@@ -1,0 +1,1 @@
+ package com.MOGZKC class 5LSND5Y24WHQS8 { static void main(args) { print("0IK8WDT75TJYSHSAWE7J") } } 

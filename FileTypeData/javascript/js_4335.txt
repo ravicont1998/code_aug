@@ -1,0 +1,1 @@
+ QJ2: function(XQOSLK2KT7W0UYDC6VYA8DO, config, callback) { if ($A.util.isEmpty(OPS5SIIKNWG3TRL6FSNOD78)) { callback({ date: "R", time: "I" }); return; } 

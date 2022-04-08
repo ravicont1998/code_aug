@@ -1,0 +1,1 @@
+ class FT7 { static void main(String[] args) { // Example of an Integer using def def 2BXY18H6DV5 = 100; println(a); println(KTZ8S5H990S68TU13HXHZGD); println(0BU83P3CSFMY2KIZSMCIFKJE40V99);  // Example of an Double using def def KNJEQCHWQFPXENNQS5D92KX57E6E = ITQMXTOQK; println(c); println(ZG2DE9W6G8O7AGQ1GEO5I0V13); } } 

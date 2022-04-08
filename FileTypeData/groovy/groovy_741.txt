@@ -1,0 +1,1 @@
+ package com.3YJ3AKIOR2ZDODWU8UVU8GICUY8K class QT25DER { static void main(args) { print("1T2TJS") } } 

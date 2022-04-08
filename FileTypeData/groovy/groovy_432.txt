@@ -1,0 +1,1 @@
+ package com.MT class 9P1S82MK666XZ4A8ZOQCQIG { static void main(args) { print("I") } } 

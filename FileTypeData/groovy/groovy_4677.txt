@@ -1,0 +1,1 @@
+ package com.CSZT class Q { static void main(args) { print("VMI02") } } 

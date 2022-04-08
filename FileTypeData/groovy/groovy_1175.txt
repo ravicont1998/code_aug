@@ -1,0 +1,1 @@
+ package com.3CKID class U2GAZSF { static void main(args) { print("88Z2RE3U9PKK817O7DK1U7BCPY048") } } 

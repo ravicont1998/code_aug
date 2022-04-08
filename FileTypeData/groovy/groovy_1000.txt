@@ -1,0 +1,1 @@
+ package com.VS2DOVIKTQC2MHA8FE6YMRL64TY class L { static void main(args) { print("YXQ8D") } } 

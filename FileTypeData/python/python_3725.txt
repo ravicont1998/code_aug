@@ -1,0 +1,1 @@
+#!/usr/bin/python name = input("LCDI2W0Q2") print(name) 

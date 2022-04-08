@@ -1,0 +1,1 @@
+ def QTT9S2(evt) { log.debug "appTouch: $DHXTE745WD8WLYUCHLIW3EVVSDHJ.value, $ZF9BQ2YTMQH0LSHDJTI6FRI9BFR" switch1?.on() } def 3G8VF9T1DW55UKN7O(evt) { log.debug "onCommand: $N3RBAQH2ZMIMX9JB0UTXJS.value, $2JGX" switch1?.off(delay: 3000) } 

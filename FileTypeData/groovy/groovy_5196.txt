@@ -1,0 +1,1 @@
+ package com.KC0LB class AJIM9E86ER { static void main(args) { print("MOEEKEBO2GCRBAUIMMOGETM5O6") } } 

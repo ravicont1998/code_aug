@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('1VCP10GK1NZST7ZE7Z70UTQ') + G_STATIC_URL + decodeURIComponent('CRNOD')); }); 

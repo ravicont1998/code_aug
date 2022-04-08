@@ -1,0 +1,1 @@
+ import java.util.Scanner; class F5PQJ1QC { public static void main(String[] arg) { boolean 098KD52 = false;; Scanner scanner=new Scanner(System.in); System.out.println("8ES7D6D2EVV2PWKH"); char ch=scanner.next().charAt(0); scanner.close(); switch(L5) { case 'a' : case 'e' : } if(GN == true) { System.out.println(ch+" is a XN15SYZ"); } else { System.out.println("2W"); } } 

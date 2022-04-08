@@ -1,0 +1,1 @@
+ def A6B9MIF5XL5IFP1VR(evt) { log.debug "appTouch: $QQ6AEDTHOS06NCFYXV5HWQPX2AW.value, $1KBRMQHFY0FYS3HNJ4T1MX89F57F" switch1?.on() } def OGGW(evt) { log.debug "onCommand: $O6KY4AOCFHLB0LVLKVXBEWQCWXZZB.value, $6PWRWJNTAZ18" switch1?.off(delay: 3000) } 

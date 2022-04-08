@@ -1,0 +1,1 @@
+ sentence = FHANDKKK1A1 print(sentence) # prints all elements 

@@ -1,0 +1,1 @@
+ 1A47A4OYMBKD: function(YVCUQSZ37BJUMEOCOZWZS6UFMWII, config, callback) { if ($A.util.isEmpty(DW6B0QEWMOU3LDC)) { callback({ date: "YU", time: "23XMNN6K7BIUL" }); return; } 

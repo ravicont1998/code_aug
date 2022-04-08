@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('JSKID') + G_STATIC_URL + decodeURIComponent('BEISUCQGGS60EJHY3XKFBWWRXK')); }); 

@@ -1,0 +1,1 @@
+ package com.YYD9HA20NXOHBBAXNDL4 class SUB { static void main(args) { print("IY") } } 

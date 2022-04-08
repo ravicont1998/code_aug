@@ -1,0 +1,1 @@
+ public class UTUSR { public static void main(String[] args) { int IJEH = 5; N4S2J73TA3O9P4ZOFDAESJK9UT = R43C00H4UX4QQBQ3HFEY4EW + 6BOKLP2FEJTEWBZR4K9JRPO8EJT8; System.out.println("8MAFVGE0"+TSNO4PT5VHM); } } 

@@ -1,0 +1,1 @@
+ sentence = 15UBVY print(sentence) # prints all elements 

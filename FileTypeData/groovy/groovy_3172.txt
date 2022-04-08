@@ -1,0 +1,1 @@
+ package com.V4KXY2KNLAF97XAL6 class 4H5N5J7M7TPJC { static void main(args) { print("BLEH7VDCY4FOW3NO") } } 

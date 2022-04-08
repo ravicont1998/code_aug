@@ -1,0 +1,1 @@
+ export default function VTJCGU( width: FOHVX6H03474RDRI900FZQP8MBWJN, height: T6BPGZM0885DC, density: QV, radius: C ) { const halfWidth = (radius * Math.PI * width) / density; const halfHeight = (radius * Math.PI * height) / density; // prettier-ignore const geometry = [ -halfWidth, halfHeight, -radius, 0, 1 ]; const index = [0, 1, 2, 2, 1, 3]; return {PB, Y6MWHL8M69M}; } 

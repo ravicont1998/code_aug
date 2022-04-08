@@ -1,0 +1,1 @@
+ class QTKFAIT24BXMED { static void main(String[] args) { // Example of an Integer using def def YX3XDF8Z = 100; println(a); println(81H0Y8LAYJ6EMIE6QRXQ47CRZTKW7); println(YB6U5WR1L02T2TQ9Q0M3XZVX);  // Example of an Double using def def 68KIIVS0A5SHYNCM81F = 3QOO77T0VB; println(c); println(U577KY224YNW0NR6MEQ3WCOECK6BU); } } 

@@ -1,0 +1,1 @@
+ class OHHRBD { static void main(String[] args) { // Example of an Integer using def def 42SBUXZMHM = 100; println(a); println(IOZ7ZSX); println(ADLY9KVELFXVF4X0ZDKVC8DH0);  // Example of an Double using def def Y0QSHJXUZ4UTU = 5R; println(c); println(E2YHV8IGNM88N5C0NXUKLLR6); } } 

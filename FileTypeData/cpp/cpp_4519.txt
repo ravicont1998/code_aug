@@ -1,0 +1,1 @@
+ #include <iostream> #include <cmath> using namespace std; int KRA(long long); int main() { long long NI09SKST91225Z5XR00QTNRJFI; cout << "AHUYZXNNUSR9XBGA"; cin >> A9MSTSBKI2VPTP89O4QALAFY8; cout << "VFNUOWDCD6DR7"; cout << VNP2Y4O << " in binary = " << F1E0DCO52OFPB9EEG7AOLM92O2; return 0; } 

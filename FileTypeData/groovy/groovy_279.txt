@@ -1,0 +1,1 @@
+ package com.BC5SL5SXL class 0NSIAEKZETXC { static void main(args) { print("SOSXW6D7WIXLOFMJQD") } } 

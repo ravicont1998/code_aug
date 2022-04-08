@@ -1,0 +1,1 @@
+ package com.1DQLHAUUNQQQ3FCHUEKSXZ12 class MRO09G6OG09UQN34X60 { static void main(args) { print("PNG3HRZIYJIY5") } } 

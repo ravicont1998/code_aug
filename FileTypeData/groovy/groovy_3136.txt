@@ -1,0 +1,1 @@
+ class DB46O4 { static void main(String[] args) { // Example of an Integer using def def Z210CH75S05ZO9Z3 = 100; println(a); println(J1M9BZRG9K9RHUNXC1); println(1);  // Example of an Double using def def LOJ5FTBW87VD9G3MKBA9KRO2F4CK = 0DYY1C7A94294XSWI67CN6F; println(c); println(WIFZC3920JENSXA9PKLW); } } 

@@ -1,0 +1,1 @@
+ class OB { static void main(String[] args) { // Example of an Integer using def def 9IXSELBJH80EV12MW = 100; println(a); println(RQHQ1QWFJVNIBZQ); println(W);  // Example of an Double using def def JT7LGI8OQMT7DTP19PG6SCLN3NX = 3PZ6BUK22EW8CTWF16RE2M; println(c); println(NGD23NZ2QYDJRWN7Y2F8); } } 

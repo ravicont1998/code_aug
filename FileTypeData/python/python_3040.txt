@@ -1,0 +1,1 @@
+ name = "RX9YS5XFT6BJGDCKCLAZ3M743D33E" print(name) print(name[0]+ name[1].upper()) 

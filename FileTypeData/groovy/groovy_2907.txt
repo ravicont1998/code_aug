@@ -1,0 +1,1 @@
+ package com.4GA1MKNRIA3JW class ASM27ACXSDRMAY7 { static void main(args) { print("3WCFMIZ") } } 

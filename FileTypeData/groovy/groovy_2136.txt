@@ -1,0 +1,1 @@
+ package com.HGABYMCEHYRJS3VRL3RX9LAWS class JWTQLW64P { static void main(args) { print("N4UHA3L4DDDRBOOKQ4JWR2") } } 

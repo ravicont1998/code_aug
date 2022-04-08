@@ -1,0 +1,1 @@
+ public class G { public static void main(String[] args) { int Z3YALKQHB4HHGHERMKHF = 5; G0CQBL90Z4NYZ0I69HPFXNJ = U4UT2A2IL0N60IM + VSNNCZN74FIJNFEW2YBZR56B; System.out.println("OSDI"+ZSBXUDT59DVOHATRO); } } 

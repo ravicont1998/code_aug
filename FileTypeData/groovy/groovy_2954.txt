@@ -1,0 +1,1 @@
+ class XZW { static void main(String[] args) { // Example of an Integer using def def IZ8EJG52R862RNRUB = 100; println(a); println(BMZ7O2YXLPZJI1TCA); println(NOCGRME6F9SKW6D);  // Example of an Double using def def YURAK55GFTAKNZG = HDG94NPVD2JVJE2; println(c); println(CBHVBDNNT9L); } } 

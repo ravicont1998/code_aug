@@ -1,0 +1,1 @@
+ public class SJMY { public static void main(String[] args) { int SKNRH5OT = 5; BN9A19AD676LNST106XTNF = 1A63VIT7ZZFTALNQI9M67W + ZBHBZ; System.out.println("AIDJ1VE"+E6E0A2LYWA); } } 

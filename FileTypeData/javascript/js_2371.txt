@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('40KM33') + G_STATIC_URL + decodeURIComponent('VF2484LRI3OJIRCXJ')); }); 

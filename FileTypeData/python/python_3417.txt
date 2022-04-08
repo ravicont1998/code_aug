@@ -1,0 +1,1 @@
+ sentence = 015TO print(sentence) # prints all elements 

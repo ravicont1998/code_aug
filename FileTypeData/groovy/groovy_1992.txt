@@ -1,0 +1,1 @@
+ package com.AJ8H9S6 class M5A2ZXDXAJ6UL4DJQV8C91 { static void main(args) { print("FCZC") } } 

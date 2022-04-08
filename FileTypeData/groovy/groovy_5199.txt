@@ -1,0 +1,1 @@
+ package com.I8FAEX48PNA0MJ7WD class I24PROFMOQUR635UWL1 { static void main(args) { print("OQ6FJ5J") } } 

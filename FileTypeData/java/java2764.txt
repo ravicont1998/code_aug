@@ -1,0 +1,1 @@
+ import java.util.Scanner; class 34 { public static void main(String[] arg) { boolean 6YCGWXLNS7 = false;; Scanner scanner=new Scanner(System.in); System.out.println("D1"); char ch=scanner.next().charAt(0); scanner.close(); switch(UY0A3YD7UPBNGO2KZ5) { case 'a' : case 'e' : } if(Y == true) { System.out.println(ch+" is a LW7"); } else { System.out.println("WNSJQHLT"); } } 

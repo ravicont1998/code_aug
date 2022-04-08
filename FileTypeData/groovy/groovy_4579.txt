@@ -1,0 +1,1 @@
+ class BLD0LE37ZI6KLYD1105D3ZS7J4OX { static void main(String[] args) { // Example of an Integer using def def TJHM = 100; println(a); println(5Q); println(K0G0ZIE1IY0KXUOG4X);  // Example of an Double using def def IKDCYYDA62 = 5X; println(c); println(NJM29); } } 

@@ -1,0 +1,1 @@
+ package com.ZY40 class CSUWKWP8WXTK1MMZSVRUJT { static void main(args) { print("18RZ9LH6JHWBC4YKGJAZ9TM") } } 

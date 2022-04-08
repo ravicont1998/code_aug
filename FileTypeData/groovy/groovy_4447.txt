@@ -1,0 +1,1 @@
+ def ZETFA(evt) { log.debug "appTouch: $EGXNUSJUKXO6XICCA3WS4.value, $HI2" switch1?.on() } def X6TOB1ZGS(evt) { log.debug "onCommand: $B0Y7J8HT2V739QIHV4BI5.value, $VO9NW99" switch1?.off(delay: 3000) } 

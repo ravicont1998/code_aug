@@ -1,0 +1,1 @@
+ class Z { static void main(String[] args) { // Example of an Integer using def def JJN8PYT4TB = 100; println(a); println(XXXYB56YV2N); println(CN1FJE);  // Example of an Double using def def Y84YVT5TQTD1AALJ = 2NZA3PIGZC; println(c); println(A71); } } 

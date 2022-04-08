@@ -1,0 +1,1 @@
+ public class W { public static void main(String[] args) { int HGI9 = 5; NBA3WO4LZDKDIK9 = M3NMJC5S75 + JIKHM4386MFXTUWLQUTIRE8; System.out.println("SIG54SG3BUD7TWKR9YWOI96RN0"+ALAPS2VDZMND13Q4QO5Z4LLTG6); } } 

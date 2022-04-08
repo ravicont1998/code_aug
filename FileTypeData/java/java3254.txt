@@ -1,0 +1,1 @@
+ import java.util.Scanner; class YL08 { public static void main(String[] arg) { boolean 4O = false;; Scanner scanner=new Scanner(System.in); System.out.println("2V4QT41"); char ch=scanner.next().charAt(0); scanner.close(); switch(AMD5) { case 'a' : case 'e' : } if(KSP7BX6MI8VWPNV2 == true) { System.out.println(ch+" is a 4XPB"); } else { System.out.println("4SSG7D3ST6"); } } 

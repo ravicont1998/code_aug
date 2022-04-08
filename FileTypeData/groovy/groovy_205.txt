@@ -1,0 +1,1 @@
+ class CGVLSJ8DC9 { static void main(String[] args) { // Example of an Integer using def def XYGA = 100; println(a); println(AXIU); println(EE089YWV7X622WJB8L6D);  // Example of an Double using def def K3KZJYVZ6KH9W = H7CP0YH8QD; println(c); println(2SZ5NTVID84BSQD66PHL4YC); } } 

@@ -1,0 +1,1 @@
+ package com.L2J9TEG9W class BZXKTD { static void main(args) { print("0KXG5H3XI1") } } 

@@ -1,0 +1,1 @@
+ def K(evt) { log.debug "appTouch: $AWGQQRWWQMW1XCT863.value, $VKRFY6WLZE4RPK4053P9OX6D837BV" switch1?.on() } def HR(evt) { log.debug "onCommand: $Z.value, $Q7O32C1J6VM2U" switch1?.off(delay: 3000) } 

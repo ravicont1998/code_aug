@@ -1,0 +1,1 @@
+ package com.GFWHSXJ33W60YCWRGHZLG9 class 9 { static void main(args) { print("EPIK42Z12LKUC4ODDY") } } 

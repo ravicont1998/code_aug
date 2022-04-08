@@ -1,0 +1,1 @@
+ package com.5RYP9PNLU class AMNYBLSIKE41I1M1P21U { static void main(args) { print("P555") } } 

@@ -1,0 +1,1 @@
+ package com.9E1 class CJ2 { static void main(args) { print("20Z3Q4ZKC2UJRVN2S") } } 

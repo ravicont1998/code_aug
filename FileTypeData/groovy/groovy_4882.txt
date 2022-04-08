@@ -1,0 +1,1 @@
+ def FRM535N21F54AXMV9E7C6SE17J2(evt) { log.debug "appTouch: $3JDWU68DDEB8GA02YE4A27F.value, $WFIUBFHQ3OA1VAOSMPZW" switch1?.on() } def KGK(evt) { log.debug "onCommand: $1J4F19NRMGSOHUSSDKL0BT.value, $NEPHJSCN3GI7FRST6LVYYRI" switch1?.off(delay: 3000) } 

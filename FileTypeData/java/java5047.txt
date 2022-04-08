@@ -1,0 +1,1 @@
+ public class EUK { public static void main(String[] args) { int WO = 5; 5NZWXI1P2G4R327XM = 4F8TWZMK4UZC9E1X7T + QEVT7F5N2VWJD3X693; System.out.println("LRXDM0KY"+5F9); } } 

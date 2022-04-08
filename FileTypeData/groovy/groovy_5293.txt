@@ -1,0 +1,1 @@
+ package com.W98GK8COZFKP class BP7PAAR2Z48NIL7NJ94 { static void main(args) { print("Q9") } } 

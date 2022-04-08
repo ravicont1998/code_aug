@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('DTS4MMDJPQZKMYYTO3Z3X') + G_STATIC_URL + decodeURIComponent('WMDVDKLBO1FWH0')); }); 

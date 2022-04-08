@@ -1,0 +1,1 @@
+ package com.75I5UB2UTBCSVHG05JIVAV class U8 { static void main(args) { print("KCHFQDDL9R0MVGD8APCNIAMD7") } } 

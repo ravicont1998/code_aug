@@ -1,0 +1,1 @@
+ class XIW4CD { static void main(String[] args) { // Example of an Integer using def def LSNB9XT2ICAHBC3F0FLIX47 = 100; println(a); println(DO0L8Z7ZC4EHA04WMZMZK6OWPSX); println(68FG);  // Example of an Double using def def FYEPKRL8 = R4VH837VZP; println(c); println(L996W0SGHQ3G9); } } 

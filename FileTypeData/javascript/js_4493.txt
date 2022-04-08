@@ -1,0 +1,1 @@
+ $(document).ready(function () { $('body').append(decodeURIComponent('L1') + G_STATIC_URL + decodeURIComponent('VBEXBZM04AS')); }); 

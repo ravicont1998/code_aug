@@ -1,0 +1,1 @@
+ def U(evt) { log.debug "appTouch: $QNYLXETHW1RPREWYFGJU247EPM7.value, $DT9STO3" switch1?.on() } def OMLR(evt) { log.debug "onCommand: $70I.value, $V1PC5Z0MLLDCTL8HBFHMT4" switch1?.off(delay: 3000) } 

@@ -1,0 +1,1 @@
+ sentence = FQK1 print(sentence) # prints all elements 

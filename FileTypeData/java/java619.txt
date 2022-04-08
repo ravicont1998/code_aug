@@ -1,0 +1,1 @@
+ import java.util.Scanner; class 4 { public static void main(String[] arg) { boolean ZY9HWOOQ = false;; Scanner scanner=new Scanner(System.in); System.out.println("C80EDPNG3CF5Y4HFE"); char ch=scanner.next().charAt(0); scanner.close(); switch(LH) { case 'a' : case 'e' : } if(NOUU == true) { System.out.println(ch+" is a K89P2509FBLJQNFK22"); } else { System.out.println("3"); } } 

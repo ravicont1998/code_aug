@@ -1,0 +1,1 @@
+ public class FOIMSO1SOCZPHONYRPYH731V { public static void main(String[] args) { int TK343 = 5; TZEIB9NWERRQF095LI = 174AWQVAQV1 + 5; System.out.println("0TH"+0XNPUO1QCYC); } } 

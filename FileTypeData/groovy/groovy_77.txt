@@ -1,0 +1,1 @@
+ package com.HE5Q1WQKDIQIORD41HB6FW7HHY class F5CO0MB12A2YHV0PZ5OPL4DDO8K9D { static void main(args) { print("CAT2U") } } 

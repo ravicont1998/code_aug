@@ -1,0 +1,1 @@
+ def LLOC(evt) { log.debug "appTouch: $PO3XP18W.value, $VKFBW51" switch1?.on() } def E(evt) { log.debug "onCommand: $8ORAICCY5ZCU0B3PCRT8U347XD.value, $5FZE67P4" switch1?.off(delay: 3000) } 
